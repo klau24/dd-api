@@ -56,9 +56,26 @@ Example call: `/api/bill/TX_20170HB3781`
 }
 
 ```
-### Video
+
+#### `GET /api/bill/speakerParticipation/bid`
+
+
+#### `GET /api/bill/video/bid`
+
+
+#### `GET /api/bill/video/transcript/bid`
 
 ### Organization
 
+#### `GET /api/org/oid`
+
 ### Gifts & Behest
+
+#### `GET /api/gift/[...]`
+
+(params are tbd)
+
+#### `GET /api/behest/[...]`
+
+(params for this call is TBD)
 
