@@ -1,6 +1,11 @@
 import dbConnect
 import myCredentials
+from flask import Flask
 
+app = Flask(__name__)
+
+@app.route('/api/bill/<bid>')
+# think about combining billSummary, billPresenter, and billWitnesses into one call
 def billSummary(bid):
     # TODO: need video link and time
     res = {"status": 404, 'data': {} }
@@ -22,6 +27,7 @@ def billSummary(bid):
 def billPresenter(bid):
     pass
 
+@app.route('/api/bill/witnesses/<bid>')
 def billWitnesses(bid):
     # TODO: need witness position
     res = {"status": 404, 'data': {} }
@@ -41,6 +47,7 @@ def billWitnesses(bid):
             count += 1
     return res
 
+@app.route('/api/bill/org/alignment/<bid>')
 def billOrgAlignment(bid):
     res = {"status": 404, 'data': {} }
     query = "select Organizations.name, WitnessList.position \
@@ -84,20 +91,52 @@ def billVoteSummary(bid):
     return res
 
 def billVideoTranscript(bid):
+    # utterance table
+    # process to neo4j
+    # only grab where current = 1 and finalized = 1
+
+    # given a bill, get all the utterances from the hearing. Utterances should be linked to a person
+    pass
+
+def billVideo(bid):
+    # Video table
+    pass
+
+def billSpeakerParticipation(bid, cutoff):
+    # create pie chart data with transcript data
+    # participationType: party, personType, etc...
+    # experiment with comparing different participationType (use some sort of similarity rating)
+    # cutoff is min speaker participation int
     pass
 
 def billRelatedImages(bid):
     pass
 
+def getOrg(id):
+    pass
+
+def getOrgConcept():
+    pass
+
+def getBehest():
+    # params: lawmaker, org (payer), org (recipient), chamber, timeLimitation, session, time frame, 
+    # Behest: A lawmaker requests a favor from an organization to donate a certain $ to another org
+    #   - figure out who gave the money to who
+    #   - aggregate by how many request to an org
+    pass
+
+def getGift():
+    pass
+
 if __name__ == "__main__":
     sql_dddb = dbConnect.create_connection(myCredentials.sql_dddb.hostname, myCredentials.sql_dddb.username, myCredentials.sql_dddb.password, myCredentials.sql_dddb.dbname)
-
-    res = billSummary("CA_201720180AB569")
-    print(res)
-    res = billWitnesses("TX_20170HB3781")
-    print(res)
-    res = billOrgAlignment("TX_20170HB3781")
-    print(res)
-    res = billVoteSummary("TX_20170HB3781")
-    print(res)
+    app.run(port=5000)
+    # res = billSummary("CA_201720180AB569")
+    # print(res)
+    # res = billWitnesses("TX_20170HB3781")
+    # print(res)
+    # res = billOrgAlignment("TX_20170HB3781")
+    # print(res)
+    # res = billVoteSummary("TX_20170HB3781")
+    # print(res)
     sql_dddb.close()

@@ -1,6 +1,6 @@
 from neo4j import GraphDatabase
 import dbConnect
-import csv
+import myCredentials
 
 class Neo4jDDDB:
 
@@ -31,15 +31,25 @@ class Neo4jDDDB:
             committee = session.execute_write(self._create_and_return_Committee, cid, house, name, type, state, short_name, room, phone, fax, session_year)
             print(committee)
     
-    def addHearing(self, dr_id, cid, hid):
+    def addCommitteeHearing(self, dr_id, cid, hid):
         with self.driver.session() as session:
-            hearing = session.execute_write(self._create_and_return_Hearing, dr_id, cid, hid)
+            hearing = session.execute_write(self._create_and_return_CommitteeHearing, dr_id, cid, hid)
+            print(hearing)
+    
+    def addHearing(self, hid, date, state, type, session_year):
+        with self.driver.session() as session:
+            hearing = session.execute_write(self._create_and_return_Hearing, hid, date, state, type, session_year)
             print(hearing)
     
     def addOrganization(self, oid, name, city, stateHeadquartered):
         with self.driver.session() as session:
             org = session.execute_write(self._create_and_return_Org, oid, name, city, stateHeadquartered)
             print(org)
+    
+    def addBill(self, bid, type, number, billState, status, house, state):
+        with self.driver.session() as session:
+            bill = session.execute_write(self._create_and_return_Bill, bid, type, number, billState, status, house, state)
+            print(bill)
 
     @staticmethod
     def _create_and_return_Lobbyists(tx, pid, last, first, middle, filer_id, state):
@@ -95,12 +105,23 @@ class Neo4jDDDB:
         return result.single()[0]
 
     @staticmethod
-    def _create_and_return_Hearing(tx, dr_id, cid, hid):
-        result = tx.run("CREATE (a:Hearing) "
+    def _create_and_return_CommitteeHearing(tx, dr_id, cid, hid):
+        result = tx.run("CREATE (a:CommitteeHearing) "
                         "SET a.dr_id = $dr_id "
                         "SET a.cid = $cid "
                         "SET a.hid = $hid "
                         "RETURN a.dr_id + a.cid + ', from node ' + id(a)", dr_id=dr_id, cid=cid, hid=hid)
+        return result.single()[0]
+    
+    @staticmethod
+    def _create_and_return_Hearing(tx, hid, date, state, type, session_year):
+        result = tx.run("CREATE (a:CommitteeHearing) "
+                        "SET a.hid = $hid "
+                        "SET a.date = $date "
+                        "SET a.state = $state "
+                        "SET a.type = $type "
+                        "SET a.session_year = $session_year "
+                        "RETURN a.hid + a.date + a.state + a.type + a.session_year', from node ' + id(a)", hid=hid, date=date, state=state, type=type, session_year=session_year)
         return result.single()[0]
     
     @staticmethod
@@ -113,9 +134,22 @@ class Neo4jDDDB:
                         "RETURN a.name + a.city + ', from node ' + id(a)", oid=oid, name=name, city=city, stateHeadquartered=stateHeadquartered)
         return result.single()[0]
 
+    @staticmethod
+    def _create_and_return_Bill(tx, bid, type, number, billState, status, house, state):
+        result = tx.run("CREATE (a:Bill) "
+                        "SET a.bid = $bid "
+                        "SET a.type = $type "
+                        "SET a.number = $number "
+                        "SET a.billState = $billState "
+                        "SET a.status = $status "
+                        "SET a.house = $house "
+                        "SET a.state = $state "
+                        "RETURN a.bid + a.type + a.number + a.billState + a.status + a.house + a.state', from node ' + id(a)", bid=bid, type=type, number=number, billState=billState, status=status, house=house, state=state)
+        return result.single()[0]
+
 if __name__ == "__main__":
-    neo4j_dddb = Neo4jDDDB("bolt://localhost:7687", "neo4j", "root")
-    sql_dddb = dbConnect.create_connection("ai4reporters.org", "ai4reporters", "ai4reporters", "dddb")
+    neo4j_dddb = Neo4jDDDB(myCredentials.neo4j_dddb.hostname, myCredentials.neo4j_dddb.username, myCredentials.neo4j_dddb.password)
+    sql_dddb = dbConnect.create_connection(myCredentials.sql_dddb.hostname, myCredentials.sql_dddb.username, myCredentials.sql_dddb.password, myCredentials.sql_dddb.dbname)
 
     # Add Lobbyists
     cursor = dbConnect.queryDB(sql_dddb, "SELECT Person.pid, Person.last, Person.first, Person.middle, Lobbyist.filer_id, Lobbyist.state \
@@ -147,21 +181,23 @@ if __name__ == "__main__":
     for (cid, house, name, type, state, short_name, room, phone, fax, session_year) in cursor:
         neo4j_dddb.addCommittee(cid, house, name, type, state, short_name, room, phone, fax, session_year)
 
-    # Add Hearing
+    # Add Committee Hearing
     cursor = dbConnect.queryDB(sql_dddb, "select CommitteeHearings.dr_id, CommitteeHearings.cid, CommitteeHearings.hid \
         from CommitteeHearings;")
     for (dr_id, cid, hid) in cursor:
-        neo4j_dddb.addHearing(dr_id, cid, hid)
+        neo4j_dddb.addCommitteeHearing(dr_id, cid, hid)
+
+    # Add Hearing
+    cursor = dbConnect.queryDB(sql_dddb, "select Hearing.hid, Hearing.date, Hearing.state, Hearing.type, Hearing.session_year \
+        from Hearing;")
+    for (hid, date, state, type, session_year) in cursor:
+        neo4j_dddb.addHearing(hid, date, state, type, session_year)
 
     # Add Bill
-    # cursor = dbConnect.queryDB(sql_dddb, "select Person.last, Person.first, Person.middle \
-    #     from Person \
-    #     left join Lobbyist ON Person.pid = Lobbyist.pid \
-    #     left JOIN servesOn ON Person.pid = servesOn.pid \
-    #     where Lobbyist.pid is NULL \
-    #     and servesOn.pid is NULL;")
-    # for (last, first, middle) in cursor:
-    #     neo4j_dddb.addPublic(last, first, middle)
+    cursor = dbConnect.queryDB(sql_dddb, "select Bill.bid, Bill.type, Bill.number, Bill.billState, Bill.status, Bill.house, Bill.state \
+        from Bill;")
+    for (bid, type, number, billState, status, house, state) in cursor:
+        neo4j_dddb.addBill(bid, type, number, billState, status, house, state)
 
     # Add Organization
     cursor = dbConnect.queryDB(sql_dddb, "select Organizations.oid, Organizations.name, Organizations.city, Organizations.stateHeadquartered \
@@ -171,5 +207,3 @@ if __name__ == "__main__":
 
     sql_dddb.close()
     neo4j_dddb.close()
-
-    #started running at 5:05pm ended ~6:10pm
