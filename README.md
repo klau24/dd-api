@@ -1,6 +1,8 @@
-# ddlib Endpoints
+# dd-api
 
-## Existing Routes
+An API to access the Digital Democracy database and knowledge graph. Work in progress...
+
+# Existing Routes
 
 ### Bill
 
