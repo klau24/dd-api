@@ -4,6 +4,10 @@ from flask import Flask
 
 app = Flask(__name__)
 
+@app.route('/')
+def test():
+    return "Hello World"
+
 @app.route('/api/bill/<bid>')
 # think about combining billSummary, billPresenter, and billWitnesses into one call
 def billSummary(bid):
@@ -67,6 +71,7 @@ def billOrgAlignment(bid):
             count += 1
     return res
 
+@app.route('/api/bill/vote/<bid>')
 def billVoteSummary(bid):
     res = {"status": 404, 'data': {} }
     query = "select VoteDate, ayes, naes, abstain, result from BillVoteSummary where bid = '{bid}';".format(bid=bid)
