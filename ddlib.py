@@ -31,7 +31,6 @@ def billSummary(bid):
 def billPresenter(bid):
     pass
 
-@app.route('/api/bill/witnesses/<bid>')
 def billWitnesses(bid):
     # TODO: need witness position
     res = {"status": 404, 'data': {} }
@@ -51,7 +50,6 @@ def billWitnesses(bid):
             count += 1
     return res
 
-@app.route('/api/bill/org/alignment/<bid>')
 def billOrgAlignment(bid):
     res = {"status": 404, 'data': {} }
     query = "select Organizations.name, WitnessList.position \
@@ -71,7 +69,6 @@ def billOrgAlignment(bid):
             count += 1
     return res
 
-@app.route('/api/bill/vote/<bid>')
 def billVoteSummary(bid):
     res = {"status": 404, 'data': {} }
     query = "select VoteDate, ayes, naes, abstain, result from BillVoteSummary where bid = '{bid}';".format(bid=bid)

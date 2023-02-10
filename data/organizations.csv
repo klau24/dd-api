@@ -1,0 +1,1001 @@
+oid,name,city,stateHeadquartered,type,lastTouched,analysis_flag,lastTouched_ts,source
+1,"The Messersmith Group",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+2,"Milberg Weiss Bershad Hynes & Lerach",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+4,"International Brotherhood Of Electrical Workers (Ibew) Local 569",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+6,"Sankyo Pharma",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+7,"American College Of Obstetricians And Gynecologists District Ix The",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+8,"California State Association Of Counties",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+9,"Associated General Contractors Of California",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+10,"California Association Of Harbor Masters And Port Captains",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+11,"California Marine Affairs And Navigation Conference",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+12,"Central California Chamber Alliance",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+13,"California Mining Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+14,"California Marine Parks And Harbors Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+15,"Lennox International Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+16,"Marina Recreation Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+17,"Nissan North America",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+18,"The First American Corporation",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+19,"Ncma Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+20,"Turlock Irrigation District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+21,"Ust Public Affairs Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+22,"Western Boaters Safety Group",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+23,"Western Marine Association Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+24,"Planning And Conservation League",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+25,"California Newspaper Publishers Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+26,"United Farm Workers Of America Afl-Cio",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+27,"American Cancer Society California Division Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+28,"California Faculty Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+29,"Union Of American Physicians And Dentists",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+30,"Casino Morongo Of The Morongo Band Of Mission Indians",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+31,Pharmacia,NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+32,"California Children'S Lobby The",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+33,3M,NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+34,"Allen Group, The",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+35,"3M Traffic Control Materials Division",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+36,"Apple Valley, Town Of",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+37,"California Association Of Highway Patrolmen",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+38,"California Association Of Competitive Telecommunication Companies (Caltel)",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+39,"California Association Of Professional Scientists",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+40,"California Athletic Trainers Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+41,"Cdf Firefighters",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+42,"California Self Insurers' Security Fund",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+43,"American International Group Inc. And Its Subsidiaries",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+44,"California Rural Legal Assistance Foundation, Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+45,"Ford Motor Company",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+46,"Waste Management, Inc. & Affiliated Entities",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+47,"Clean Power Campaign",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+48,"Barona Band Of Mission Indians",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+49,"Council Of Uc Faculty Associations",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+50,"California Healthcare Association And Affiliated Entities",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+51,"S.C. Johnson & Son",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+52,Trw,NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+53,"Pharmaceutical Research And Manufacturers Of America",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+54,Qwest,NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+55,"California Association Of Small Employer Health Plans",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+56,"Insurance Brokers And Agents Of The West",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+57,"Liberty Mutual Group",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+58,"International Franchise Association (Ifa)",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+59,"Insurance Services Office, Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+60,"Insurance Agents And Brokers Legislative Council",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+61,"California Insurance Wholesalers Association (Ciwa)",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+62,"Driving School Association Of California Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+63,"American Heart Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+64,"Government Affairs Consulting",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+65,"California Squid Fishermen's Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+66,"California Nurses Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+67,"Protection And Advocacy Inc",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+68,"Alliance Of Automobile Manufacturers Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+69,"Automated Power Exchange",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+70,"Fpl Energy Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+71,"Kaiser Foundation Health Plan Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+73,"Pacific Gas & Electric Company",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+74,"Runyon Saltzman & Einhorn Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+75,"Stocker Resources LP A Limited Partnership By Stocker Resources Inc. General Partner",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+76,"Word & Brown",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+77,"Hotel Employees And Restaurant Employees International Union (Hereiu)",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+78,"Shapell Industries Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+79,"Viejas Band Of Kumeyaay Mission Indians",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+80,"Long-Term Care Pharmacy Alliance",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+82,"California Dvbe Alliance",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+83,"National Audubon Society",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+84,"Japan Government Of",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+85,"City Of Chula Vista",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+86,"Compline LLC",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+87,"Associated General Contractors-San Diego Chapter",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+88,"California Business Roundtable",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+89,"California Chamber Of Commerce",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+90,"Tejon Ranchcorp",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+91,"Ttx Company",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+92,"California Operators Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+93,"California Surety Federation",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+94,"Caterpillar Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+95,"Check Into Cash Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+96,"Check'N'Go Of California Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+97,Experian,NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+98,Pactiv,NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+99,"California State Council Of Service Employees E00789",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+100,"Vernon Property Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+101,"Cabazon Band Of Mission Indians",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+102,"City Of Pittsburg",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+103,"New York Mercantile Exchange",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+104,"Alliance Of Catholic Health Care Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+105,"Los Angeles County / District Attorney'S Office",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+106,"Association Of California Urban School Districts",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+107,"California Independent Public Employees Legislative Council Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+108,"Tahoe Sierra Board Of Realtorsinc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+109,"Alameda Corridor Transportation Authority",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+110,"County Health Executives Association Of California",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+111,"California Health Information Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+112,"California Employment Law Council",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+113,"Capitol Communications",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+114,"Berkeley Property Owners Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+115,"Santa Barbara Rental Property Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+116,"Computer Software Industry Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+117,"Internet Alliance",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+118,"California Children'S Hospital Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+119,"I-5 Consortium Cities Joint Powers Authority",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+120,"City Of Vallejo",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+121,"San Bernardino Associated Governments",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+122,"University Of Southern California The",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+123,"Town Of Colma",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+124,"City Of Burlingame",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+125,"Bay Area Addiction Research & Treatment, Inc./California Detoxification Programs, Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+126,"Clean Beaches Coalition",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+127,"California Dental Hygienists Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+128,"California Funeral Directors Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+129,"Hearst Corporation",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+130,"California School Nurses Organization",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+131,"County Welfare Directors Association Of California (Cwda)",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+132,"Housing California",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+133,"Test U",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+134,"California Continuing Care Residents Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+136,"The Enterprise Foundation",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+137,Youthbuild,NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+138,"Association Of California Car Clubs",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+139,"California Automatic Vendors Council",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+140,"California Drug And Alcohol Testing Alliance",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+141,"California Dump Truck Owners Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+142,"California Financial Service Providers",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+143,"California Moving And Storage Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+144,"Carroll Shelby Enterprises Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+145,"Chg Safety Technologies",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+146,"Cities Of Contra Costa County",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+147,"California Optometric Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+148,"Conference Of Delegates Of California Bar Associations",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+149,"California Public Securities Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+151,"California Society For Clinical Social Work",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+152,"California Society Of Enrolled Agents",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+153,"Consumer Attorneys Of California",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+154,"California Society For Respiratory Care",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+155,"Coalition For Public Access",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+156,"Pro-Elite Senior Services",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+157,"Public Policy Advocates, LLC",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+158,"Surplus Line Association Of California, The",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+159,"Nationwide Insurance Enterprise",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+160,"City Of Berkeley Rent Stabilization Board",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+161,"Western Manufactured Housing Communities Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+163,"Communications Workers Of America Local 9509",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+164,"North County Transit District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+165,"American Subcontractors Association-California",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+166,"California Aviation Business Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+167,"City Of Palm Springs",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+168,"O'Melveny & Myers LLP",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+169,"Orange County Children & Families Commission",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+170,"Regional Council Of Rural Counties (Rcrc) And Its Joint Powers Authorities",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+171,"Wareham Property Group",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+172,"The Nature Conservancy",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+173,"Malibucity Of",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+174,"Knauf Fiber Glass",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+175,"E & J Gallo Winery",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+176,"Microsoft Corporation",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+177,"Sierra Grain Terminal LLC",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+178,"Perkin Elmer Life Sciences",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+180,"Sng Development Company",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+181,"California Coalition For Rural Housing",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+182,"Local Initiative Support Corporation",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+183,"Corporation For Supportive Housing",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+184,"Rural Community Assistance Corporation",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+185,"Santa Monica Rent Control Board",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+186,"City Of West Hollywood Department Of Rent Stabilization And Housing",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+187,"Western Center On Law And Poverty Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+188,"United Parcel Service",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+189,"Target Corporation",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+190,"Personal Insurance Federation Of California",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+191,"Pebble Beach Company",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+192,Laaco,NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+193,"National Association Of Computer Consultant Businesses",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+194,"California Applicants' Attorneys Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+195,"Akt Development Corporation",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+196,"Access Dental/Premier Life Insurance",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+197,"Alliance Of California Tribes",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+198,"California Academy Of Opthalmology",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+199,"California Alliance Of Boys & Girls Clubs, Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+200,"California Association Of Health Plans",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+201,"Headlands Reserve LLC",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+202,"Contra Costa County",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+203,"California Recreation Vehicle Dealers Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+204,"El Paso Corporation",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+205,"Transportation California",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+206,"Global Portable Buildings",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+207,"Contra Costa Transportation Authority",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+208,"Community Associations Institute/California Legislative Action Committee",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+209,"Santa Clara Valley Transportation Authority",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+210,"Irvine Company The",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+211,Pacificorp,NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+212,"California Large Energy Consumers Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+213,"Milk Producers Council",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+214,"State Building & Construction Trades Council Of California",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+215,"City Of San Mateo",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+216,"City Of San Carlos",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+217,"California Speedway Corporation",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+218,"Equiva Services LLC",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+219,"National Academy Of Recording Arts And Sciences",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+220,"City Of Huntington Beach",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+221,"Calnet Neighborworks",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+223,"Wackenhut Corrections Corporation",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+224,"Port Of Oakland",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+225,"Playa Capitol Company LLC",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+226,"Association Of California Care Operators Inc - Acco",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+227,"Aids Healthcare Foundation",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+228,"California Rifle And Pistol Association, Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+229,Conocophillips,NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+230,"California School Employees Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+231,"California Municipal Utilities Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+232,"Construction Industry Legislative Council",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+233,"California Pilots Pac",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+234,"Madera Disposal Systemsinc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+235,"Zanker Road Landfill",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+236,"Jewish Public Affairs Committee Of California",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+237,"California Correctional Supervisors Organization, Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+239,"Sacramento Area Council Of Governments",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+240,"Norwood & Associates",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+241,"Burlington Northern Santa Fe Railway Company",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+242,"California Federation Of Teachers",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+243,"Riverside County Sheriff'S Department",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+244,"Omni Loan Company, Ltd.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+245,"Oberthur Gaming Technologies",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+246,"University Of California Student Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+247,"California Primary Care Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+248,"Distilled Spirits Council Of The United States",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+249,"Hollister Ranch Owners' Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+250,"Northland Cranberries, Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+251,"California National Organization For Women",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+252,"St. Agnes Medical Center",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+253,"California Forestry Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+255,"Delaware North Companies Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+256,"California Nurse Midwives Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+257,"Lytton Band Of Pomo Indians",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+259,"Hilmar Cheese Company",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+260,"Santa Ana Unified School District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+261,"Pacific Life Insurance Company",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+262,"U.C. Committee Of Merced",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+263,"Cadiz Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+264,"City Of Clovis",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+265,"Dynegy Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+266,"Deposition Reporters Association Of California",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+268,"City Of Oakland",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+269,"Pacific Merchant Shipping Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+270,"The Prudential Insurance Company Of America",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+271,Sgi,NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+273,"Specialty Equipment Market Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+274,"Natural Resources Defense Council",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+275,"Mt No. I LLC",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+276,"Computer Technology Industry Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+277,"Elevator Industry Work Preservation Fund",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+278,"California State Conference Of Branches Of Naacp",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+279,"Matson Navigation Company, Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+280,"Modesto, City Of",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+281,"Orange County Employees Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+282,"Catalina Marketing Corporation",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+283,"Calpine Corporation",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+284,"Farmers Group, Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+285,"Household (Aka Household International, Inc.)",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+286,"Pardee Homes",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+287,"Shea Homes",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+288,"Dmb San Juan Investment North, LLC",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+289,"Pfizer Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+290,"Valero Energy Corporation",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+291,"Western States Petroleum Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+292,"Merck & Co., Inc. Including Merck Human Health Division And Medco Health Solutions Inc. ('Medco Health') And Medco Cal",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+293,"1-800 Contacts, Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+294,"California Coalition Of Nurse Practitioners",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+295,"Hacienda La Puente Unified School District Adult Education Division",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+296,"Recording Artists Coalition",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+297,"CH2M Hill",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+298,"Santa Clara Government Attorneys Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+299,"Community Conservancy International",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+300,"Price Consulting",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+301,"California Retailers Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+302,"California Coalition On Workers' Compensation (Formerly CAs For Compensation Reform)",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+303,"California Association Of Health Facilities",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+305,"Ahmanson Land Company",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+306,"Pacific Telesis Group And It'S Subsidiaries",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+307,Gateway,NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+309,"Sutter Health",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+310,"Caremark Rx. Inc. (Formerly Med Partners)",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+311,"Fireman's Fund Insurance Company",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+312,"Nestor Traffic Systems",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+313,"City Of Martinez",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+314,"Addus Healthcare, Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+315,"Air Transport Association Of America",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+316,"Alara, Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+319,"California Professional Firefighters",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+320,"California Association Of Rehabilitation & Reemployment Professionals",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+321,"Cec Entertainment, Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+322,"Cisco Systems",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+323,"City National Bank",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+324,"Tustin, City Of",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+325,"Inland Empire Utilities Agency",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+326,Tamco,NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+327,"Southern California Regional Rail Authority",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+328,"Resource Landowners Coalition",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+329,"San Diego Metropolitan Transit Development Board",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+330,"California Land Title Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+331,"City Of Hayward",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+332,"The Newhall Land & Farming Company",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+333,"San Joaquin Council Of Governments",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+334,"California Earthquake Authority",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+335,"City Of Redwood",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+336,"The Procter & Gamble Distributing Company",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+337,"Aids Project Los Angeles",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+339,"Thoroughbred Owners Of California",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+340,"Los Angeles Turf Club At Santa Anita",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+341,"Del Mar Thoroughbred Club",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+342,"Oak Tree Racing Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+343,"Entergy Nuclear",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+344,"Lennar Communities",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+345,"Brillstein-Grey Management",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+346,"The Airport Working Group Of Orange County Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+347,"California Prosecutors Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+349,"Working Rx",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+350,"VeriSign Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+351,"CALTIA/California Travel Industry Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+352,"San Diego Unified Port District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+353,"Vernon, City Of",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+354,"Consulting Engineers And Land Surveyors Of California, Including Infrastructure Delivery Council, A Division Thereof",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+355,"Cooperative Of American Physicians/Mutual Protection Trust",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+356,"Costco Wholesale Corporation",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+357,"County Of San Diego",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+358,"Directors Guild Of America, Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+359,"Dollar Financial Group",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+360,"Eastwest Bank",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+361,Edvoice,NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+362,"Fannie Mae",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+363,"Genentech, Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+365,"Lexmark International, Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+366,"Los Angeles County Metropolitan Transportation Authority",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+367,"Mandalay Resort Group",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+368,"Marin, County Of",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+370,"Universal Care",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+371,"Automobile Club Of Southern California/Interinsurance Exchange Of The Automobile Club/Acsc Management Services Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+372,"California Alliance For Pride & Equality (Cape)",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+373,"The McGraw-Hill Companies, Inc., School Education Group",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+374,"California Futures Network",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+375,"California Aquaculture Association (Caa)",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+376,"Bankamerica Corporation/Bank Of America Nt&Sa",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+377,"City Of Santee",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+378,"California Association Of Local Housing Finance Agencies",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+379,"California Housing Authorities Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+380,"Urban Counties Caucus",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+381,"California Public Interest Research Group (Calpirg)",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+382,"Committee On Moral Concerns",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+383,"National Council Of La Raza",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+384,"Professional Engineers In California Government",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+385,"Mbia Insurance Corporation",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+386,"Merrill Lynch & Co., Inc. And Its Subsidiaries",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+387,"Motion Picture Association Of America",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+388,"Nestle Usa, Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+389,"Oracle Corporation",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+390,"Nielsen, Merksamer, Parrinello, Mueller & Naylor, LLP",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+391,"Orange County Fire Authority",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+392,"Perot Systems Corporation",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+393,"Philip Morris Incorporated By Its Service Corporation Philip Morris Management Corp.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+394,"Philips Lighting Company",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+395,"R.J. Reynolds Tobacco Company",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+396,Schlumberger,NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+397,"Stewart Title Guaranty Company",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+398,"T-Mobile Usa, Inc",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+399,"Merck & Co. Inc.; Merck Human Health Division; Merck Medco Managed Care; Medco Cal",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+400,"21St Century Insurance Group",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+401,"California Hiv/Aids Advocacy Coalition Southern California Chapter",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+402,"El Morro Community Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+403,"Western Health Advantage",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+404,"Auto Nation",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+405,"24 Hour Fitness",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+406,"Good Samaritan Hospital",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+407,"California Commerce Club",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+408,Gtech,NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+409,"California Association For Local Economic Development",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+410,"Oakland Unified School District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+411,"Alameda-Contra Costa Transit District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+412,"California Independent Grocers And Convenience Stores",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+413,"Orrick Herrington & Sutcliffe LLP",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+414,"County Of Del Norte",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+415,"Investment Company Institute",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+416,"Morgan Stanley Dean Witter & Company And Its Subsidiary Dean Witter Reynolds",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+417,"Securities Industry Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+418,"National Association Of Securities Dealers (Nasdaq)",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+419,"HemaCare Corporation",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+420,"Peace Officers Research Association Of California",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+421,"Questar Regulated Services",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+422,"Retired Public Employees Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+423,"Redlands, City Of",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+424,"Southern California Marine Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+425,"San Francisco Police Officers Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+426,"Shield Health Care",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+427,"San Bernardino County Safety Employees Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+428,"California Steel Industries Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+429,"Magna Entertainment Corp. And Its Affiliated Entities",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+430,"Small Ventures U.S.A., LLC",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+431,"United Services Automobile Association (Usaa)",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+432,"Constellation Energy Group",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+433,"California State Council Of Laborers",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+434,"Washington Mutual",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+435,"Western Hub Properties, L.L.C.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+436,"Zions Bancorporation",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+437,"Brown & Williamson Tobacco Corporation",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+438,"San Bernardino, County Of",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+439,"Association Of Regional Center Agencies",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+440,"Blood Centers Of California",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+441,"California Physical Therapy Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+442,"California Council Of The Alzheimer'S Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+443,Noveon,NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+444,"St. Anne'S",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+445,"La Inc. The Convention & Visitors Bureau",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+446,"Public Health Institute",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+447,"Los Angeles County - Chief Administrative Office",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+448,"Lend Lease Development",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+449,"American Federation Of State County And Municipal Employees Afl-Cio",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+450,"California State Automobile Association And California State Automobile Association Inter-Insurance Bureau",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+451,"Association Of California School Administrators",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+452,"Gabriel R. Roberson & Associates",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+453,"ChevronTexaco Corporation And Its Subsidiaries",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+454,"Geosyntec Consultants",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+455,"Imc Chemicals Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+456,"El Dorado County Transportation Commission",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+458,"Apartment Association California Southern Cities",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+459,"California Housing Council Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+460,"Long Beach Unified School District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+461,"Environmental Defense Fund",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+462,"California Date Commission",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+463,"California Forest Products Commission",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+464,"California Grape & Tree Fruit League",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+465,"Fisher Scientific Company, L.L.C.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+467,"American Land Conservancy",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+468,At&T,NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+469,"Ibm Corporation",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+470,"Mutual Benefits Corporation",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+472,"Agua Dulce Vineyards LLC",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+473,"The Chadmar Group",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+474,"Aquarium Of The Pacific",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+475,"Association Of Bay Area Governments",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+476,"Bob Hope Airport",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+477,"California Association Of Bioanalysts",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+478,"California Clinical Laboratory Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+479,"California Dialysis Council",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+480,"California Investor'S Mutual",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+481,"Escondido City Of",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+482,"Long Beachcity Of",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+483,"Long Beach Water Department",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+485,"Redondo Beach City Of",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+486,"Medical Transcription Industry Alliance",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+487,"American Resort Development Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+488,"California Wood Industries Coalition",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+489,"Indoor Tanning Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+490,"San Ramon Unified School District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+491,"Santa Monica Community College District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+492,"American Civil Liberties Union Foundation Of Southern California",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+493,"Bay Meadows Land Company",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+494,"St. Paul Fire Travelers Companies Inc. & Affiliates",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+495,"Reliant Energy Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+496,"South Coast Air Quality Management District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+497,"Clorox Company The",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+498,"Gillette Company The",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+499,"The Sherwin-Williams Company",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+500,"California Chapter American College Of Emergency Physicians",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+501,"FedEx Corporation",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+502,"Fresno County Transportation Authority",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+504,"Visa U.S.A. Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+505,"Western Plant Health Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+506,"Merced Union High School District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+507,"Association Of Independent California Colleges & Universities (Aiccu)",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+508,"Food & Beverage Association Of San Diego County",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+509,"California Food Policy Advocates",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+510,"California Family Health Council Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+511,"San Manuel Band Of Mission Indians",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+512,"Santa Ynez Band Of Chumash Indians",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+513,"Tule River Tribe",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+514,"Washoe Tribe Of Nevada & California",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+515,"Soboba Band Of Mission Indians",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+516,"Muse Cordero Chen & Partners",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+517,"Victorian Care Medical Group Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+518,"California Emergency Foodlink",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+519,"Santa Rosa City Schools",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+520,"Schools For Sound Finance",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+521,"Simi Valley Unified School District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+522,"State Center Community College District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+523,"Torrance Unified School District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+524,"Walnut Valley Unified School District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+525,"Venture Catalyst Incorporated",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+526,"West Contra Costa Unified School District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+527,"Health Officers Association Of California",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+528,"Aventis Pharmaceuticals, Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+529,"Agricultural Council Of California",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+530,"Brightstar Environmental, LLC",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+531,"Beverly Enterprises, Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+532,"California Association Of College Stores",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+533,"California Automotive Wholesalers' Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+534,"California Society Of Dermatology & Dermatological Surgery",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+535,"City Of Coachella",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+536,"Community Health Group",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+537,GlaxoSmithKline,NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+538,"Grant Joint Union High School District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+539,"Progressive Insurance",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+540,"AstraZeneca Pharmaceuticals LP",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+541,"Purdue Pharma L.P.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+542,"California Association Of State Hospital Parent Councils For The Retarded (Cash/Pcr)",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+544,"Verizon Wireless",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+545,"Amador Regional Sanitation Authority",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+546,"County Of Amador",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+547,"San Mateo County-City/County Association Of Governments",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+548,"League Of Women Voters Of California",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+549,"California Network Of Educational Charters (Canec)",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+550,"Los Angeles, City Of",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+551,"Cellular Telecommunications & Internet Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+552,"Advantage Capital Partners",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+553,"SureDeposit, Inc., Including SureDeposit Bond Insurance Agency LLC",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+555,"Medco Health Solutions, Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+556,"Three Valleys Municipal Water District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+557,"Webmd Corporation",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+558,"Call America",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+559,"Icg Telecom Group",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+560,"California Business Alliance",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+561,"Sage Telecom",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+562,"Tmc Communications",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+563,"Rubber Manufacturers Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+564,"Transamerica Corporation",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+565,"The Redevelopment Agency Of The City Of Santa Barbara",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+566,"Kaiser Eagle Mountain LLC",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+567,"Los Angeles County Of",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+568,"California Cement Promotion Council",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+569,"California Concrete Contractors Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+570,"California Park & Recreation Society",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+571,"Cemex California Cement LLC",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+572,"Affinity Group, Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+573,"Desert Hot Springs City Of",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+574,"Manning, Selvage & Lee, Public Relations",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+575,"Phoenix Houses Of California",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+576,"Schering-Plough External Affairs",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+577,"Vision Service Plan",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+578,"California Federation Of Republican Women",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+579,"California Association Of Portable X-Ray Providers",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+582,"California Association Of Health Underwriters",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+583,"County Of Los Angeles District Attorney'S Office",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+584,"California Association Of Dental Assisting Teachers",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+585,"California Dental Assistants Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+586,"Crestwood Behavioral Health Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+587,"Association Of California Community College Administrators",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+588,"Alhambra School District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+589,"California Interscholastic Federation",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+590,"California Association Of School Business Officials",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+591,"Castaic Union School District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+592,"Clovis Unified School District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+593,"Corona Norco Unified School District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+594,"Cupertino Union School District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+595,"Bay Area Rapid Transit District (Bart)",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+596,"Schnitzer Steel Products Company",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+597,"Sacramento Metropolitan Air Quality Management District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+598,"Simpson Resource Company And Affiliates, Including Simpson Investment Company",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+599,"Intel Corporation",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+600,"Amazon.Com Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+601,"Wyeth Pharmaceuticals",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+602,"Cellular Carriers Association Of Ca",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+603,"Mercury General Corporation And Its Subsidiaries",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+604,"American Agents Alliance",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+605,"Sycuan Band Of The Kumeyaay Nation",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+606,"The Sierra Fund",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+607,"3M Security Systems Division",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+608,"County Of Los Angeles",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+609,"Comprehensive Outpatient Surgery Center",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+610,"California Association Of Licensed Repossessors",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+611,"California Society Of Industrial Medicine And Surgery",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+612,"S & B Surgery Center",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+613,"Visionquest Industries Inc. Dba Vq Orthocare",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+614,"Pacific Coast Quarter Horse Racing Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+615,"Ray Cammack Shows Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+616,"Beneto Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+617,"County Of Stanislaus",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+618,"Western Insurance Administrators, Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+619,"Bastyr University",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+620,"National Association Of Computer Consultant Businesses - Southern California Chapter",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+621,"American Land Title Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+622,"Mitsubishi Cement Corporation",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+623,"National Cement Company Of California",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+624,"North Lake Tahoe Resort Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+625,"Biodegradable Products Institute",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+626,"U.S. Borax Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+627,"Lehigh Southwest Cement Company",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+628,"North Tahoe Fire Protection District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+629,"California Portland Cement Company",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+630,"Hanson Permanente Cement",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+631,"Stockton Department Of Parks And Recreation City Of",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+632,"Construction Materials Association Of California (Cmac)",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+633,"Placercounty Of",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+634,"Deft Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+635,"East Bay Regional Park District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+636,"Kensington Police Protection And Community Services District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+637,"National Steel & Shipbuilding Company",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+638,"Rmc Pacific Materials",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+639,"International Council Of Cruise Lines",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+640,"Deputy Sheriffs' Association Of Alameda County",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+641,"Los Angeles To Pasadena Metro Blue Line Construction Authority",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+642,"R.C.N. Ranch (Wholly Owned Subsidiary Of R. Cevasco Nursery Inc.)",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+643,"Artesia City Of",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+644,"California Association Of Auto Brokers",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+645,"California School Transportation Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+646,Lumetra,NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+647,"Watereuse Foundation",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+648,"West Coast Power LLC",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+649,"Nighthawk Radiology Services LLC",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+650,"Education Mandated Cost Network (Emcn)",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+651,WellspringRX,NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+652,Honeywell,NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+653,"Huntington Park City Of",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+654,"Equal Access Auto Lending Of California, Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+655,"Stallion Springs Community Services District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+656,"Tahoe City Public Utility District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+657,"Southgate Recreation & Park District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+658,"Bear Valley Community Services District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+659,"Fresno Unified School District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+660,"Houghton Mifflin",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+661,"Irvine Unified School District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+662,"Kern County Superintendent",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+663,"Lodi Unified School District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+664,"Metropolitan Education District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+665,"Merced City School District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+666,"Newhall Elementary School District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+667,"Orange County Department Of Education",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+668,"Oxnard Union High School District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+669,"Palo Verde Community College District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+670,"Phase Ii Systems",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+671,"California Apartment Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+672,"Riverside Publishing Company",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+673,"Kimberly-Clark Corp.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+674,"Association Of Retired Teachers",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+675,"California Association Of Councils Of Governments",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+676,"City Of Ontario",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+677,"Los Angeles County Fair Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+678,"Los Angeles County Office Of Education",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+679,"Montclair City Of",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+680,"Rialto City Of",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+681,"Oxnardcity Of",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+682,"California Mortgage Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+683,"Hanson Aggregates Mid-Pacific Inc. And Affiliates",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+684,"City Of Daly City",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+685,"City Of Industry",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+686,"Durham Transportation Inc. (Dba Durham School Services)",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+687,"American Airlines",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+688,"Caliber Collision Centers",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+689,"California Chapter American College Of Cardiology",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+690,"Yucaipa, City Of",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+691,"National Aerosol Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+692,"California Occupational Medicine Physicians",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+693,"California School Food Services Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+694,"Penny-Newman Milling Company LLC",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+695,"Irvine Ranch Water District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+696,"The Cosmetic, Toiletry And Fragrance Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+697,"Gregory Canyon, Ltd, LLC",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+698,"International Union Of Elevator Constructors Local 8",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+699,"International Union Of Elevator Constructors Local 18",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+700,"Association Of American Publishers",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+701,"California Farm Bureau Federation",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+702,"Capistrano Unified School District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+703,"California Cotton Growers Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+704,"Association For Los Angeles Deputy Sheriffs",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+705,"Alliance Of Western Milk Producers Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+706,"California Agricultural Aircraft Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+707,"California Cable & Telecommunications Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+708,"California Auto Dismantlers And Recyclers Alliance",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+709,"Blue Shield Of California",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+710,"Western Dental Services, Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+711,"California Cotton Ginners Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+712,"Tahoe Truckee Unified School District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+713,"Texas Industries Inc. (Txi)",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+714,"California Cogeneration Council",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+715,"Los Angeles County District Attorney'S Office",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+716,Samcorp,NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+717,"Dewey Square Group",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+718,"Ace Guaranty Corporation",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+719,"Norcal Mutual Insurance Company",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+720,"Electric And Gas Industries Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+722,"Option One Mortgage Corporation",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+723,"Riversidecity Of",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+724,"Riversidecounty Of",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+725,"San Mateo County Transit District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+727,"Tidelands Oil Production Company",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+728,"Imperial County Office Of Education",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+729,"Los Angeles County Lifeguard Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+730,"Aetna, Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+731,"California Council Of Community Mental Health Agencies",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+732,"Mental Health Association In California",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+733,"San Diego County Sheriff'S Department",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+734,"Marc Brown & Associates",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+735,"California Association Of Resource Conservation Districts",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+736,"Los Angeles Police Protective League",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+737,"Los Angeles Probation Unionafscmelocal 685",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+738,"Riverside Sheriffs' Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+739,"California Apple Commission",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+740,"Western Propane Gas Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+741,"California Asparagus Commission",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+742,"Riley & Reiner",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+743,"California Peace Officers Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+744,"California Association Of Nurseries And Garden Centers",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+745,"California Police Chiefs Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+746,"California Narcotic Officers' Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+747,"California Restaurant Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+748,"Golden State Builders Exchanges",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+749,"California Cast Metals Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+750,"Landmark Healthcare",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+751,"Pacific High School, Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+752,"Pet Industry Joint Advisory Council",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+753,"Romoland School District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+754,"San Joaquin County Office Of Education",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+755,AARP,NULL,NULL,0,"2017-02-03 21:08:35",0,1486156115,PreSource
+756,"Washington Township Health Care District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+757,"Consumer Specialty Products Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+758,"California Poison Control System",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+759,"California Society Of Plastic Surgeons",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+760,"Grossmont Healthcare District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+761,"Medtronic Sofamor Danek Usa",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+762,"Maloof Sports & Entertainment",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+763,"Western United Dairymen",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+764,"California Association Of Psychiatric Technicians",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+765,"Western Association Of Venture Capitalists",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+766,"The Nasdaq Stock Market",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+767,"California Association Of Naturopathic Physicians",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+768,"Ck And Associates",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+769,"Nutritional Products Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+770,"Chief Probation Officers Of California",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+771,"California Authority Of Racing Fairs",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+772,"California Avocado Commission",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+773,"California Citrus Mutual",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+774,"California Taxpayers' Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+775,"California Public Parking Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+776,"California Cut Flower Commission",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+777,"California Air Pollution Control Officers' Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+779,"Central Delta Water Agency",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+780,"United Laguna Hills Mutual",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+781,"Third Laguna Hills Mutual",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+782,"Laguna Woods Mutual No. 50",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+783,"Southern California Association Of Governments",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+784,BearingPoint,NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+785,Cleanstreet,NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+786,"Aristotle International, Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+787,"California Amusement Park Association, Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+788,"Cabrillo Power I LLC",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+789,"Holtville Unified School District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+790,"Kern Union High School District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+791,"King City Union Elementary School District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+792,"Lennox Elementary School District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+793,"Los Banos Unified School District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+794,"California Chapters-Institute Of Scrap Recycling Industries",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+795,"Fnc Medical Corporation",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+796,"Medical Insurance Exchange Of California",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+797,"Scpie Companies, The",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+799,"Brokers International Ltd",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+800,"Johnson & Johnson Services, Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+801,"California Coalition Of Travel Organizations",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+802,"Recreational Boaters Of California",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+803,"Simi Group",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+804,"Faculty Society At Harbor-Ucla Medical Center",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+805,"California Association Of Interlock Service Providers",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+806,"Granite Construction Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+807,"Association Of California Healthcare Districts (Achd)",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+808,"The Metropolitan Water District Of Southern California",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+809,"International Health, Racquet & Sportsclub Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+810,Ncr,NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+811,"Qualcomm, Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+812,"Quest Diagnostics Incorporated",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+813,"California County Superintendents Educational Services Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+814,"Apartment Association Of Orange County",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+815,"Humboldt County Office Of Education",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+816,"Sonoma County Office Of Education",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+817,"Investec Real Estate",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+818,"Lorillard Tobacco Company",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+819,"California Medical Association, Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+820,"California Association Of Addiction Recovery Resources",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+821,"American Staffing Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+822,"Artichoke Joe'S, Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+823,"Association Of Woodworking & Furnishings Suppliers",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+824,"Palmdale Summit",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+825,"Caithness Energy L.L.C.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+826,"Engineering Contractors' Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+827,"California Fence Contractors Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+828,"Acclamation Insurance Services Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+829,"License Instruction Schools",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+830,"Independent Waste Oil Collectors And Transporters",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+831,"Pinnacle Entertainmentinc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+832,"Coalition For Interior Design Accountability (Cida)",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+833,"California Pepper Commission",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+834,"Collateral Loan & Secondhand Dealers Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+835,"American Academy Of Pediatrics California District IX",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+836,"California Association Of Medical Product Suppliers",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+837,"Universal Paragon Corporation",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+838,"Riverside Community College District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+839,"Inyo County Office Of Education",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+840,"Lake County Office Of Education",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+841,"Mendocino County Office Of Education",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+842,"Duraflame Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+843,"Whirlpool Corporation",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+844,"Coalition For Injured Workers",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+845,"Barstow, City Of",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+846,"California Alarm Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+847,"California Mobilehome Parkowners Alliance",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+848,"California Staffing Professionals (Csp)",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+849,"California State Association Of Public Administrators, Public Guardians, And Public Conservators",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+850,"California Travel Parks Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+851,"California Speech-Language-Hearing Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+852,"California Bus Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+853,"California Refuse Removal Council-Northern District (Crrc)",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+854,"Metam Sodium Task Force",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+855,"Western Fairs Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+856,"Rancho Santa Fe School District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+857,"San Dieguito Union School District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+858,"Santa Paula Elementary School District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+859,"Saugus Union School District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+860,"School Facility Manufacturers' Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+861,"Small School Districts Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+863,"Sacramento City Unified School District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+864,"California Association Of Alcoholism And Drug Abuse Counselors",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+865,"Sweetwater Union High School District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+866,"California Orthotics & Prosthetics Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+867,"Fitness Management Corporation",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+868,"Glendora, City Of",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+869,"Blue Cross Of California (A Subsidiary Of Wellpoint Health Networks, Inc.)",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+870,"Association Of Home Appliance Manufacturers",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+872,"Cudahy City Of",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+873,"California Bag And Film Alliance",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+874,"California Film Extruders & Converters Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+875,"Flexible Packaging Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+876,"Forensic Expert Witness Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+877,"California Association Of Homes And Services For The Aging",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+878,"California Broadcasters Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+879,"California Hospice & Palliative Care Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+880,"California Pharmacists Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+881,"California Rehabilitation Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+882,"HealthSouth, Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+883,"Visiontek, Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+884,"Wintec Energy Ltd",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+885,"Occidental Petroleum Corporation And Subsidiaries",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+886,"California Manufactured Housing Institute",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+887,"California Podiatric Medical Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+888,"Californians For Ferret Legalization",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+889,"Plastering Contractors Association Of Southern California",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+890,"Society Of Plastics Industry",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+891,"Western Home Furnishings Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+892,"Maywoodcity Of",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+893,"Commerce/Commerce Community Development Commission City Of",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+894,"California Healthcare Institute (Chi)",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+895,"American Para Professional Systems",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+896,"California Animal Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+897,"Coalition For Quality Credit Counseling (Cqcc)",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+898,"Consumer Electronics Association (Cea)",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+899,"Electronic Industries Alliance (Eia)",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+900,"Golden State Donor Services",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+901,"Honda North America Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+902,"Skyles Insurance Agency",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+903,"Marin Builders' Exchange",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+904,"Flasher Barricade Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+905,"California Building Industry Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+906,"Dairy Institute Of California",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+907,"Avid Center",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+908,"California Rice Commission",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+909,"California Nevada Soft Drink Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+910,"California Sheep Commission",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+911,"Duarte, City Of",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+912,"Computer Sciences Corporation",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+913,"Industry Urban-Development Agency",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+914,"Laguna Hills, City Of",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+915,"Hlr - Services",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+916,Caloptima,NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+917,"Delta Wetlands ",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+918,"Glass Packaging Institute",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+919,"Hearth Patio & Barbecue Association Pacific",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+920,"Homeguard Incorporated",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+921,"Pihra - Professionals In Human Resources Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+922,"California Alliance Of Child And Family Services",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+923,"Metal Finishing Association Of Southern California",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+924,"California Radiological Society",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+925,"California Society Of Pathologists",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+926,"California Strawberry Commission",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+927,"California Tomato Commission",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+928,"Carmax Auto Superstores West Coast Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+929,"Croplife America",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+930,"California Official Court Reporters Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+931,"Will Rogers Polo Club",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+932,"California Tax Reform Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+933,"Family Service Council Of California",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+934,"Bickmore Risk Services",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+935,"Calaveras Unified School District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+936,"California Association Of Private Special Education Schools (Capses)",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+937,"California Association Of Work Experience Educators",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+938,"California Association For Health Services At Home",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+939,"Association Of California Construction Managers",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+940,"California Charter Schools Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+941,"California Retired Teachers Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+942,"Five Star Education Coalition",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+943,"Ballard & Tighe, Publishers",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+944,"Aes Pacific",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+945,"Glendale Unified School District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+946,"Magnolia Elementary School District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+947,"Santa Clara County Office Of Education",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+948,"California School Library Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+949,"California Association Of Teachers Of English To Speakers Of Other Languages",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+950,"Riverside Unified School District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+951,"Marin County Superintendents",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+952,Allscripts,NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+953,"California Association Of Pest Control Advisers ",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+954,"California Association Of Winegrape Growers",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+955,"Napa City Of",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+956,"Underwriters At Lloyd'S London (Lloyd'S Of London)",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+957,"Ceres Unified School District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+958,"Davis Jt. Unified School District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+959,"California Wool Growers Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+960,"The Margolin Group Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+962,"Association Of Child Victim Treatment Centers",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+963,"California Independent Bankers Of The Independent Community Bankers Of America",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+964,"Bristol-Myers Squibb Company",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+965,"Affiliated Computer Services",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+966,"Coalition For Adequate School Housing",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+967,"Community College Facility Coalition",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+968,"International Code Council",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+969,"Lynwood Unified School District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+970,"Ca Child Development Administrators Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+971,"Colusa Basin Drainage District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+972,"Glenn-Colusa Irrigation District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+973,"Imperial Irrigation District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+974,"Kern County Water Agency",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+975,"Kings River Conservation District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+976,"Kings River Water Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+977,"Lake County Sanitation District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+978,"American Planning Association, California Chapter",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+979,"California Paint Council, A Chapter Of The National Paint & Coatings Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+980,"Modesto Irrigation District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+981,"Norcal Waste Systems, Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+982,"Center For Energy & Economic Development, The",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+983,"Sacramento Area Flood Control Agency",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+984,"San Bernardino Valley Municipal Water District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+985,"Maersk Company, The",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+986,"California School Boards Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+987,"California Association Of Administrators Of State And Federal Education Programs",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+988,"California Japanese American Community Leadership Council",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+989,"California Science Center Foundation",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+990,"City College Of San Francisco",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+991,"Culligan International Company",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+992,"North Bay Construction Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+993,"Child Development Policy Institute",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+994,"Professional Association For Childhood Education",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+995,"California Association Of Public Authorities For Ihss",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+996,"California Beer & Beverage Distributors",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+997,"Pacific Rim Drywall Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+998,"California Association Of Zoos And Aquariums",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+999,"California Council For Environmental And Economic Balance",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+1000,"Sicpa Product Security",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+1001,"Natural History Museum Of Los Angeles County",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+1002,"Tesoro Refining & Marketing Company",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+1003,"Mojave Water Agency",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+1004,"Westlands Water District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+1005,"City Of San Diego",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+1006,"Edison International & Subsidiaries",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+1007,"Dell Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+1008,"Alhambra, City Of",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+1010,"Connections Academy",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+1011,EdFund,NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+1012,"Fullerton Joint Union High School District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+1013,"High School Districts Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+1014,"Los Angeles Unified School District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+1015,"Montebello Unified School District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+1016,"San Bernardino City Unified School District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+1017,"Osteopathic Physicians And Surgeons Of California",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+1018,"Daughters Of Charity Health System",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+1019,"Harley-Davidson Motor Company",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+1020,"Employers Compensation Insurance Company",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+1021,"Local Health Plans Of California",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+1022,"Contra Costa County Superintendents Coalition",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+1023,"Hemet Unified School District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+1024,"Lamont School District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+1025,"Lassen Union High School District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+1026,"Mc Grath Rentcorp Dba Mobile Modular Management Corporation",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+1027,"Pasadena Unified School District",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+1028,"Metropolitan Life Insurance Company",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+1029,"Naral Pro-Choice America Dba Naral Pro-Choice California",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+1030,"Safeguard Health Plans, Inc",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+1031,"Sealy, Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+1032,"United Domestic Workers Of America, Afscme, Afl-Cio",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+1033,"San Gabriel Basin Water Quality Authority",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+1034,"San Luis & Delta-Mendota Water Authority",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+1035,"Santa Cruz, City Of",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+1036,"Scientific Games International, Inc.",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+1037,"Solano County Water Agency",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+1038,"Southern California Ready Mixed Concrete Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
+1039,"Southern California Rock Products Association",NULL,NULL,0,"2016-12-31 21:32:14",0,1483219934,PreSource
