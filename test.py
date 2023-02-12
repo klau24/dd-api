@@ -24,7 +24,7 @@ class Neo4jDDDB:
 
     @staticmethod
     def _create_and_return_Lobbyist(tx):
-        result = tx.run("LOAD CSV WITH HEADERS FROM 'https://github.com/klau24/dd-api/blob/main/data/legislator.csv' AS row "
+        result = tx.run("LOAD CSV WITH HEADERS FROM 'https://github.com/klau24/dd-api/blob/main/data/lobbyist.csv' AS row "
                         "CREATE (person:Person:Legislator) "
                         "SET person.pid = row.pid"
                         )
@@ -32,7 +32,7 @@ class Neo4jDDDB:
     
     @staticmethod
     def _create_and_return_Organizations(tx):
-        result = tx.run("LOAD CSV WITH HEADERS FROM 'https://github.com/klau24/dd-api/blob/main/data/legislator.csv' AS row "
+        result = tx.run("LOAD CSV WITH HEADERS FROM 'https://github.com/klau24/dd-api/blob/main/data/organizations.csv' AS row "
                         "CREATE (person:Person:Legislator) "
                         "SET person.pid = row.pid"
                         )
@@ -40,7 +40,7 @@ class Neo4jDDDB:
 
     @staticmethod
     def _create_and_return_Hearings(tx):
-        result = tx.run("LOAD CSV WITH HEADERS FROM 'https://github.com/klau24/dd-api/blob/main/data/legislator.csv' AS row "
+        result = tx.run("LOAD CSV WITH HEADERS FROM 'https://github.com/klau24/dd-api/blob/main/data/hearings.csv' AS row "
                         "CREATE (person:Person:Legislator) "
                         "SET person.pid = row.pid"
                         )
