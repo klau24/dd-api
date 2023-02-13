@@ -7,41 +7,50 @@ class Neo4jDDDB:
     def __init__(self, uri, user, password):
         self.driver = GraphDatabase.driver(uri, auth=(user, password))
         with self.driver.session() as session:
-            print("Adding Lobbyist...")
-            session.execute_write(self._create_and_return_Lobbyist)
-            print("Adding Organization...")
-            session.execute_write(self._create_and_return_Organizations)
-            print("Adding Hearing...")
-            session.execute_write(self._create_and_return_Hearings)
-            print("Adding Person Org Edge...")
-            session.execute_write(self._create_and_return_PersonOrgEdge)
-            print("Adding Org Hearing Edge...")
-            session.execute_write(self._create_and_return_OrgHearingEdge)
+            # print("Adding Lobbyist...")
+            # session.execute_write(self._create_Lobbyist)
+            # print("Adding Organization...")
+            # session.execute_write(self._create_Organizations)
+            # print("Adding Hearing...")
+            # session.execute_write(self._create_Hearings)
+            print("Adding Utterances...")
+            session.execute_write(self._create_Utterances)
+            #print("Adding Person Org Edge...")
+            #session.execute_write(self._create_PersonOrgEdge)
+            #print("Adding Org Hearing Edge...")
+            #session.execute_write(self._create_OrgHearingEdge)
         self.driver.close()
 
     @staticmethod
-    def _create_and_return_Lobbyist(tx):
+    def _create_Lobbyist(tx):
         tx.run("LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/klau24/dd-api/main/data/lobbyist.csv' AS row \
                 MERGE (person:Person:Lobbyist {pid: row.pid}) \
                     ON CREATE SET person.first = row.first, person.middle = row.middle, person.last = row.last, person.state = row.state;"
                 )
     
     @staticmethod
-    def _create_and_return_Organizations(tx):
+    def _create_Organizations(tx):
         tx.run("LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/klau24/dd-api/main/data/organizations.csv' AS row \
                 MERGE (org:Organization {oid: row.oid}) \
                     ON CREATE SET org.name = row.name, org.city = row.city;"
                 )
 
     @staticmethod
-    def _create_and_return_Hearings(tx):
+    def _create_Hearings(tx):
         tx.run("LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/klau24/dd-api/main/data/hearings.csv' AS row \
                 MERGE (hearing:Hearing {hid: row.hid}) \
                     ON CREATE SET hearing.date = row.date, hearing.state = row.state, hearing.type = row.type, hearing.session_year = row.session_year;"
                 )
 
     @staticmethod
-    def _create_and_return_PersonOrgEdge(tx):
+    def _create_Utterances(tx):
+        tx.run("LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/klau24/dd-api/main/data/hearings.csv' AS row \
+                MERGE (hearing:Hearing {hid: row.hid}) \
+                    ON CREATE SET hearing.date = row.date, hearing.state = row.state, hearing.type = row.type, hearing.session_year = row.session_year;"
+                )
+
+    @staticmethod
+    def _create_PersonOrgEdge(tx):
         '''
         MATCH (order:Order {orderID: row.OrderID})
         MATCH (product:Product {productID: row.ProductID})
@@ -54,7 +63,7 @@ class Neo4jDDDB:
                 )
 
     @staticmethod
-    def _create_and_return_OrgHearingEdge(tx):
+    def _create_OrgHearingEdge(tx):
         tx.run("LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/klau24/dd-api/main/data/organization_participates_in_hearing.csv' AS row \
                 MATCH (org:Organization  {oid: row.oid}) \
                 MATCH (hearing:Hearing {hid: row.hid}) \
