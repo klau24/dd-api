@@ -37,11 +37,10 @@ class Neo4jDDDB:
 
     @staticmethod
     def _create_and_return_Lobbyist(tx):
-        result = tx.run("LOAD CSV WITH HEADERS FROM 'https://github.com/klau24/dd-api/blob/main/data/test.csv' AS row "
-                        "MERGE (person:Person:Lobbyist {pid: row.pid}) "
-                        "ON CREATE SET person.first = row.first, person.middle = row.middle, person.last = row.last, person.state = row.state;"
-                        )
-        return result
+        tx.run("LOAD CSV WITH HEADERS FROM 'https://github.com/klau24/dd-api/blob/main/data/test.csv' AS row \
+                MERGE (person:Person:Lobbyist {pid: row.pid}) \
+                ON CREATE SET person.first = row.first, person.middle = row.middle, person.last = row.last, person.state = row.state"
+                )
     
     @staticmethod
     def _create_and_return_Organizations(tx):

@@ -1,9 +1,2 @@
-pid,last,first,middle,filer_id,state
-504,Balla-Hawkins,David,NULL,NULL,CA
-1163,Fraumeni,Holly,C.,NULL,CA
-3540,Ma,Tam,NULL,NULL,CA
-3781,Micheletti,Denyne,M.,NULL,CA
-4293,Lane,Michael,NULL,NULL,CA
-4330,Rundle,Shaun,NULL,NULL,CA
-6416,Wagoner,Jim,NULL,NULL,CA
-8335,Miller,Pamela,NULL,NULL,CA
+pid,last,first,state
+1,Balla-Hawkins,David,CA
