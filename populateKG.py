@@ -74,10 +74,10 @@ class Neo4jDDDB:
     
     @staticmethod
     def _create_PersonUtteranceEdge(tx):
-        tx.run("LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/klau24/dd-api/main/data/organization_participates_in_hearing.csv' AS row \
-                MATCH (org:Organization  {oid: row.oid}) \
-                MATCH (hearing:Hearing {hid: row.hid}) \
-                MERGE (org)-[r:PARTICIPATES_IN]->(hearing);"
+        tx.run("LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/klau24/dd-api/main/data/person_spoke_utterance.csv' AS row \
+                MATCH (person:Person  {pid: row.pid}) \
+                MATCH (ut:Utterance {uid: row.uid}) \
+                MERGE (person)-[r:SPOKE]->(ut);"
                 )
 
 if __name__ == "__main__":
