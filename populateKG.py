@@ -53,11 +53,6 @@ class Neo4jDDDB:
 
     @staticmethod
     def _create_LobbyOrgEdge(tx):
-        '''
-        MATCH (order:Order {orderID: row.OrderID})
-        MATCH (product:Product {productID: row.ProductID})
-        MERGE (order)-[op:CONTAINS]->(product)
-        '''
         tx.run("LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/klau24/dd-api/main/data/lobbyist_works_for_org.csv' AS row \
                 MATCH (person:Person {pid: row.pid}) \
                 MATCH (org:Organization {oid: row.oid}) \
