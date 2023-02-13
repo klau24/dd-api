@@ -16,9 +16,11 @@ class Neo4jDDDB:
             print("Adding Utterances...")
             session.execute_write(self._create_Utterances)
             #print("Adding Person Org Edge...")
-            #session.execute_write(self._create_PersonOrgEdge)
+            #session.execute_write(self._create_LobbyOrgEdge)
             #print("Adding Org Hearing Edge...")
             #session.execute_write(self._create_OrgHearingEdge)
+            print("Adding Person Utterance Edge...")
+            session.execute_write(self._create_PersonUtteranceEdge)
         self.driver.close()
 
     @staticmethod
@@ -44,13 +46,13 @@ class Neo4jDDDB:
 
     @staticmethod
     def _create_Utterances(tx):
-        tx.run("LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/klau24/dd-api/main/data/hearings.csv' AS row \
-                MERGE (hearing:Hearing {hid: row.hid}) \
-                    ON CREATE SET hearing.date = row.date, hearing.state = row.state, hearing.type = row.type, hearing.session_year = row.session_year;"
+        tx.run("LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/klau24/dd-api/main/data/utterances.csv' AS row \
+                MERGE (ut:Utterance {uid: row.uid}) \
+                    ON CREATE SET ut.text = row.text, ut.time = row.time, ut.endTime = row.endTime, ut.type = row.type, ut.alignment = row.alignment, ut.state = row.state;"
                 )
 
     @staticmethod
-    def _create_PersonOrgEdge(tx):
+    def _create_LobbyOrgEdge(tx):
         '''
         MATCH (order:Order {orderID: row.OrderID})
         MATCH (product:Product {productID: row.ProductID})
@@ -64,6 +66,14 @@ class Neo4jDDDB:
 
     @staticmethod
     def _create_OrgHearingEdge(tx):
+        tx.run("LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/klau24/dd-api/main/data/organization_participates_in_hearing.csv' AS row \
+                MATCH (org:Organization  {oid: row.oid}) \
+                MATCH (hearing:Hearing {hid: row.hid}) \
+                MERGE (org)-[r:PARTICIPATES_IN]->(hearing);"
+                )
+    
+    @staticmethod
+    def _create_PersonUtteranceEdge(tx):
         tx.run("LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/klau24/dd-api/main/data/organization_participates_in_hearing.csv' AS row \
                 MATCH (org:Organization  {oid: row.oid}) \
                 MATCH (hearing:Hearing {hid: row.hid}) \
