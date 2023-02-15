@@ -24,6 +24,13 @@ class Neo4jDDDB:
         self.driver.close()
 
     @staticmethod
+    def _create_Public(tx):
+        tx.run("LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/klau24/dd-api/main/data/public.csv' AS row \
+                MERGE (person:Person:Lobbyist {pid: row.pid}) \
+                    ON CREATE SET person.first = row.first, person.middle = row.middle, person.last = row.last;"
+                )
+
+    @staticmethod
     def _create_Lobbyist(tx):
         tx.run("LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/klau24/dd-api/main/data/lobbyist.csv' AS row \
                 MERGE (person:Person:Lobbyist {pid: row.pid}) \
@@ -49,6 +56,20 @@ class Neo4jDDDB:
         tx.run("LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/klau24/dd-api/main/data/utterances.csv' AS row \
                 MERGE (ut:Utterance {uid: row.uid}) \
                     ON CREATE SET ut.text = row.text, ut.time = row.time, ut.endTime = row.endTime, ut.type = row.type, ut.alignment = row.alignment, ut.state = row.state;"
+                )
+    
+    @staticmethod
+    def _create_Committee(tx):
+        tx.run("LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/klau24/dd-api/main/data/committee.csv' AS row \
+                MERGE (c:Committee {cid: row.cid}) \
+                    ON CREATE SET c.name = row.name, c.short_name = row.short_name, c.session_year = row.session_year, c.house = row.house, c.type = row.type, c.state = row.state;"
+                )
+    
+    @staticmethod
+    def _create_Bill(tx):
+        tx.run("LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/klau24/dd-api/main/data/bill.csv' AS row \
+                MERGE (b:Bill {bid: row.bid}) \
+                    ON CREATE SET b.type = row.type, b.number = row.number, b.bill_state = row.billState, b.status = row.status, b.house = row.house, b.state = row.state;"
                 )
 
     @staticmethod
