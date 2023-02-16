@@ -7,15 +7,23 @@ class Neo4jDDDB:
     def __init__(self, uri, user, password):
         self.driver = GraphDatabase.driver(uri, auth=(user, password))
         with self.driver.session() as session:
+            print("Adding Legislators...")
+            session.execute_write(self._create_Legislators)
             print("Adding Lobbyist...")
             session.execute_write(self._create_Lobbyist)
+            print("Adding Public...")
+            session.execute_write(self._create_Public)
             print("Adding Organization...")
             session.execute_write(self._create_Organizations)
             print("Adding Hearing...")
             session.execute_write(self._create_Hearings)
             print("Adding Utterances...")
             session.execute_write(self._create_Utterances)
-            print("Adding Person Org Edge...")
+            print("Adding Committees...")
+            session.execute_write(self._create_Committees)
+            print("Adding Bills...")
+            session.execute_write(self._create_Bills)
+            print("Adding Lobbyist Org Edge...")
             session.execute_write(self._create_LobbyOrgEdge)
             print("Adding Org Hearing Edge...")
             session.execute_write(self._create_OrgHearingEdge)
@@ -24,17 +32,25 @@ class Neo4jDDDB:
         self.driver.close()
 
     @staticmethod
-    def _create_Public(tx):
-        tx.run("LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/klau24/dd-api/main/data/public.csv' AS row \
-                MERGE (person:Person:Lobbyist {pid: row.pid}) \
-                    ON CREATE SET person.first = row.first, person.middle = row.middle, person.last = row.last;"
+    def _create_Legislators(tx):
+        tx.run("LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/klau24/dd-api/main/data/legislator.csv' AS row \
+                MERGE (person:Person:Legislator {pid: row.pid}) \
+                    ON CREATE SET person.first = row.first, person.middle = row.middle, person.last = row.last, \
+                    person.state = row.state, person.twitter_handle = row.twitter_handle, person.capitol_phone = row.capitol_phone, \
+                    person.room_number = row.room_number;"
                 )
-
     @staticmethod
     def _create_Lobbyist(tx):
         tx.run("LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/klau24/dd-api/main/data/lobbyist.csv' AS row \
                 MERGE (person:Person:Lobbyist {pid: row.pid}) \
                     ON CREATE SET person.first = row.first, person.middle = row.middle, person.last = row.last, person.state = row.state;"
+                )
+
+    @staticmethod
+    def _create_Public(tx):
+        tx.run("LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/klau24/dd-api/main/data/public.csv' AS row \
+                MERGE (person:Person:Public {pid: row.pid}) \
+                    ON CREATE SET person.first = row.first, person.middle = row.middle, person.last = row.last;"
                 )
     
     @staticmethod
@@ -59,14 +75,14 @@ class Neo4jDDDB:
                 )
     
     @staticmethod
-    def _create_Committee(tx):
+    def _create_Committees(tx):
         tx.run("LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/klau24/dd-api/main/data/committee.csv' AS row \
                 MERGE (c:Committee {cid: row.cid}) \
                     ON CREATE SET c.name = row.name, c.short_name = row.short_name, c.session_year = row.session_year, c.house = row.house, c.type = row.type, c.state = row.state;"
                 )
     
     @staticmethod
-    def _create_Bill(tx):
+    def _create_Bills(tx):
         tx.run("LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/klau24/dd-api/main/data/bill.csv' AS row \
                 MERGE (b:Bill {bid: row.bid}) \
                     ON CREATE SET b.type = row.type, b.number = row.number, b.bill_state = row.billState, b.status = row.status, b.house = row.house, b.state = row.state;"
