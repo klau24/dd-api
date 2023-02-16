@@ -7,6 +7,7 @@ class Neo4jDDDB:
     def __init__(self, uri, user, password):
         self.driver = GraphDatabase.driver(uri, auth=(user, password))
         with self.driver.session() as session:
+            # need to clean up csv to have correct quotations
             print("Adding Legislators...")
             session.execute_write(self._create_Legislators)
             print("Adding Lobbyist...")
@@ -29,6 +30,7 @@ class Neo4jDDDB:
             session.execute_write(self._create_OrgHearingEdge)
             print("Adding Person Utterance Edge...")
             session.execute_write(self._create_PersonUtteranceEdge)
+            print("Done...")
         self.driver.close()
 
     @staticmethod
