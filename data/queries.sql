@@ -59,3 +59,17 @@ select LobbyistRepresentation.oid, Organizations.name, Hearing.hid
 from LobbyistRepresentation
 inner join Organizations on LobbyistRepresentation.oid = Organizations.oid
 inner join Hearing on LobbyistRepresentation.hid = Hearing.hid;
+
+-- Legislator is_member_of Committee --
+SELECT Person.pid, servesOn.cid, servesOn.year
+FROM Person 
+INNER JOIN servesOn on Person.pid = servesOn.pid;
+
+-- Committee present_at Hearing --
+select CommitteeHearings.cid, CommitteeHearings.hid
+from CommitteeHearings;
+
+-- Bill is_dicussed_in Hearing --
+select Bill.bid, HearingAgenda.hid
+from Bill
+inner join HearingAgenda on Bill.bid = HearingAgenda.bid;
