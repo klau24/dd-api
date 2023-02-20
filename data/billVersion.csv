@@ -1,0 +1,1001 @@
+vid,bid,date,billState,subject,state
+CA_20150AB100093CHP,CA_201520160AB1000,2015-10-08,Chaptered,"California State University: student success fees.",CA
+CA_20150AB100094ENR,CA_201520160AB1000,2015-09-03,Enrolled,"California State University: student success fees.",CA
+CA_20150AB100095AMD,CA_201520160AB1000,2015-08-24,"Amended Senate","California State University: student success fees.",CA
+CA_20150AB100096AMD,CA_201520160AB1000,2015-05-28,"Amended Assembly","California State University: student success fees.",CA
+CA_20150AB100097AMD,CA_201520160AB1000,2015-05-06,"Amended Assembly","California State University: student success fees.",CA
+CA_20150AB100098AMD,CA_201520160AB1000,2015-04-28,"Amended Assembly","California State University: student success fees.",CA
+CA_20150AB100099INT,CA_201520160AB1000,2015-02-26,Introduced,"California State University: student success fees.",CA
+CA_20150AB100192CHP,CA_201520160AB1001,2016-09-30,Chaptered,"Child abuse: reporting: foster family agencies.",CA
+CA_20150AB100193ENR,CA_201520160AB1001,2016-08-29,Enrolled,"Child abuse: reporting: foster family agencies.",CA
+CA_20150AB100194AMD,CA_201520160AB1001,2016-08-18,"Amended Senate","Child abuse: reporting: foster family agencies.",CA
+CA_20150AB100195AMD,CA_201520160AB1001,2016-08-02,"Amended Senate","Child abuse: reporting: foster family agencies.",CA
+CA_20150AB100196AMD,CA_201520160AB1001,2016-05-11,"Amended Senate","Child abuse: reporting: foster family agencies.",CA
+CA_20150AB100197AMD,CA_201520160AB1001,2016-01-14,"Amended Assembly","Child abuse: reporting: foster family agencies.",CA
+CA_20150AB100198AMD,CA_201520160AB1001,2016-01-04,"Amended Assembly","Child abuse: reporting: foster family agencies.",CA
+CA_20150AB100199INT,CA_201520160AB1001,2015-02-26,Introduced,"Child abuse: reporting.",CA
+CA_20150AB100295CHP,CA_201520160AB1002,2015-07-14,Chaptered,"Civil actions: interpreter costs.",CA
+CA_20150AB100296ENR,CA_201520160AB1002,2015-06-29,Enrolled,"Civil actions: interpreter costs.",CA
+CA_20150AB100297AMD,CA_201520160AB1002,2015-05-07,"Amended Assembly","Civil actions: interpreter costs.",CA
+CA_20150AB100298AMD,CA_201520160AB1002,2015-04-28,"Amended Assembly","Civil actions: interpreter costs.",CA
+CA_20150AB100299INT,CA_201520160AB1002,2015-02-26,Introduced,"Civil actions: interpreter costs.",CA
+CA_20150AB100397AMD,CA_201520160AB1003,2015-04-22,"Amended Assembly","Mental health: sexually violent predators.",CA
+CA_20150AB100398AMD,CA_201520160AB1003,2015-03-26,"Amended Assembly","Mental health: Sexually violent predators.",CA
+CA_20150AB100399INT,CA_201520160AB1003,2015-02-26,Introduced,"Mental health: State Department of State Hospitals.",CA
+CA_20150AB100495CHP,CA_201520160AB1004,2015-08-10,Chaptered,"California Tahoe Conservancy.",CA
+CA_20150AB100496ENR,CA_201520160AB1004,2015-07-13,Enrolled,"California Tahoe Conservancy.",CA
+CA_20150AB100497AMD,CA_201520160AB1004,2015-05-14,"Amended Assembly","California Tahoe Conservancy.",CA
+CA_20150AB100498AMD,CA_201520160AB1004,2015-04-20,"Amended Assembly","California Tahoe Conservancy.",CA
+CA_20150AB100499INT,CA_201520160AB1004,2015-02-26,Introduced,"California Tahoe Conservancy.",CA
+CA_20150AB100593CHP,CA_201520160AB1005,2016-09-22,Chaptered,"California Beverage Container Recycling and Litter Reduction Act: market development payments.",CA
+CA_20150AB100594ENR,CA_201520160AB1005,2016-08-29,Enrolled,"California Beverage Container Recycling and Litter Reduction Act: market development payments.",CA
+CA_20150AB100595AMD,CA_201520160AB1005,2016-08-15,"Amended Senate","California Beverage Container Recycling and Litter Reduction Act: market development payments.",CA
+CA_20150AB100596AMD,CA_201520160AB1005,2016-06-14,"Amended Senate","California Beverage Container Recycling and Litter Reduction Act: market development payments.",CA
+CA_20150AB100597AMD,CA_201520160AB1005,2016-01-04,"Amended Assembly","California Beverage Container Recycling and Litter Reduction Act: market development payments.",CA
+CA_20150AB100598AMD,CA_201520160AB1005,2015-03-26,"Amended Assembly","Electric vehicles: infrastructure: charging systems.",CA
+CA_20150AB100599INT,CA_201520160AB1005,2015-02-26,Introduced,"Electric vehicles: charging systems.",CA
+CA_20150AB100698AMD,CA_201520160AB1006,2015-04-21,"Amended Assembly","Prisoners: mental health treatment.",CA
+CA_20150AB100699INT,CA_201520160AB1006,2015-02-26,Introduced,"Prisoners: mental health treatment.",CA
+CA_20150AB100798AMD,CA_201520160AB1007,2015-03-26,"Amended Assembly","Minimum wage.",CA
+CA_20150AB100799INT,CA_201520160AB1007,2015-02-26,Introduced,"Minimum wage.",CA
+CA_20150AB100897CHP,CA_201520160AB1008,2015-07-15,Chaptered,"Public utilities: sale of hydrogen to public as a motor vehicle fuel.",CA
+CA_20150AB100898ENR,CA_201520160AB1008,2015-07-02,Enrolled,"Public utilities: sale of hydrogen to public as a motor vehicle fuel.",CA
+CA_20150AB100899INT,CA_201520160AB1008,2015-02-26,Introduced,"Public utilities: sale of hydrogen to public as a motor vehicle fuel.",CA
+CA_20150AB10097AMD,CA_201520160AB100,2016-01-04,"Amended Assembly","Pupil instruction: ethnic studies.",CA
+CA_20150AB10098AMD,CA_201520160AB100,2015-04-22,"Amended Assembly","California Law Fellowship Program.",CA
+CA_20150AB100999INT,CA_201520160AB1009,2015-02-26,Introduced,"Local government: redevelopment: revenues from property tax override rates.",CA
+CA_20150AB10099INT,CA_201520160AB100,2015-01-08,Introduced,"California Law Fellowship Program.",CA
+CA_20150AB101097AMD,CA_201520160AB1010,2015-04-27,"Amended Assembly","Community colleges: part-time, temporary employees.",CA
+CA_20150AB101098AMD,CA_201520160AB1010,2015-04-09,"Amended Assembly","Community colleges: part-time, temporary employees.",CA
+CA_20150AB101099INT,CA_201520160AB1010,2015-02-26,Introduced,"Community colleges: part-time, temporary employees.",CA
+CA_20150AB101197AMD,CA_201520160AB1011,2015-04-14,"Amended Assembly"," Department of Transportation: transfer of vacant property.",CA
+CA_20150AB101198AMD,CA_201520160AB1011,2015-03-26,"Amended Assembly","State property: Los Angeles.",CA
+CA_20150AB101199INT,CA_201520160AB1011,2015-02-26,Introduced,"State property: sale.",CA
+CA_20150AB101292CHP,CA_201520160AB1012,2015-10-09,Chaptered,"Pupil instruction: course periods without educational content.",CA
+CA_20150AB101293ENR,CA_201520160AB1012,2015-09-11,Enrolled,"Pupil instruction: course periods without educational content.",CA
+CA_20150AB101294AMD,CA_201520160AB1012,2015-09-03,"Amended Senate","Pupil instruction: course periods without educational content.",CA
+CA_20150AB101295AMD,CA_201520160AB1012,2015-07-15,"Amended Senate","Pupil instruction: course periods without educational content.",CA
+CA_20150AB101296AMD,CA_201520160AB1012,2015-06-01,"Amended Assembly","Pupil instruction: course periods without educational content.",CA
+CA_20150AB101297AMD,CA_201520160AB1012,2015-05-06,"Amended Assembly","Pupil instruction: course periods without educational content.",CA
+CA_20150AB101298AMD,CA_201520160AB1012,2015-04-07,"Amended Assembly","Pupil instruction: course periods without educational content.",CA
+CA_20150AB101299INT,CA_201520160AB1012,2015-02-26,Introduced,"Pupil instruction: course periods without educational content.",CA
+CA_20150AB101398AMD,CA_201520160AB1013,2015-06-19,"Amended Senate","Energy: public domain computer program: home energy rating.",CA
+CA_20150AB101399INT,CA_201520160AB1013,2015-02-26,Introduced,"Energy: public domain computer program: home energy rating.",CA
+CA_20150AB101491CHP,CA_201520160AB1014,2016-09-21,Chaptered,"Education finance: Safe Neighborhoods and Schools Fund: Learning Communities for School Success Program.",CA
+CA_20150AB101492ENR,CA_201520160AB1014,2016-08-26,Enrolled,"Education finance: Safe Neighborhoods and Schools Fund: Learning Communities for School Success Program.",CA
+CA_20150AB101493AMD,CA_201520160AB1014,2016-08-15,"Amended Senate","Education finance: Safe Neighborhoods and Schools Fund: Learning Communities for School Success Program.",CA
+CA_20150AB101494AMD,CA_201520160AB1014,2016-06-23,"Amended Senate","Education finance: Safe Neighborhoods and Schools Fund: Learning Communities for School Success Program.",CA
+CA_20150AB101495AMD,CA_201520160AB1014,2015-09-01,"Amended Senate","Pupils: truancy: Our Children’s Success–The Early Intervention Attendance Pilot Grant Program.",CA
+CA_20150AB101496AMD,CA_201520160AB1014,2015-06-01,"Amended Assembly","Pupils: truancy: Our Children’s Success–The Early Intervention Attendance Pilot Grant Program.",CA
+CA_20150AB101497AMD,CA_201520160AB1014,2015-05-04,"Amended Assembly","Pupils: truancy: Our Children’s Success–The Early Intervention Attendance Pilot Grant Program.",CA
+CA_20150AB101498AMD,CA_201520160AB1014,2015-03-26,"Amended Assembly","Pupils: truancy: Our Children’s Success–The Early Intervention Attendance Grant Program.",CA
+CA_20150AB101499INT,CA_201520160AB1014,2015-02-26,Introduced,"Pupils: truancy.",CA
+CA_20150AB101596CHP,CA_201520160AB1015,2015-07-02,Chaptered,"Parking: car share vehicles.",CA
+CA_20150AB101597ENR,CA_201520160AB1015,2015-06-19,Enrolled,"Parking: car share vehicles.",CA
+CA_20150AB101598AMD,CA_201520160AB1015,2015-04-23,"Amended Assembly","Parking: car share vehicles.",CA
+CA_20150AB101599INT,CA_201520160AB1015,2015-02-26,Introduced,"Parking: car share vehicles.",CA
+CA_20150AB101693CHP,CA_201520160AB1016,2015-10-02,Chaptered,"Public postsecondary education: Student Transfer Achievement Reform Act.",CA
+CA_20150AB101694ENR,CA_201520160AB1016,2015-08-31,Enrolled,"Public postsecondary education: Student Transfer Achievement Reform Act.",CA
+CA_20150AB101695AMD,CA_201520160AB1016,2015-07-08,"Amended Senate","Public postsecondary education: Student Transfer Achievement Reform Act.",CA
+CA_20150AB101696AMD,CA_201520160AB1016,2015-06-30,"Amended Senate","Public postsecondary education: Student Transfer Achievement Reform Act.",CA
+CA_20150AB101697AMD,CA_201520160AB1016,2015-05-28,"Amended Assembly","Public postsecondary education: Student Transfer Achievement Reform Act.",CA
+CA_20150AB101698AMD,CA_201520160AB1016,2015-04-13,"Amended Assembly","Public postsecondary education: Student Transfer Achievement Reform Act.",CA
+CA_20150AB101699INT,CA_201520160AB1016,2015-02-26,Introduced,"Public postsecondary education: Student Transfer Achievement Reform Act.",CA
+CA_20150AB101793ENR,CA_201520160AB1017,2015-09-08,Enrolled,Employers.,CA
+CA_20150AB101794AMD,CA_201520160AB1017,2015-08-24,"Amended Senate",Employers.,CA
+CA_20150AB101795AMD,CA_201520160AB1017,2015-07-08,"Amended Senate",Employers.,CA
+CA_20150AB101796AMD,CA_201520160AB1017,2015-05-18,"Amended Assembly",Employers.,CA
+CA_20150AB101797AMD,CA_201520160AB1017,2015-04-16,"Amended Assembly",Employers.,CA
+CA_20150AB101798AMD,CA_201520160AB1017,2015-03-26,"Amended Assembly","Discrimination: equal pay: state contracting.",CA
+CA_20150AB101799INT,CA_201520160AB1017,2015-02-26,Introduced,"Wages: gender pay equity.",CA
+CA_20150AB101897AMD,CA_201520160AB1018,2015-05-28,"Amended Assembly","Medi-Cal: Early and Periodic Screening, Diagnosis, and Treatment (EPSDT).",CA
+CA_20150AB101898AMD,CA_201520160AB1018,2015-04-13,"Amended Assembly","Medi-Cal: Early and Periodic Screening, Diagnosis, and Treatment (EPSDT).",CA
+CA_20150AB101899INT,CA_201520160AB1018,2015-02-26,Introduced,"Medi-Cal: Early and Periodic Screening, Diagnosis, and Treatment (EPSDT).",CA
+CA_20150AB10194ENR,CA_201520160AB101,2015-09-14,Enrolled,"Pupil instruction: ethnic studies.",CA
+CA_20150AB10195AMD,CA_201520160AB101,2015-09-01,"Amended Senate","Pupil instruction: ethnic studies.",CA
+CA_20150AB10196AMD,CA_201520160AB101,2015-06-01,"Amended Assembly","Pupil instruction: ethnic studies.",CA
+CA_20150AB10197AMD,CA_201520160AB101,2015-03-18,"Amended Assembly","Pupil instruction: ethnic studies.",CA
+CA_20150AB10198AMD,CA_201520160AB101,2015-01-26,"Amended Assembly","Pupil instruction: ethnic studies.",CA
+CA_20150AB101999INT,CA_201520160AB1019,2015-02-26,Introduced,"Metal theft and related recycling crimes.",CA
+CA_20150AB10199INT,CA_201520160AB101,2015-01-08,Introduced,"State educational programs: educational advisory bodies.",CA
+CA_20150AB102094CHP,CA_201520160AB1020,2015-10-10,Chaptered,"Elections: voter registration.",CA
+CA_20150AB102095ENR,CA_201520160AB1020,2015-09-14,Enrolled,"Elections: voter registration.",CA
+CA_20150AB102096AMD,CA_201520160AB1020,2015-09-01,"Amended Senate","Elections: voter registration.",CA
+CA_20150AB102097AMD,CA_201520160AB1020,2015-08-17,"Amended Senate","Elections: voter registration.",CA
+CA_20150AB102098AMD,CA_201520160AB1020,2015-07-01,"Amended Senate","Elections: voter registration.",CA
+CA_20150AB102099INT,CA_201520160AB1020,2015-02-26,Introduced,"Elections: voter registration.",CA
+CA_20150AB102197AMD,CA_201520160AB1021,2015-05-07,"Amended Assembly","Sales and use taxes: smartphones: bundled transactions.",CA
+CA_20150AB102198AMD,CA_201520160AB1021,2015-03-26,"Amended Assembly","Sales and use taxes: smartphones: bundled transactions.",CA
+CA_20150AB102199INT,CA_201520160AB1021,2015-02-26,Introduced,"Personal income taxes.",CA
+CA_20150AB102298AMD,CA_201520160AB1022,2015-03-26,"Amended Assembly","Solar Water Heating and Efficiency Act of 2007.",CA
+CA_20150AB102299INT,CA_201520160AB1022,2015-02-26,Introduced,"Net energy metering.",CA
+CA_20150AB102395ENR,CA_201520160AB1023,2015-09-16,Enrolled,"Public Utilities Commission: proceedings: ex parte communications.",CA
+CA_20150AB102396AMD,CA_201520160AB1023,2015-09-04,"Amended Senate","Public Utilities Commission: proceedings: ex parte communications.",CA
+CA_20150AB102397AMD,CA_201520160AB1023,2015-08-18,"Amended Senate","Public Utilities Commission: proceedings: ex parte communications.",CA
+CA_20150AB102398AMD,CA_201520160AB1023,2015-04-20,"Amended Assembly","Public Utilities Commission: proceedings: ex parte communications.",CA
+CA_20150AB102399INT,CA_201520160AB1023,2015-02-26,Introduced,"Public Utilities Commission: proceedings: ex parte communications.",CA
+CA_20150AB102495CHP,CA_201520160AB1024,2015-10-06,Chaptered,"Driving schools.",CA
+CA_20150AB102496ENR,CA_201520160AB1024,2015-09-08,Enrolled,"Driving schools.",CA
+CA_20150AB102497AMD,CA_201520160AB1024,2015-06-18,"Amended Senate","Driving schools.",CA
+CA_20150AB102498AMD,CA_201520160AB1024,2015-04-14,"Amended Assembly","Driving schools.",CA
+CA_20150AB102499INT,CA_201520160AB1024,2015-02-26,Introduced,"Driving schools.",CA
+CA_20150AB102595AMD,CA_201520160AB1025,2015-08-18,"Amended Senate","Pupil health: multitiered and integrated interventions pilot program.",CA
+CA_20150AB102596AMD,CA_201520160AB1025,2015-06-02,"Amended Assembly","Pupil health: multitiered and integrated interventions pilot program.",CA
+CA_20150AB102597AMD,CA_201520160AB1025,2015-05-06,"Amended Assembly","Pupil health: multitiered and integrated interventions pilot program.",CA
+CA_20150AB102598AMD,CA_201520160AB1025,2015-04-06,"Amended Assembly","Pupil health: multitiered and integrated interventions pilot program.",CA
+CA_20150AB102599INT,CA_201520160AB1025,2015-02-26,Introduced,"Pupil health: multitiered and integrated interventions pilot program.",CA
+CA_20150AB102699INT,CA_201520160AB1026,2015-02-26,Introduced,"Secretary of State: elections: voter turnout.",CA
+CA_20150AB102798AMD,CA_201520160AB1027,2015-03-26,"Amended Assembly","Health care coverage: contracted rates: disclosure to consumers.",CA
+CA_20150AB102799INT,CA_201520160AB1027,2015-02-26,Introduced,"Automobile insurance coverage: medical transportation services.",CA
+CA_20150AB102896CHP,CA_201520160AB1028,2015-09-21,Chaptered,"Judicial officers: oaths and affirmations.",CA
+CA_20150AB102897ENR,CA_201520160AB1028,2015-09-03,Enrolled,"Judicial officers: oaths and affirmations.",CA
+CA_20150AB102898AMD,CA_201520160AB1028,2015-05-13,"Amended Assembly","Judicial officers: oaths and affirmations.",CA
+CA_20150AB102899INT,CA_201520160AB1028,2015-02-26,Introduced,"Judicial officers: oaths and affirmations.",CA
+CA_20150AB10298AMD,CA_201520160AB102,2015-03-26,"Amended Assembly","Railroad and surface transportation safety and emergency planning and response: hazardous materials.",CA
+CA_20150AB102996AMD,CA_201520160AB1029,2016-06-21,"Amended Senate","Veterans: service providers.",CA
+CA_20150AB102997AMD,CA_201520160AB1029,2015-05-18,"Amended Assembly","Veterans: service providers.",CA
+CA_20150AB102998AMD,CA_201520160AB1029,2015-04-23,"Amended Assembly","Veterans: service providers.",CA
+CA_20150AB102999INT,CA_201520160AB1029,2015-02-26,Introduced,"Veterans: service providers.",CA
+CA_20150AB10299INT,CA_201520160AB102,2015-01-08,Introduced,"Railroad safety and emergency planning and response.",CA
+CA_20150AB103097AMD,CA_201520160AB1030,2015-07-07,"Amended Senate","California Global Warming Solutions Act of 2006: Greenhouse Gas Reduction Fund.",CA
+CA_20150AB103098AMD,CA_201520160AB1030,2015-05-05,"Amended Assembly","California Global Warming Solutions Act of 2006: Greenhouse Gas Reduction Fund.",CA
+CA_20150AB103099INT,CA_201520160AB1030,2015-02-26,Introduced,"California Global Warming Solutions Act of 2006: Greenhouse Gas Reduction Fund.",CA
+CA_20150AB103197ENR,CA_201520160AB1031,2015-09-09,Enrolled,"Public Employees’ Medical and Hospital Care Act: contracting entities.",CA
+CA_20150AB103198AMD,CA_201520160AB1031,2015-06-22,"Amended Senate","Public Employees’ Medical and Hospital Care Act: contracting entities.",CA
+CA_20150AB103199INT,CA_201520160AB1031,2015-02-26,Introduced,"Public Employees’ Medical and Hospital Care Act: contracting entities.",CA
+CA_20150AB103297CHP,CA_201520160AB1032,2015-10-04,Chaptered,"Diesel Fuel Tax Law: reimbursements.",CA
+CA_20150AB103298ENR,CA_201520160AB1032,2015-09-04,Enrolled,"Diesel Fuel Tax Law: reimbursements.",CA
+CA_20150AB103299INT,CA_201520160AB1032,2015-02-26,Introduced,"Diesel Fuel Tax Law: reimbursements.",CA
+CA_20150AB103394CHP,CA_201520160AB1033,2016-09-14,Chaptered,"Economic impact assessment: small business definition.",CA
+CA_20150AB103395ENR,CA_201520160AB1033,2016-08-23,Enrolled,"Economic impact assessment: small business definition.",CA
+CA_20150AB103396AMD,CA_201520160AB1033,2016-05-02,"Amended Senate","Economic impact assessment: small business definition.",CA
+CA_20150AB103397AMD,CA_201520160AB1033,2016-02-08,"Amended Senate","Economic impact assessment: small business definition.",CA
+CA_20150AB103398AMD,CA_201520160AB1033,2016-01-04,"Amended Assembly","Economic impact analysis: small business definition.",CA
+CA_20150AB103399INT,CA_201520160AB1033,2015-02-26,Introduced,"Infrastructure financing.",CA
+CA_20150AB103492CHP,CA_201520160AB1034,2015-10-08,Chaptered,"Surface mining: reclamation plans: renewable energy generation facility.",CA
+CA_20150AB103493ENR,CA_201520160AB1034,2015-09-02,Enrolled,"Surface mining: reclamation plans: renewable energy generation facility.",CA
+CA_20150AB103494AMD,CA_201520160AB1034,2015-08-18,"Amended Senate","Surface mining: reclamation plans: renewable energy generation facility.",CA
+CA_20150AB103495AMD,CA_201520160AB1034,2015-07-16,"Amended Senate","Surface mining: reclamation plans: commercial renewable energy generation facility.",CA
+CA_20150AB103496AMD,CA_201520160AB1034,2015-06-24,"Amended Senate","Surface mining: reclamation plans: renewable energy generation facility.",CA
+CA_20150AB103497AMD,CA_201520160AB1034,2015-05-05,"Amended Assembly","Surface mining: reclamation plans: renewable energy generation facility.",CA
+CA_20150AB103498AMD,CA_201520160AB1034,2015-04-21,"Amended Assembly","Surface mining: reclamation plans: renewable energy generation facility.",CA
+CA_20150AB103499INT,CA_201520160AB1034,2015-02-26,Introduced,"Surface mining and reclamation plans: exemption.",CA
+CA_20150AB103598AMD,CA_201520160AB1035,2015-03-26,"Amended Assembly","Alcoholic beverages: nonprofits: auctions: licenses.",CA
+CA_20150AB103599INT,CA_201520160AB1035,2015-02-26,Introduced,"Alcoholic beverages: temporary licenses.",CA
+CA_20150AB103696CHP,CA_201520160AB1036,2015-07-02,Chaptered,"Notaries public: acceptance of identification.",CA
+CA_20150AB103697ENR,CA_201520160AB1036,2015-06-19,Enrolled,"Notaries public: acceptance of identification.",CA
+CA_20150AB103698AMD,CA_201520160AB1036,2015-04-09,"Amended Assembly","Notaries public: acceptance of identification.",CA
+CA_20150AB103699INT,CA_201520160AB1036,2015-02-26,Introduced,"Notaries public: acceptance of identification.",CA
+CA_20150AB103799INT,CA_201520160AB1037,2015-02-26,Introduced,"Trust proceedings.",CA
+CA_20150AB103899INT,CA_201520160AB1038,2015-02-26,Introduced,"Employment: flexible work schedules.",CA
+CA_20150AB10398AMD,CA_201520160AB103,2015-05-27,"Amended Assembly","Budget Act of 2015.",CA
+CA_20150AB103996CHP,CA_201520160AB1039,2015-09-01,Chaptered,"Fertilizing materials: violations: administrative penalty: filing of final judgment. ",CA
+CA_20150AB103997ENR,CA_201520160AB1039,2015-08-21,Enrolled,"Fertilizing materials: violations: administrative penalty: filing of final judgment. ",CA
+CA_20150AB103998AMD,CA_201520160AB1039,2015-04-21,"Amended Assembly","Fertilizing materials: violations: administrative penalty: filing of final judgment. ",CA
+CA_20150AB103999INT,CA_201520160AB1039,2015-02-26,Introduced,"Pest control: biological control organisms.",CA
+CA_20150AB10399INT,CA_201520160AB103,2015-01-09,Introduced,"Budget Act of 2015.",CA
+CA_20150AB104098AMD,CA_201520160AB1040,2015-07-06,"Amended Senate","Property taxation: change in ownership.",CA
+CA_20150AB104099INT,CA_201520160AB1040,2015-02-26,Introduced,"Franchise Tax Board: federal tax law changes: report.",CA
+CA_20150AB104199INT,CA_201520160AB1041,2015-02-26,Introduced,"Personal income taxes: education savings accounts.",CA
+CA_20150AB104293ENR,CA_201520160AB1042,2015-09-14,Enrolled,"Proprietary security services.",CA
+CA_20150AB104294AMD,CA_201520160AB1042,2015-09-04,"Amended Senate","Proprietary security services.",CA
+CA_20150AB104295AMD,CA_201520160AB1042,2015-08-18,"Amended Senate","Proprietary security services.",CA
+CA_20150AB104296AMD,CA_201520160AB1042,2015-06-23,"Amended Senate","Proprietary security services.",CA
+CA_20150AB104297AMD,CA_201520160AB1042,2015-05-18,"Amended Assembly","Proprietary security services.",CA
+CA_20150AB104298AMD,CA_201520160AB1042,2015-04-20,"Amended Assembly","Proprietary security services.",CA
+CA_20150AB104299INT,CA_201520160AB1042,2015-02-26,Introduced,"Proprietary security services.",CA
+CA_20150AB104398ENR,CA_201520160AB1043,2015-09-10,Enrolled,"Highways: State Highway Route 43.",CA
+CA_20150AB104399INT,CA_201520160AB1043,2015-02-26,Introduced,"Highways: State Highway Route 43.",CA
+CA_20150AB104499INT,CA_201520160AB1044,2015-02-26,Introduced,"School employees: reduction in workforce.",CA
+CA_20150AB104592CHP,CA_201520160AB1045,2015-10-08,Chaptered,"Organic waste: composting.",CA
+CA_20150AB104593ENR,CA_201520160AB1045,2015-09-14,Enrolled,"Organic waste: composting.",CA
+CA_20150AB104594AMD,CA_201520160AB1045,2015-09-04,"Amended Senate","Organic waste: composting.",CA
+CA_20150AB104595AMD,CA_201520160AB1045,2015-08-17,"Amended Senate","Organic waste: composting.",CA
+CA_20150AB104596AMD,CA_201520160AB1045,2015-07-02,"Amended Senate","Organic waste: composting.",CA
+CA_20150AB104597AMD,CA_201520160AB1045,2015-04-20,"Amended Assembly","Organic waste: composting.",CA
+CA_20150AB104598AMD,CA_201520160AB1045,2015-03-26,"Amended Assembly","Organic waste: composting.",CA
+CA_20150AB104599INT,CA_201520160AB1045,2015-02-26,Introduced,"Composting facilities: streamline permitting and regulation. ",CA
+CA_20150AB104698AMD,CA_201520160AB1046,2015-04-07,"Amended Assembly","Hospitals: community benefits.",CA
+CA_20150AB104699INT,CA_201520160AB1046,2015-02-26,Introduced,"Hospitals: community benefits.",CA
+CA_20150AB104799INT,CA_201520160AB1047,2015-02-26,Introduced,"Dams and reservoirs: fees.",CA
+CA_20150AB104899INT,CA_201520160AB1048,2015-02-26,Introduced,"School finance: school districts: annual budgets: reserve balance.",CA
+CA_20150AB10496CHP,CA_201520160AB104,2015-06-24,Chaptered,"Education finance: education omnibus trailer bill.",CA
+CA_20150AB10497ENR,CA_201520160AB104,2015-06-19,Enrolled,"Education finance: education omnibus trailer bill.",CA
+CA_20150AB10498AMD,CA_201520160AB104,2015-06-16,"Amended Senate","Education finance: education omnibus trailer bill.",CA
+CA_20150AB104996CHP,CA_201520160AB1049,2015-07-14,Chaptered,"Parent and child relationship. ",CA
+CA_20150AB104997ENR,CA_201520160AB1049,2015-06-29,Enrolled,"Parent and child relationship. ",CA
+CA_20150AB104998AMD,CA_201520160AB1049,2015-04-22,"Amended Assembly","Parent and child relationship. ",CA
+CA_20150AB104999INT,CA_201520160AB1049,2015-02-26,Introduced,"Parent and child relationship. ",CA
+CA_20150AB10499INT,CA_201520160AB104,2015-01-09,Introduced,"Budget Act of 2015.",CA
+CA_20150AB105095ENR,CA_201520160AB1050,2016-08-31,Enrolled,"Occupational safety and health: permanent variances.",CA
+CA_20150AB105096AMD,CA_201520160AB1050,2016-02-10,"Amended Senate","Occupational safety and health: permanent variances.",CA
+CA_20150AB105097AMD,CA_201520160AB1050,2015-07-07,"Amended Senate","State employees: charitable deductions.",CA
+CA_20150AB105098AMD,CA_201520160AB1050,2015-04-21,"Amended Assembly","State employees: charitable deductions.",CA
+CA_20150AB105099INT,CA_201520160AB1050,2015-02-26,Introduced,"State employees: charitable deductions.",CA
+CA_20150AB105194AMD,CA_201520160AB1051,2016-08-02,"Amended Senate","Denti-Cal program: reimbursement rates.",CA
+CA_20150AB105195AMD,CA_201520160AB1051,2016-05-03,"Amended Senate","Denti-Cal program.",CA
+CA_20150AB105196AMD,CA_201520160AB1051,2015-07-15,"Amended Senate","Human trafficking.",CA
+CA_20150AB105197AMD,CA_201520160AB1051,2015-05-04,"Amended Assembly","Human trafficking.",CA
+CA_20150AB105198AMD,CA_201520160AB1051,2015-04-20,"Amended Assembly","Human trafficking.",CA
+CA_20150AB105199INT,CA_201520160AB1051,2015-02-26,Introduced,"Human trafficking.",CA
+CA_20150AB105296AMD,CA_201520160AB1052,2016-08-19,"Amended Senate","State Teachers’ Retirement System: board of administration: investments.",CA
+CA_20150AB105297AMD,CA_201520160AB1052,2015-08-17,"Amended Senate","Retirement board authority: investments.",CA
+CA_20150AB105298AMD,CA_201520160AB1052,2015-07-06,"Amended Senate","Retirement board authority: investments.",CA
+CA_20150AB105299INT,CA_201520160AB1052,2015-02-26,Introduced,"Retirement board authority: investments.",CA
+CA_20150AB105398AMD,CA_201520160AB1053,2015-03-26,"Amended Assembly"," Certificates of death: veterans.",CA
+CA_20150AB105399INT,CA_201520160AB1053,2015-02-26,Introduced,"Military service: benefits.",CA
+CA_20150AB105499INT,CA_201520160AB1054,2015-02-26,Introduced,"Home care services: licensing and registration: regional center vendors.",CA
+CA_20150AB105599INT,CA_201520160AB1055,2015-02-26,Introduced,"Personal Income Tax Law: exclusion: student loan debt forgiveness: disability and blindness.",CA
+CA_20150AB105693CHP,CA_201520160AB1056,2015-10-02,Chaptered,"Second Chance Program.",CA
+CA_20150AB105694ENR,CA_201520160AB1056,2015-09-04,Enrolled,"Second Chance Program.",CA
+CA_20150AB105695AMD,CA_201520160AB1056,2015-08-31,"Amended Senate","Second Chance Program.",CA
+CA_20150AB105696AMD,CA_201520160AB1056,2015-05-21,"Amended Assembly","Second Chance Program.",CA
+CA_20150AB105697AMD,CA_201520160AB1056,2015-04-30,"Amended Assembly","Second Chance Program.",CA
+CA_20150AB105698AMD,CA_201520160AB1056,2015-04-20,"Amended Assembly","Second Chance Program.",CA
+CA_20150AB105699INT,CA_201520160AB1056,2015-02-26,Introduced,"Housing assistance: formerly incarcerated tenants.",CA
+CA_20150AB105799INT,CA_201520160AB1057,2015-02-26,Introduced,"Charter schools.",CA
+CA_20150AB105895CHP,CA_201520160AB1058,2015-10-10,Chaptered,"Pupil safety: child abuse prevention: training. ",CA
+CA_20150AB105896ENR,CA_201520160AB1058,2015-09-16,Enrolled,"Pupil safety: child abuse prevention: training. ",CA
+CA_20150AB105897AMD,CA_201520160AB1058,2015-09-04,"Amended Senate","Pupil safety: child abuse prevention: training. ",CA
+CA_20150AB105898AMD,CA_201520160AB1058,2015-04-20,"Amended Assembly","Pupil safety: child abuse prevention: training. ",CA
+CA_20150AB105899INT,CA_201520160AB1058,2015-02-26,Introduced,"Pupil safety: child abuse prevention: training. ",CA
+CA_20150AB10598AMD,CA_201520160AB105,2015-06-16,"Amended Senate","Education finance: local control funding formula.",CA
+CA_20150AB105995CHP,CA_201520160AB1059,2015-10-08,Chaptered,"California Communities Environmental Health Screening.",CA
+CA_20150AB105996ENR,CA_201520160AB1059,2015-09-03,Enrolled,"California Communities Environmental Health Screening.",CA
+CA_20150AB105997AMD,CA_201520160AB1059,2015-08-26,"Amended Senate","California Communities Environmental Health Screening.",CA
+CA_20150AB105998AMD,CA_201520160AB1059,2015-06-24,"Amended Senate","California Communities Environmental Health Screening.",CA
+CA_20150AB105999INT,CA_201520160AB1059,2015-02-26,Introduced,"California Communities Environmental Health Screening.",CA
+CA_20150AB10599INT,CA_201520160AB105,2015-01-09,Introduced,"Budget Act of 2015.",CA
+CA_20150AB106094ENR,CA_201520160AB1060,2015-09-14,Enrolled,"Cancer clinical trials.",CA
+CA_20150AB106095AMD,CA_201520160AB1060,2015-08-31,"Amended Senate","Cancer clinical trials.",CA
+CA_20150AB106096AMD,CA_201520160AB1060,2015-07-16,"Amended Senate","Cancer clinical trials.",CA
+CA_20150AB106097AMD,CA_201520160AB1060,2015-06-17,"Amended Senate","Cancer clinical trials.",CA
+CA_20150AB106098AMD,CA_201520160AB1060,2015-03-26,"Amended Assembly","Professions and vocations: licensure.",CA
+CA_20150AB106099INT,CA_201520160AB1060,2015-02-26,Introduced,"Professions and vocations: licensure.",CA
+CA_20150AB106197AMD,CA_201520160AB1061,2015-06-01,"Amended Assembly","Sacramento and San Joaquin Drainage District: powers.",CA
+CA_20150AB106198AMD,CA_201520160AB1061,2015-04-29,"Amended Assembly","Sacramento and San Joaquin Drainage District: powers.",CA
+CA_20150AB106199INT,CA_201520160AB1061,2015-02-26,Introduced,"Sacramento and San Joaquin Drainage District: powers.",CA
+CA_20150AB106298AMD,CA_201520160AB1062,2015-04-07,"Amended Assembly","Environmental Justice Small Grant Program.",CA
+CA_20150AB106299INT,CA_201520160AB1062,2015-02-26,Introduced,"Environmental Justice Small Grant Program.",CA
+CA_20150AB106396AMD,CA_201520160AB1063,2015-08-17,"Amended Senate","Solid waste: charges.",CA
+CA_20150AB106397AMD,CA_201520160AB1063,2015-07-15,"Amended Senate","Solid waste: charges.",CA
+CA_20150AB106398AMD,CA_201520160AB1063,2015-04-20,"Amended Assembly","Solid waste: disposal facility: fees.",CA
+CA_20150AB106399INT,CA_201520160AB1063,2015-02-26,Introduced,"Solid waste: disposal facility: fees.",CA
+CA_20150AB106495CHP,CA_201520160AB1064,2015-09-28,Chaptered,"Education finance: indirect cost rates.",CA
+CA_20150AB106496ENR,CA_201520160AB1064,2015-09-03,Enrolled,"Education finance: indirect cost rates.",CA
+CA_20150AB106497AMD,CA_201520160AB1064,2015-07-16,"Amended Senate","Education finance: indirect cost rates.",CA
+CA_20150AB106498AMD,CA_201520160AB1064,2015-03-26,"Amended Assembly","Education finance: indirect cost rates.",CA
+CA_20150AB106499INT,CA_201520160AB1064,2015-02-26,Introduced,"Education finance: indirect cost rates.",CA
+CA_20150AB106598AMD,CA_201520160AB1065,2015-04-15,"Amended Assembly","Employment: unfair practices.",CA
+CA_20150AB106599INT,CA_201520160AB1065,2015-02-26,Introduced,"Employment: unfair practices.",CA
+CA_20150AB106692CHP,CA_201520160AB1066,2016-09-12,Chaptered,"Agricultural workers: wages, hours, and working conditions.",CA
+CA_20150AB106693ENR,CA_201520160AB1066,2016-08-30,Enrolled,"Agricultural workers: wages, hours, and working conditions.",CA
+CA_20150AB106694AMD,CA_201520160AB1066,2016-08-17,"Amended Senate","Agricultural workers: wages, hours, and working conditions.",CA
+CA_20150AB106695AMD,CA_201520160AB1066,2016-06-22,"Amended Senate","Agricultural workers: wages, hours, and working conditions.",CA
+CA_20150AB106696AMD,CA_201520160AB1066,2016-06-14,"Amended Senate","Agricultural workers: wages, hours, and working conditions.",CA
+CA_20150AB106697AMD,CA_201520160AB1066,2015-05-14,"Amended Assembly","Classified employees: short-term employees.",CA
+CA_20150AB106698AMD,CA_201520160AB1066,2015-04-06,"Amended Assembly","Classified employees: nonemployee contractors: limited-term, short-term, and substitute employees.",CA
+CA_20150AB106699INT,CA_201520160AB1066,2015-02-26,Introduced,"Classified employees: nonemployee contractors: limited-term, short-term, and substitute employees.",CA
+CA_20150AB106790CHP,CA_201520160AB1067,2016-09-30,Chaptered,"Foster children: rights.",CA
+CA_20150AB106791ENR,CA_201520160AB1067,2016-08-29,Enrolled,"Foster children: rights.",CA
+CA_20150AB106792AMD,CA_201520160AB1067,2016-08-17,"Amended Senate","Foster children: rights.",CA
+CA_20150AB106793AMD,CA_201520160AB1067,2016-08-01,"Amended Senate","Foster children: rights.",CA
+CA_20150AB106794AMD,CA_201520160AB1067,2016-05-11,"Amended Senate","Foster children: rights.",CA
+CA_20150AB106795AMD,CA_201520160AB1067,2016-05-03,"Amended Senate","Foster children: rights.",CA
+CA_20150AB106796AMD,CA_201520160AB1067,2016-01-14,"Amended Assembly","Foster children: rights.",CA
+CA_20150AB106797AMD,CA_201520160AB1067,2016-01-04,"Amended Assembly","Foster children: rights.",CA
+CA_20150AB106798AMD,CA_201520160AB1067,2015-03-26,"Amended Assembly","Foster children: psychotropic medication.",CA
+CA_20150AB106799INT,CA_201520160AB1067,2015-02-26,Introduced,"Child welfare.",CA
+CA_20150AB106899INT,CA_201520160AB1068,2015-02-26,Introduced,"California Environmental Quality Act: priority projects.",CA
+CA_20150AB10697AMD,CA_201520160AB106,2015-06-17,"Amended Senate","Human services.",CA
+CA_20150AB10698AMD,CA_201520160AB106,2015-06-16,"Amended Senate","Human services.",CA
+CA_20150AB106992CHP,CA_201520160AB1069,2016-09-13,Chaptered,"Prescription drugs: collection and distribution program.",CA
+CA_20150AB106993ENR,CA_201520160AB1069,2016-08-25,Enrolled,"Prescription drugs: collection and distribution program.",CA
+CA_20150AB106994AMD,CA_201520160AB1069,2016-08-15,"Amended Senate","Prescription drugs: collection and distribution program.",CA
+CA_20150AB106995AMD,CA_201520160AB1069,2016-08-01,"Amended Senate","Prescription drugs: collection and distribution program.",CA
+CA_20150AB106996AMD,CA_201520160AB1069,2015-07-01,"Amended Senate","Prescription drugs: collection and distribution program.",CA
+CA_20150AB106997AMD,CA_201520160AB1069,2015-05-06,"Amended Assembly","Prescription drugs: collection and distribution program.",CA
+CA_20150AB106998AMD,CA_201520160AB1069,2015-03-26,"Amended Assembly","Prescription drugs: collection and distribution program.",CA
+CA_20150AB106999INT,CA_201520160AB1069,2015-02-26,Introduced,"Prescription drugs: collection and distribution program.",CA
+CA_20150AB10699INT,CA_201520160AB106,2015-01-09,Introduced,"Budget Act of 2015.",CA
+CA_20150AB107099INT,CA_201520160AB1070,2015-02-26,Introduced,Medi-Cal.,CA
+CA_20150AB107194CHP,CA_201520160AB1071,2015-10-08,Chaptered,"Supplemental environmental projects.",CA
+CA_20150AB107195ENR,CA_201520160AB1071,2015-09-09,Enrolled,"Supplemental environmental projects.",CA
+CA_20150AB107196AMD,CA_201520160AB1071,2015-08-31,"Amended Senate","Supplemental environmental projects.",CA
+CA_20150AB107197AMD,CA_201520160AB1071,2015-08-18,"Amended Senate","Supplemental environmental projects.",CA
+CA_20150AB107198AMD,CA_201520160AB1071,2015-05-07,"Amended Assembly","Supplemental environmental projects.",CA
+CA_20150AB107199INT,CA_201520160AB1071,2015-02-26,Introduced,"Supplemental environmental projects.",CA
+CA_20150AB107291CHP,CA_201520160AB1072,2015-10-05,Chaptered,"Insurance: firefighters’ or police officers’ benefit and relief associations.",CA
+CA_20150AB107292ENR,CA_201520160AB1072,2015-09-04,Enrolled,"Insurance: firefighters’ or police officers’ benefit and relief associations.",CA
+CA_20150AB107293AMD,CA_201520160AB1072,2015-08-19,"Amended Senate","Insurance: firefighters’ or police officers’ benefit and relief associations.",CA
+CA_20150AB107294AMD,CA_201520160AB1072,2015-07-02,"Amended Senate","Insurance: firefighters’ or police officers’ benefit and relief associations.",CA
+CA_20150AB107295AMD,CA_201520160AB1072,2015-06-25,"Amended Senate","Insurance: firefighters’ or police officers’ benefit and relief associations.",CA
+CA_20150AB107296AMD,CA_201520160AB1072,2015-06-10,"Amended Senate","Insurance: firefighters’ or police officers’ benefit and relief associations.",CA
+CA_20150AB107297AMD,CA_201520160AB1072,2015-04-28,"Amended Assembly","Insurance: firefighters’ or police officers’ benefit and relief associations.",CA
+CA_20150AB107298AMD,CA_201520160AB1072,2015-04-13,"Amended Assembly","Insurance: firefighters or police officers’ benefit and relief associations.",CA
+CA_20150AB107299INT,CA_201520160AB1072,2015-02-27,Introduced,"Insurance: firefighters or police officers’ benefit and relief associations.",CA
+CA_20150AB107391CHP,CA_201520160AB1073,2015-10-11,Chaptered,"Pharmacy: prescription drug labels.",CA
+CA_20150AB107392ENR,CA_201520160AB1073,2015-09-14,Enrolled,"Pharmacy: prescription drug labels.",CA
+CA_20150AB107393AMD,CA_201520160AB1073,2015-09-04,"Amended Senate","Pharmacy: prescription drug labels.",CA
+CA_20150AB107394AMD,CA_201520160AB1073,2015-09-01,"Amended Senate","Pharmacy: prescription drug labels.",CA
+CA_20150AB107395AMD,CA_201520160AB1073,2015-07-08,"Amended Senate","Pharmacy: prescription drug labels.",CA
+CA_20150AB107396AMD,CA_201520160AB1073,2015-06-09,"Amended Senate","Pharmacy: prescription drug labels.",CA
+CA_20150AB107397AMD,CA_201520160AB1073,2015-04-28,"Amended Assembly","Pharmacy: prescription drug labels.",CA
+CA_20150AB107398AMD,CA_201520160AB1073,2015-04-06,"Amended Assembly","Pharmacy: prescription drug labels.",CA
+CA_20150AB107399INT,CA_201520160AB1073,2015-02-27,Introduced,"Pharmacy: prescription drug labels.",CA
+CA_20150AB107497AMD,CA_201520160AB1074,2015-04-15,"Amended Assembly","Alternative fuels: infrastructure.",CA
+CA_20150AB107498AMD,CA_201520160AB1074,2015-03-26,"Amended Assembly","Alternative fuels: infrastructure.",CA
+CA_20150AB107499INT,CA_201520160AB1074,2015-02-27,Introduced,"Natural gas: infrastructure.",CA
+CA_20150AB107593CHP,CA_201520160AB1075,2015-10-02,Chaptered,"Hazardous waste: enforcement.",CA
+CA_20150AB107594ENR,CA_201520160AB1075,2015-09-11,Enrolled,"Hazardous waste: enforcement.",CA
+CA_20150AB107595AMD,CA_201520160AB1075,2015-09-02,"Amended Senate","Hazardous waste: enforcement.",CA
+CA_20150AB107596AMD,CA_201520160AB1075,2015-09-01,"Amended Senate","Hazardous waste: enforcement.",CA
+CA_20150AB107597AMD,CA_201520160AB1075,2015-06-18,"Amended Senate","Hazardous waste: enforcement.",CA
+CA_20150AB107598AMD,CA_201520160AB1075,2015-05-13,"Amended Assembly","Hazardous waste: enforcement.",CA
+CA_20150AB107599INT,CA_201520160AB1075,2015-02-27,Introduced,"Hazardous waste: enforcement.",CA
+CA_20150AB107698AMD,CA_201520160AB1076,2015-04-06,"Amended Assembly","Food facilities: snack bars.",CA
+CA_20150AB107699INT,CA_201520160AB1076,2015-02-27,Introduced,"Food facilities: snack bars.",CA
+CA_20150AB107792CHP,CA_201520160AB1077,2015-10-09,Chaptered,"Mutual water companies: open meetings.",CA
+CA_20150AB107793ENR,CA_201520160AB1077,2015-09-08,Enrolled,"Mutual water companies: open meetings.",CA
+CA_20150AB107794AMD,CA_201520160AB1077,2015-08-31,"Amended Senate","Mutual water companies: open meetings.",CA
+CA_20150AB107795AMD,CA_201520160AB1077,2015-06-22,"Amended Senate","Mutual water companies: open meetings.",CA
+CA_20150AB107796AMD,CA_201520160AB1077,2015-05-18,"Amended Assembly","Mutual water companies: open meetings.",CA
+CA_20150AB107797AMD,CA_201520160AB1077,2015-04-28,"Amended Assembly","Mutual water companies: open meetings.",CA
+CA_20150AB107798AMD,CA_201520160AB1077,2015-04-07,"Amended Assembly","Mutual water companies: open meetings.",CA
+CA_20150AB107799INT,CA_201520160AB1077,2015-02-27,Introduced,"Mutual water companies: open meetings.",CA
+CA_20150AB107899INT,CA_201520160AB1078,2015-02-27,Introduced,"Teachers: evaluations.",CA
+CA_20150AB10798AMD,CA_201520160AB107,2015-06-16,"Amended Senate","Personal income taxes: earned income credit.",CA
+CA_20150AB107999INT,CA_201520160AB1079,2015-02-27,Introduced,"Successor agencies: due diligence review: finding of completion.",CA
+CA_20150AB10799INT,CA_201520160AB107,2015-01-09,Introduced,"Budget Act of 2015.",CA
+CA_20150AB108099INT,CA_201520160AB1080,2015-02-27,Introduced,"Redevelopment: enforceable obligations: military base reuse.",CA
+CA_20150AB108193CHP,CA_201520160AB1081,2015-10-01,Chaptered,"Protective orders.",CA
+CA_20150AB108194ENR,CA_201520160AB1081,2015-09-04,Enrolled,"Protective orders.",CA
+CA_20150AB108195AMD,CA_201520160AB1081,2015-08-19,"Amended Senate","Protective orders.",CA
+CA_20150AB108196AMD,CA_201520160AB1081,2015-07-07,"Amended Senate","Protective orders.",CA
+CA_20150AB108197AMD,CA_201520160AB1081,2015-06-25,"Amended Senate","Protective orders.",CA
+CA_20150AB108198AMD,CA_201520160AB1081,2015-05-11,"Amended Assembly","Protective orders.",CA
+CA_20150AB108199INT,CA_201520160AB1081,2015-02-27,Introduced,"Protective orders.",CA
+CA_20150AB108298AMD,CA_201520160AB1082,2015-03-26,"Amended Assembly","Bail forfeiture: motion to extend time.",CA
+CA_20150AB108299INT,CA_201520160AB1082,2015-02-27,Introduced,"Bail forfeiture: prosecution costs.",CA
+CA_20150AB108396CHP,CA_201520160AB1083,2015-08-12,Chaptered,"Political Reform Act of 1974: local enforcement.",CA
+CA_20150AB108397ENR,CA_201520160AB1083,2015-07-08,Enrolled,"Political Reform Act of 1974: local enforcement.",CA
+CA_20150AB108398AMD,CA_201520160AB1083,2015-03-26,"Amended Assembly","Political Reform Act of 1974: local enforcement.",CA
+CA_20150AB108399INT,CA_201520160AB1083,2015-02-27,Introduced,"Political Reform Act of 1974: local campaign reform.",CA
+CA_20150AB108496AMD,CA_201520160AB1084,2016-08-19,"Amended Senate","Charter schools: operation.",CA
+CA_20150AB108497AMD,CA_201520160AB1084,2016-06-06,"Amended Senate","Charter schools: for-profit entities.",CA
+CA_20150AB108498AMD,CA_201520160AB1084,2016-01-04,"Amended Assembly","Social workers: examination.",CA
+CA_20150AB108499INT,CA_201520160AB1084,2015-02-27,Introduced,"Jobs and housing.",CA
+CA_20150AB108596CHP,CA_201520160AB1085,2015-07-14,Chaptered,"Personal representatives: conservators and attorneys-in-fact.",CA
+CA_20150AB108597ENR,CA_201520160AB1085,2015-06-29,Enrolled,"Personal representatives: conservators and attorneys-in-fact.",CA
+CA_20150AB108598AMD,CA_201520160AB1085,2015-05-05,"Amended Assembly","Personal representatives: conservators and attorneys-in-fact.",CA
+CA_20150AB108599INT,CA_201520160AB1085,2015-02-27,Introduced,"Personal representatives: conservators and attorneys-in-fact.",CA
+CA_20150AB108698AMD,CA_201520160AB1086,2015-04-23,"Amended Assembly","Assignment of reimbursement rights.",CA
+CA_20150AB108699INT,CA_201520160AB1086,2015-02-27,Introduced,"Assignment of reimbursement rights.",CA
+CA_20150AB108799INT,CA_201520160AB1087,2015-02-27,Introduced,"Greenhouse Gas Reduction Fund: high-speed rail.",CA
+CA_20150AB108897AMD,CA_201520160AB1088,2015-05-06,"Amended Assembly","Education facilities: bond act: Greene Act.",CA
+CA_20150AB108898AMD,CA_201520160AB1088,2015-04-22,"Amended Assembly","Education facilities: bond act: Greene Act.",CA
+CA_20150AB108899INT,CA_201520160AB1088,2015-02-27,Introduced,"School facilities: bond act: Greene Act.",CA
+CA_20150AB10898AMD,CA_201520160AB108,2015-06-16,"Amended Senate","Postsecondary education: budget.",CA
+CA_20150AB108997CHP,CA_201520160AB1089,2015-09-01,Chaptered,"Coachella Mountains Conservancy.",CA
+CA_20150AB108998ENR,CA_201520160AB1089,2015-08-21,Enrolled,"Coachella Mountains Conservancy.",CA
+CA_20150AB108999INT,CA_201520160AB1089,2015-02-27,Introduced,"Coachella Mountains Conservancy.",CA
+CA_20150AB10899INT,CA_201520160AB108,2015-01-09,Introduced,"Budget Act of 2015.",CA
+CA_20150AB109098AMD,CA_201520160AB1090,2015-04-14,"Amended Assembly","Sales and use taxes: exemption: reshoring jobs.",CA
+CA_20150AB109099INT,CA_201520160AB1090,2015-02-27,Introduced,"Sales and use taxes: exemption: reshoring jobs.",CA
+CA_20150AB109194CHP,CA_201520160AB1091,2015-10-08,Chaptered,"Student financial aid: Cal Grant Program.",CA
+CA_20150AB109195ENR,CA_201520160AB1091,2015-09-09,Enrolled,"Student financial aid: Cal Grant Program.",CA
+CA_20150AB109196AMD,CA_201520160AB1091,2015-06-01,"Amended Assembly","Student financial aid: Cal Grant Program.",CA
+CA_20150AB109197AMD,CA_201520160AB1091,2015-04-30,"Amended Assembly","Student financial aid: Cal Grant Program.",CA
+CA_20150AB109198AMD,CA_201520160AB1091,2015-03-26,"Amended Assembly","Student financial aid: Cal Grant Program.",CA
+CA_20150AB109199INT,CA_201520160AB1091,2015-02-27,Introduced,"Student financial aid: California Community College Transfer Entitlement awards.",CA
+CA_20150AB109296AMD,CA_201520160AB1092,2015-05-04,"Amended Assembly","Magnetic resonance imaging technologists.",CA
+CA_20150AB109297AMD,CA_201520160AB1092,2015-04-20,"Amended Assembly","Magnetic resonance imaging technologists.",CA
+CA_20150AB109298AMD,CA_201520160AB1092,2015-03-26,"Amended Assembly","Magnetic resonance imaging technologists.",CA
+CA_20150AB109299INT,CA_201520160AB1092,2015-02-27,Introduced,"Public health: radiologic technologists.",CA
+CA_20150AB109397CHP,CA_201520160AB1093,2015-08-17,Chaptered,"Public safety: supervised population workforce training: grant program.",CA
+CA_20150AB109398ENR,CA_201520160AB1093,2015-07-08,Enrolled,"Public safety: supervised population workforce training: grant program.",CA
+CA_20150AB109399INT,CA_201520160AB1093,2015-02-27,Introduced,"Public safety: supervised population workforce training: grant program.",CA
+CA_20150AB109496AMD,CA_201520160AB1094,2015-05-12,"Amended Assembly","Energy usage: plug-in equipment.",CA
+CA_20150AB109497AMD,CA_201520160AB1094,2015-04-29,"Amended Assembly","Energy usage: plug-in equipment.",CA
+CA_20150AB109498AMD,CA_201520160AB1094,2015-04-06,"Amended Assembly","Energy usage: plug-in equipment.",CA
+CA_20150AB109499INT,CA_201520160AB1094,2015-02-27,Introduced,"Energy usage: plug-in equipment.",CA
+CA_20150AB109594CHP,CA_201520160AB1095,2015-10-09,Chaptered,"Salton Sea: restoration projects.",CA
+CA_20150AB109595ENR,CA_201520160AB1095,2015-09-03,Enrolled,"Salton Sea: restoration projects.",CA
+CA_20150AB109596AMD,CA_201520160AB1095,2015-07-07,"Amended Senate","Salton Sea: restoration projects.",CA
+CA_20150AB109597AMD,CA_201520160AB1095,2015-06-01,"Amended Assembly","Salton Sea: restoration projects.",CA
+CA_20150AB109598AMD,CA_201520160AB1095,2015-04-29,"Amended Assembly","Water Quality, Supply, and Infrastructure Improvement Act of 2014: restoration funding: Salton Sea.",CA
+CA_20150AB109599INT,CA_201520160AB1095,2015-02-27,Introduced,"Water Quality, Supply, and Infrastructure Improvement Act of 2014: restoration funding: Salton Sea. ",CA
+CA_20150AB1095ENR,CA_201520160AB10,2015-09-14,Enrolled,"Political Reform Act of 1974: economic interest disclosures.",CA
+CA_20150AB109692CHP,CA_201520160AB1096,2015-10-07,Chaptered,"Vehicles: electric bicycles.",CA
+CA_20150AB109693ENR,CA_201520160AB1096,2015-09-14,Enrolled,"Vehicles: electric bicycles.",CA
+CA_20150AB109694AMD,CA_201520160AB1096,2015-09-04,"Amended Senate","Vehicles: electric bicycles.",CA
+CA_20150AB109695AMD,CA_201520160AB1096,2015-06-15,"Amended Senate","Vehicles: electric bicycles.",CA
+CA_20150AB109696AMD,CA_201520160AB1096,2015-04-29,"Amended Assembly","Vehicles: electric bicycles.",CA
+CA_20150AB109697AMD,CA_201520160AB1096,2015-04-22,"Amended Assembly","Vehicles: electric bicycles.",CA
+CA_20150AB109698AMD,CA_201520160AB1096,2015-03-26,"Amended Assembly","Vehicles: electric bicycles.",CA
+CA_20150AB109699INT,CA_201520160AB1096,2015-02-27,Introduced,"Vehicles: motorized bicycles.",CA
+CA_20150AB1096AMD,CA_201520160AB10,2015-08-27,"Amended Senate","Political Reform Act of 1974: economic interest disclosures.",CA
+CA_20150AB109795CHP,CA_201520160AB1097,2015-10-02,Chaptered,"Alarm companies: electronic transactions. ",CA
+CA_20150AB109796ENR,CA_201520160AB1097,2015-09-14,Enrolled,"Alarm companies: electronic transactions. ",CA
+CA_20150AB109797AMD,CA_201520160AB1097,2015-09-04,"Amended Senate","Alarm companies: electronic transactions. ",CA
+CA_20150AB109798AMD,CA_201520160AB1097,2015-05-11,"Amended Assembly","Alarm companies: electronic transactions. ",CA
+CA_20150AB109799INT,CA_201520160AB1097,2015-02-27,Introduced,"Alarm companies: electronic transactions. ",CA
+CA_20150AB1097AMD,CA_201520160AB10,2015-07-14,"Amended Senate","Political Reform Act of 1974: behested payments and economic interest disclosures.",CA
+CA_20150AB109898AMD,CA_201520160AB1098,2015-03-26,"Amended Assembly","Transportation: congestion management.",CA
+CA_20150AB109899INT,CA_201520160AB1098,2015-02-27,Introduced,"Transportation: congestion management.",CA
+CA_20150AB1098AMD,CA_201520160AB10,2015-04-07,"Amended Assembly","Political Reform Act of 1974: behested payments and economic interest disclosures.",CA
+CA_20150AB10998AMD,CA_201520160AB109,2015-06-16,"Amended Senate"," Developmental Services.",CA
+CA_20150AB109997AMD,CA_201520160AB1099,2015-07-08,"Amended Senate","School accountability: teacher evaluations.",CA
+CA_20150AB109998AMD,CA_201520160AB1099,2015-05-06,"Amended Assembly","School accountability: local control and accountability plans: teacher evaluations.",CA
+CA_20150AB109999INT,CA_201520160AB1099,2015-02-27,Introduced,"School accountability: local control and accountability plans: teacher evaluations.",CA
+CA_20150AB10999INT,CA_201520160AB109,2015-01-09,Introduced,"Budget Act of 2015.",CA
+CA_20150AB1099INT,CA_201520160AB10,2014-12-01,Introduced,"Political Reform Act of 1974: economic interest disclosures.",CA
+CA_20150AB110094CHP,CA_201520160AB1100,2015-09-01,Chaptered,"Ballot initiatives: filing fees.",CA
+CA_20150AB110095ENR,CA_201520160AB1100,2015-08-21,Enrolled,"Ballot initiatives: filing fees.",CA
+CA_20150AB110096AMD,CA_201520160AB1100,2015-07-09,"Amended Senate","Ballot initiatives: filing fees.",CA
+CA_20150AB110097AMD,CA_201520160AB1100,2015-06-19,"Amended Senate","Ballot initiatives: filing fees.",CA
+CA_20150AB110098AMD,CA_201520160AB1100,2015-03-24,"Amended Assembly","Ballot initiatives: filing fees.",CA
+CA_20150AB110099INT,CA_201520160AB1100,2015-02-27,Introduced,"Crimes: criminal threats.",CA
+CA_20150AB110193CHP,CA_201520160AB1101,2015-08-11,Chaptered,"Pupil school enrollment: residency requirements: policy on investigations.",CA
+CA_20150AB110194ENR,CA_201520160AB1101,2015-07-21,Enrolled,"Pupil school enrollment: residency requirements: policy on investigations.",CA
+CA_20150AB110195AMD,CA_201520160AB1101,2015-07-01,"Amended Senate","Pupil school enrollment: residency requirements: policy on investigations.",CA
+CA_20150AB110196AMD,CA_201520160AB1101,2015-06-17,"Amended Senate","Pupil school enrollment: residency requirements: policy on investigations.",CA
+CA_20150AB110197AMD,CA_201520160AB1101,2015-05-20,"Amended Assembly","Pupil school enrollment: residency requirements: policy on investigations.",CA
+CA_20150AB110198AMD,CA_201520160AB1101,2015-05-05,"Amended Assembly","Pupil school enrollment: residency requirements: policy on investigations.",CA
+CA_20150AB110199INT,CA_201520160AB1101,2015-02-27,Introduced,"Pupil school enrollment: residency requirements: investigation.",CA
+CA_20150AB110294AMD,CA_201520160AB1102,2016-06-21,"Amended Senate","Hazardous waste facilities: inspections.",CA
+CA_20150AB110295AMD,CA_201520160AB1102,2015-07-09,"Amended Senate","Health care coverage: Medi-Cal Access Program: disclosures.",CA
+CA_20150AB110296AMD,CA_201520160AB1102,2015-06-03,"Amended Assembly","Health care coverage: special enrollment periods: triggering event.",CA
+CA_20150AB110297AMD,CA_201520160AB1102,2015-05-05,"Amended Assembly","Health care coverage: special enrollment periods: triggering event.",CA
+CA_20150AB110298AMD,CA_201520160AB1102,2015-03-26,"Amended Assembly","Health care coverage: special enrollment periods: triggering event.",CA
+CA_20150AB110299INT,CA_201520160AB1102,2015-02-27,Introduced,"Residential care facilities for the elderly.",CA
+CA_20150AB110392CHP,CA_201520160AB1103,2016-09-22,Chaptered,"Solid waste disposal: self-haulers.",CA
+CA_20150AB110393ENR,CA_201520160AB1103,2016-08-29,Enrolled,"Solid waste disposal: self-haulers.",CA
+CA_20150AB110394AMD,CA_201520160AB1103,2016-06-06,"Amended Senate","Solid waste disposal: self-haulers.",CA
+CA_20150AB110395AMD,CA_201520160AB1103,2016-06-01,"Amended Senate","Solid waste: disposal.",CA
+CA_20150AB110396AMD,CA_201520160AB1103,2016-05-11,"Amended Senate","Solid waste: disposal.",CA
+CA_20150AB110397AMD,CA_201520160AB1103,2015-07-16,"Amended Senate","Solid waste: organic waste.",CA
+CA_20150AB110398AMD,CA_201520160AB1103,2015-05-19,"Amended Assembly","Solid waste: organic waste.",CA
+CA_20150AB110399INT,CA_201520160AB1103,2015-02-27,Introduced,"Solid waste: organic waste.",CA
+CA_20150AB110495CHP,CA_201520160AB1104,2015-07-16,Chaptered,"Search warrants.",CA
+CA_20150AB110496ENR,CA_201520160AB1104,2015-07-02,Enrolled,"Search warrants.",CA
+CA_20150AB110497AMD,CA_201520160AB1104,2015-06-23,"Amended Senate","Search warrants.",CA
+CA_20150AB110498AMD,CA_201520160AB1104,2015-04-23,"Amended Assembly","Search warrants.",CA
+CA_20150AB110499INT,CA_201520160AB1104,2015-02-27,Introduced,"Search warrants.",CA
+CA_20150AB110598AMD,CA_201520160AB1105,2016-06-21,"Amended Senate","Unfair business practices: enforcement: city attorneys.",CA
+CA_20150AB110599INT,CA_201520160AB1105,2015-02-27,Introduced,"Subdivided lands: release of performance security.",CA
+CA_20150AB110698AMD,CA_201520160AB1106,2016-01-04,"Amended Assembly","Criminal procedure: arraignment pilot program.",CA
+CA_20150AB110699INT,CA_201520160AB1106,2015-02-27,Introduced,"Department of Conservation: Director of Conservation.",CA
+CA_20150AB110795CHP,CA_201520160AB1107,2015-09-03,Chaptered,"Sellers of travel: regulation.",CA
+CA_20150AB110796ENR,CA_201520160AB1107,2015-08-21,Enrolled,"Sellers of travel: regulation.",CA
+CA_20150AB110797AMD,CA_201520160AB1107,2015-04-08,"Amended Assembly","Sellers of travel: regulation.",CA
+CA_20150AB110798AMD,CA_201520160AB1107,2015-03-26,"Amended Assembly","Sellers of travel: regulation.",CA
+CA_20150AB110799INT,CA_201520160AB1107,2015-02-27,Introduced,"Sellers of travel: regulation.",CA
+CA_20150AB110895AMD,CA_201520160AB1108,2016-08-16,"Amended Senate","Zero-emission vehicles.",CA
+CA_20150AB110896AMD,CA_201520160AB1108,2016-06-28,"Amended Senate","Beverage containers: recycling.",CA
+CA_20150AB110897AMD,CA_201520160AB1108,2015-05-05,"Amended Assembly","Beverage containers: recycling.",CA
+CA_20150AB110898AMD,CA_201520160AB1108,2015-03-26,"Amended Assembly","Beverage Containers: recycling.",CA
+CA_20150AB110899INT,CA_201520160AB1108,2015-02-27,Introduced,"Clean energy: financial assistance.",CA
+CA_20150AB11098AMD,CA_201520160AB110,2015-06-16,"Amended Senate","Public Resources.",CA
+CA_20150AB110999INT,CA_201520160AB1109,2015-02-27,Introduced," Legislature: health benefits coverage.",CA
+CA_20150AB11099INT,CA_201520160AB110,2015-01-09,Introduced,"Budget Act of 2015.",CA
+CA_20150AB111092CHP,CA_201520160AB1110,2016-09-26,Chaptered,"Greenhouse gases emissions intensity reporting: retail electricity suppliers.",CA
+CA_20150AB111093ENR,CA_201520160AB1110,2016-09-02,Enrolled,"Greenhouse gases emissions intensity reporting: retail electricity suppliers.",CA
+CA_20150AB111094AMD,CA_201520160AB1110,2016-08-19,"Amended Senate","Greenhouse gases emissions intensity reporting: retail electricity suppliers.",CA
+CA_20150AB111095AMD,CA_201520160AB1110,2016-08-04,"Amended Senate","Greenhouse gases emissions intensity reporting: retail electricity suppliers.",CA
+CA_20150AB111096AMD,CA_201520160AB1110,2015-09-03,"Amended Senate","Greenhouse gases emissions intensity reporting: retail electricity suppliers.",CA
+CA_20150AB111097AMD,CA_201520160AB1110,2015-08-18,"Amended Senate","Greenhouse gases emissions intensity reporting: retail electricity suppliers.",CA
+CA_20150AB111098AMD,CA_201520160AB1110,2015-06-19,"Amended Senate","Emissions of greenhouse gases reporting: retail electricity suppliers.",CA
+CA_20150AB111099INT,CA_201520160AB1110,2015-02-27,Introduced,"Property taxation: redemption deficiency.",CA
+CA_20150AB111198AMD,CA_201520160AB1111,2015-03-26,"Amended Assembly","Vehicles: disabled persons or disabled veterans: parking privileges.",CA
+CA_20150AB111199INT,CA_201520160AB1111,2015-02-27,Introduced,"Vehicles: parking.",CA
+CA_20150AB111298AMD,CA_201520160AB1112,2015-03-26,"Amended Assembly","Adult education: consortia: parenting education: family literacy education.",CA
+CA_20150AB111299INT,CA_201520160AB1112,2015-02-27,Introduced,"Adult education: consortia.",CA
+CA_20150AB111397CHP,CA_201520160AB1113,2015-07-15,Chaptered,"Check Sellers, Bill Payers and Proraters Law.",CA
+CA_20150AB111398ENR,CA_201520160AB1113,2015-07-07,Enrolled,"Check Sellers, Bill Payers and Proraters Law.",CA
+CA_20150AB111399INT,CA_201520160AB1113,2015-02-27,Introduced,"Check Sellers, Bill Payers and Proraters Law.",CA
+CA_20150AB111492CHP,CA_201520160AB1114,2016-09-25,Chaptered,"Medi-Cal: pharmacist services.",CA
+CA_20150AB111493ENR,CA_201520160AB1114,2016-09-02,Enrolled,"Medi-Cal: pharmacist services.",CA
+CA_20150AB111494AMD,CA_201520160AB1114,2016-08-24,"Amended Senate","Medi-Cal: pharmacist services.",CA
+CA_20150AB111495AMD,CA_201520160AB1114,2016-08-15,"Amended Senate","Medi-Cal: pharmacist services.",CA
+CA_20150AB111496AMD,CA_201520160AB1114,2015-09-01,"Amended Senate","Health care: eligibility and enrollment.",CA
+CA_20150AB111497AMD,CA_201520160AB1114,2015-06-15,"Amended Senate","Health care: eligibility and enrollment.",CA
+CA_20150AB111498AMD,CA_201520160AB1114,2015-04-16,"Amended Assembly","Health care: eligibility and enrollment.",CA
+CA_20150AB111499INT,CA_201520160AB1114,2015-02-27,Introduced,"Kindergarten evaluation.",CA
+CA_20150AB111594CHP,CA_201520160AB1115,2016-08-29,Chaptered,"School zones: state highways.",CA
+CA_20150AB111595ENR,CA_201520160AB1115,2016-08-12,Enrolled,"School zones: state highways.",CA
+CA_20150AB111596AMD,CA_201520160AB1115,2016-01-13,"Amended Assembly","School zones: state highways.",CA
+CA_20150AB111597AMD,CA_201520160AB1115,2016-01-04,"Amended Assembly","School zones: traffic control devices: state highways.",CA
+CA_20150AB111598AMD,CA_201520160AB1115,2015-03-26,"Amended Assembly","State highways: litter cleanup and abatement.",CA
+CA_20150AB111599INT,CA_201520160AB1115,2015-02-27,Introduced,"Transportation funds.",CA
+CA_20150AB111692CHP,CA_201520160AB1116,2015-10-06,Chaptered,"Connected televisions.",CA
+CA_20150AB111693ENR,CA_201520160AB1116,2015-09-11,Enrolled,"Connected televisions.",CA
+CA_20150AB111694AMD,CA_201520160AB1116,2015-09-03,"Amended Senate","Connected televisions.",CA
+CA_20150AB111695AMD,CA_201520160AB1116,2015-07-16,"Amended Senate","Connected televisions.",CA
+CA_20150AB111696AMD,CA_201520160AB1116,2015-07-02,"Amended Senate","Connected televisions.",CA
+CA_20150AB111697AMD,CA_201520160AB1116,2015-04-30,"Amended Assembly","Connected televisions.",CA
+CA_20150AB111698AMD,CA_201520160AB1116,2015-04-13,"Amended Assembly","Connected televisions.",CA
+CA_20150AB111699INT,CA_201520160AB1116,2015-02-27,Introduced,"Connected televisions.",CA
+CA_20150AB111797AMD,CA_201520160AB1117,2015-06-01,"Amended Assembly","Medi-Cal: vaccination rates.",CA
+CA_20150AB111798AMD,CA_201520160AB1117,2015-03-26,"Amended Assembly","Medi-Cal: vaccination rates.",CA
+CA_20150AB111799INT,CA_201520160AB1117,2015-02-27,Introduced,"Medi-Cal: vaccination rates.",CA
+CA_20150AB111897AMD,CA_201520160AB1118,2015-04-16,"Amended Assembly","Police officer standards and training: procedural justice.",CA
+CA_20150AB111898AMD,CA_201520160AB1118,2015-03-26,"Amended Assembly","Police officer standards and training: procedural justice.",CA
+CA_20150AB111899INT,CA_201520160AB1118,2015-02-27,Introduced,"Public safety and law enforcement.",CA
+CA_20150AB11198AMD,CA_201520160AB111,2015-06-16,"Amended Senate","State government.",CA
+CA_20150AB111996CHP,CA_201520160AB1119,2015-10-09,Chaptered,"Public utilities: municipal corporations: rights of way.",CA
+CA_20150AB111997ENR,CA_201520160AB1119,2015-08-31,Enrolled,"Public utilities: municipal corporations: rights of way.",CA
+CA_20150AB111998AMD,CA_201520160AB1119,2015-05-11,"Amended Assembly","Public utilities: municipal corporations: rights of way.",CA
+CA_20150AB111999INT,CA_201520160AB1119,2015-02-27,Introduced,"Public utilities: municipal corporations: rights of way.",CA
+CA_20150AB11199INT,CA_201520160AB111,2015-01-09,Introduced,"Budget Act of 2015.",CA
+CA_20150AB112099INT,CA_201520160AB1120,2015-02-27,Introduced,"Pupil health: sight and hearing tests.",CA
+CA_20150AB112199INT,CA_201520160AB1121,2015-02-27,Introduced,"Personal information.",CA
+CA_20150AB112299INT,CA_201520160AB1122,2015-02-27,Introduced,"Residential care facilities for the elderly: excluded persons.",CA
+CA_20150AB112399INT,CA_201520160AB1123,2015-02-27,Introduced,"Dispute resolution programs: court administration.",CA
+CA_20150AB112490CHP,CA_201520160AB1124,2015-10-06,Chaptered,"Workers’ compensation: prescription medication formulary.",CA
+CA_20150AB112491ENR,CA_201520160AB1124,2015-09-14,Enrolled,"Workers’ compensation: prescription medication formulary.",CA
+CA_20150AB112492AMD,CA_201520160AB1124,2015-09-04,"Amended Senate","Workers’ compensation: prescription medication formulary.",CA
+CA_20150AB112493AMD,CA_201520160AB1124,2015-08-31,"Amended Senate","Workers’ compensation: prescription medication formulary.",CA
+CA_20150AB112494AMD,CA_201520160AB1124,2015-08-17,"Amended Senate","Workers’ compensation: prescription medication formulary.",CA
+CA_20150AB112495AMD,CA_201520160AB1124,2015-07-14,"Amended Senate","Workers’ compensation: prescription medication formulary.",CA
+CA_20150AB112496AMD,CA_201520160AB1124,2015-07-08,"Amended Senate","Workers’ compensation: prescription medication formulary.",CA
+CA_20150AB112497AMD,CA_201520160AB1124,2015-06-01,"Amended Assembly","Workers’ compensation: prescription medication formulary.",CA
+CA_20150AB112498AMD,CA_201520160AB1124,2015-04-14,"Amended Assembly","Workers’ compensation: prescription medication formulary.",CA
+CA_20150AB112499INT,CA_201520160AB1124,2015-02-27,Introduced,"Workers’ compensation: formulary: prescription medications.",CA
+CA_20150AB112598AMD,CA_201520160AB1125,2015-05-04,"Amended Assembly","State agency contracts: small business.",CA
+CA_20150AB112599INT,CA_201520160AB1125,2015-02-27,Introduced,"State agency contracts: small business.",CA
+CA_20150AB112698AMD,CA_201520160AB1126,2015-04-20,"Amended Assembly","School facilities: heating, ventilation, and air conditioning: inspection reports.",CA
+CA_20150AB112699INT,CA_201520160AB1126,2015-02-27,Introduced,"School facilities: heating, ventilation, and air conditioning: posting of inspection reports.",CA
+CA_20150AB112798AMD,CA_201520160AB1127,2015-04-06,"Amended Assembly","Domestic and family violence: Sacramento County.",CA
+CA_20150AB112799INT,CA_201520160AB1127,2015-02-27,Introduced,"Domestic and family violence: Sacramento County.",CA
+CA_20150AB112899INT,CA_201520160AB1128,2015-02-27,Introduced,"Water conservation.",CA
+CA_20150AB11298AMD,CA_201520160AB112,2015-06-17,"Amended Senate","Public safety.",CA
+CA_20150AB112993CHP,CA_201520160AB1129,2015-09-30,Chaptered,"Emergency medical services: data and information system.",CA
+CA_20150AB112994ENR,CA_201520160AB1129,2015-09-03,Enrolled,"Emergency medical services: data and information system.",CA
+CA_20150AB112995AMD,CA_201520160AB1129,2015-08-20,"Amended Senate","Emergency medical services: data and information system.",CA
+CA_20150AB112996AMD,CA_201520160AB1129,2015-06-23,"Amended Senate","Emergency medical services: data and information system.",CA
+CA_20150AB112997AMD,CA_201520160AB1129,2015-05-04,"Amended Assembly","Emergency medical services: data and information system.",CA
+CA_20150AB112998AMD,CA_201520160AB1129,2015-04-06,"Amended Assembly","Emergency medical services: data and information system.",CA
+CA_20150AB112999INT,CA_201520160AB1129,2015-02-27,Introduced,"Emergency medical services: data and information system.",CA
+CA_20150AB11299INT,CA_201520160AB112,2015-01-09,Introduced,"Budget Act of 2015.",CA
+CA_20150AB113095CHP,CA_201520160AB1130,2015-10-01,Chaptered,"Clinics: licensing: hours of operation.",CA
+CA_20150AB113096ENR,CA_201520160AB1130,2015-09-03,Enrolled,"Clinics: licensing: hours of operation.",CA
+CA_20150AB113097AMD,CA_201520160AB1130,2015-08-26,"Amended Senate","Clinics: licensing: hours of operation.",CA
+CA_20150AB113098AMD,CA_201520160AB1130,2015-06-29,"Amended Senate","Clinics: licensing: hours of operation.",CA
+CA_20150AB113099INT,CA_201520160AB1130,2015-02-27,Introduced,"Clinics: licensing: hours of operation.",CA
+CA_20150AB113192CHP,CA_201520160AB1131,2015-10-08,Chaptered,"Insurance: electronic transmission.",CA
+CA_20150AB113193ENR,CA_201520160AB1131,2015-09-11,Enrolled,"Insurance: electronic transmission.",CA
+CA_20150AB113194AMD,CA_201520160AB1131,2015-09-01,"Amended Senate","Insurance: electronic transmission.",CA
+CA_20150AB113195AMD,CA_201520160AB1131,2015-08-18,"Amended Senate","Insurance: electronic transmission.",CA
+CA_20150AB113196AMD,CA_201520160AB1131,2015-06-29,"Amended Senate","Insurance: electronic transmission.",CA
+CA_20150AB113197AMD,CA_201520160AB1131,2015-05-14,"Amended Assembly","Insurance: electronic transmission.",CA
+CA_20150AB113198AMD,CA_201520160AB1131,2015-05-04,"Amended Assembly","Insurance: electronic transmission.",CA
+CA_20150AB113199INT,CA_201520160AB1131,2015-02-27,Introduced,"Insurance: electronic transmission.",CA
+CA_20150AB113297AMD,CA_201520160AB1132,2015-05-04,"Amended Assembly","Distributed generation: report: green workforce training programs.",CA
+CA_20150AB113298AMD,CA_201520160AB1132,2015-03-26,"Amended Assembly","Distributed generation: report: green workforce training programs.",CA
+CA_20150AB113299INT,CA_201520160AB1132,2015-02-27,Introduced,"Alternative energy and advanced transportation: financing.",CA
+CA_20150AB113397AMD,CA_201520160AB1133,2015-04-15,"Amended Assembly","School-based early mental health intervention and prevention services support program.",CA
+CA_20150AB113398AMD,CA_201520160AB1133,2015-03-26,"Amended Assembly","School-based early mental health intervention and prevention services support program.",CA
+CA_20150AB113399INT,CA_201520160AB1133,2015-02-27,Introduced,"School-based early mental health intervention.",CA
+CA_20150AB113495CHP,CA_201520160AB1134,2015-10-11,Chaptered,"Firearms: concealed firearm licenses.",CA
+CA_20150AB113496ENR,CA_201520160AB1134,2015-09-09,Enrolled,"Firearms: concealed firearm licenses.",CA
+CA_20150AB113497AMD,CA_201520160AB1134,2015-08-18,"Amended Senate","Firearms: concealed firearm licenses.",CA
+CA_20150AB113498AMD,CA_201520160AB1134,2015-06-16,"Amended Senate","Firearms: concealed firearm licenses.",CA
+CA_20150AB113499INT,CA_201520160AB1134,2015-02-27,Introduced,"Firearms: concealed firearm licenses.",CA
+CA_20150AB113593CHP,CA_201520160AB1135,2016-07-01,Chaptered,"Firearms: assault weapons.",CA
+CA_20150AB113594ENR,CA_201520160AB1135,2016-07-01,Enrolled,"Firearms: assault weapons.",CA
+CA_20150AB113595AMD,CA_201520160AB1135,2016-05-11,"Amended Senate","Firearms: assault weapons.",CA
+CA_20150AB113596AMD,CA_201520160AB1135,2016-05-04,"Amended Senate","Firearms: assault weapons.",CA
+CA_20150AB113597AMD,CA_201520160AB1135,2015-06-29,"Amended Senate","Kings River East Groundwater Sustainability Agency Act.",CA
+CA_20150AB113598AMD,CA_201520160AB1135,2015-04-21,"Amended Assembly","Agricultural products.",CA
+CA_20150AB113599INT,CA_201520160AB1135,2015-02-27,Introduced,"Agricultural products: certified farmers’ markets.",CA
+CA_20150AB113699INT,CA_201520160AB1136,2015-02-27,Introduced,"Reusable grocery bag and recycled paper bag: fee: exemptions.",CA
+CA_20150AB113799INT,CA_201520160AB1137,2015-02-27,Introduced,"Public utility districts: seal.",CA
+CA_20150AB113899INT,CA_201520160AB1138,2015-02-27,Introduced,"High-speed rail: eminent domain.",CA
+CA_20150AB11397AMD,CA_201520160AB113,2015-07-09,"Amended Senate","Local government.",CA
+CA_20150AB11398AMD,CA_201520160AB113,2015-06-18,"Amended Senate","Local government.",CA
+CA_20150AB113998AMD,CA_201520160AB1139,2015-03-26,"Amended Assembly","Personal income taxes: credit: turf removal.",CA
+CA_20150AB113999INT,CA_201520160AB1139,2015-02-27,Introduced,"California Water District Law.",CA
+CA_20150AB11399INT,CA_201520160AB113,2015-01-09,Introduced,"Budget Act of 2015.",CA
+CA_20150AB114091CHP,CA_201520160AB1140,2015-10-07,Chaptered,"Crime victims.",CA
+CA_20150AB114092ENR,CA_201520160AB1140,2015-09-16,Enrolled,"Crime victims.",CA
+CA_20150AB114093AMD,CA_201520160AB1140,2015-09-04,"Amended Senate","Crime victims.",CA
+CA_20150AB114094AMD,CA_201520160AB1140,2015-08-31,"Amended Senate","Crime victims.",CA
+CA_20150AB114095AMD,CA_201520160AB1140,2015-08-18,"Amended Senate"," California Victim Compensation and Government Claims Board.",CA
+CA_20150AB114096AMD,CA_201520160AB1140,2015-05-28,"Amended Assembly"," California Victim Compensation and Government Claims Board.",CA
+CA_20150AB114097AMD,CA_201520160AB1140,2015-05-04,"Amended Assembly","Crime victim compensation.",CA
+CA_20150AB114098AMD,CA_201520160AB1140,2015-04-22,"Amended Assembly","Crime victim compensation.",CA
+CA_20150AB114099INT,CA_201520160AB1140,2015-02-27,Introduced,"Crime victim compensation.",CA
+CA_20150AB114194CHP,CA_201520160AB1141,2015-09-28,Chaptered,"Civil actions.",CA
+CA_20150AB114195ENR,CA_201520160AB1141,2015-08-31,Enrolled,"Civil actions.",CA
+CA_20150AB114196AMD,CA_201520160AB1141,2015-07-14,"Amended Senate","Civil actions.",CA
+CA_20150AB114197AMD,CA_201520160AB1141,2015-06-03,"Amended Senate","Civil actions.",CA
+CA_20150AB114198AMD,CA_201520160AB1141,2015-04-06,"Amended Assembly","Civil actions.",CA
+CA_20150AB114199INT,CA_201520160AB1141,2015-02-27,Introduced,"Civil actions.",CA
+CA_20150AB114290CHP,CA_201520160AB1142,2016-04-18,Chaptered,"Mining and geology: surface mining.",CA
+CA_20150AB114291ENR,CA_201520160AB1142,2016-04-14,Enrolled,"Mining and geology: surface mining.",CA
+CA_20150AB114292AMD,CA_201520160AB1142,2016-03-16,"Amended Senate","Mining and geology: surface mining.",CA
+CA_20150AB114293AMD,CA_201520160AB1142,2015-09-01,"Amended Senate","Mining and geology: surface mining.",CA
+CA_20150AB114294AMD,CA_201520160AB1142,2015-08-18,"Amended Senate","Mining and geology: surface mining.",CA
+CA_20150AB114295AMD,CA_201520160AB1142,2015-07-01,"Amended Senate","Mining and geology: surface mining.",CA
+CA_20150AB114296AMD,CA_201520160AB1142,2015-06-03,"Amended Assembly","Mining and geology: surface mining.",CA
+CA_20150AB114297AMD,CA_201520160AB1142,2015-05-05,"Amended Assembly","Mining and geology: surface mining.",CA
+CA_20150AB114298AMD,CA_201520160AB1142,2015-04-06,"Amended Assembly","Mining and geology: surface mining.",CA
+CA_20150AB114299INT,CA_201520160AB1142,2015-02-27,Introduced,"Mining and geology: surface mining.",CA
+CA_20150AB114398AMD,CA_201520160AB1143,2015-05-05,"Amended Assembly","Elections: Voter Registration Agencies.",CA
+CA_20150AB114399INT,CA_201520160AB1143,2015-02-27,Introduced,"Elections: Voter Registration Agencies.",CA
+CA_20150AB114497AMD,CA_201520160AB1144,2015-08-17,"Amended Senate","California Renewables Portfolio Standard Program: renewable energy credits.",CA
+CA_20150AB114498AMD,CA_201520160AB1144,2015-04-14,"Amended Assembly","California Renewables Portfolio Standard Program: unbundled renewable energy credits.",CA
+CA_20150AB114499INT,CA_201520160AB1144,2015-02-27,Introduced,"California Renewables Portfolio Standard Program: unbundled renewable energy credits.",CA
+CA_20150AB114597AMD,CA_201520160AB1145,2015-07-01,"Amended Senate","Pupils: Early Commitment to College program.",CA
+CA_20150AB114598AMD,CA_201520160AB1145,2015-05-06,"Amended Assembly","Pupils: Early Commitment to College program.",CA
+CA_20150AB114599INT,CA_201520160AB1145,2015-02-27,Introduced,"Pupils: Early Commitment to College program.",CA
+CA_20150AB114693CHP,CA_201520160AB1146,2015-08-17,Chaptered,"Skateboard parks.",CA
+CA_20150AB114694ENR,CA_201520160AB1146,2015-07-21,Enrolled,"Skateboard parks.",CA
+CA_20150AB114695AMD,CA_201520160AB1146,2015-07-06,"Amended Senate","Skateboard parks.",CA
+CA_20150AB114696AMD,CA_201520160AB1146,2015-06-08,"Amended Senate","Skateboard parks.",CA
+CA_20150AB114697AMD,CA_201520160AB1146,2015-04-16,"Amended Assembly","Skateboard parks.",CA
+CA_20150AB114698AMD,CA_201520160AB1146,2015-04-08,"Amended Assembly","Skateboard parks.",CA
+CA_20150AB114699INT,CA_201520160AB1146,2015-02-27,Introduced,"Skateboard parks.",CA
+CA_20150AB114793CHP,CA_201520160AB1147,2015-08-13,Chaptered,"Health facilities: pediatric day health and respite care facilities.",CA
+CA_20150AB114794ENR,CA_201520160AB1147,2015-07-21,Enrolled,"Health facilities: pediatric day health and respite care facilities.",CA
+CA_20150AB114795AMD,CA_201520160AB1147,2015-07-07,"Amended Senate","Health facilities: pediatric day health and respite care facilities.",CA
+CA_20150AB114796AMD,CA_201520160AB1147,2015-06-19,"Amended Senate","Health facilities: pediatric day health and respite care facilities.",CA
+CA_20150AB114797AMD,CA_201520160AB1147,2015-05-28,"Amended Senate","Health facilities: pediatric day health and respite care facilities.",CA
+CA_20150AB114798AMD,CA_201520160AB1147,2015-04-23,"Amended Assembly","Health facilities: pediatric day health and respite care facilities.",CA
+CA_20150AB114799INT,CA_201520160AB1147,2015-02-27,Introduced,"Health facilities: pediatric day health and respite care facilities.",CA
+CA_20150AB114897CHP,CA_201520160AB1148,2015-07-15,Chaptered,"Republican county central committees: Placer County.",CA
+CA_20150AB114898ENR,CA_201520160AB1148,2015-07-07,Enrolled,"Republican county central committees: Placer County.",CA
+CA_20150AB114899INT,CA_201520160AB1148,2015-02-27,Introduced,"Republican county central committees: Placer County.",CA
+CA_20150AB11496CHP,CA_201520160AB114,2015-06-24,Chaptered,"Public works: building construction.",CA
+CA_20150AB11497ENR,CA_201520160AB114,2015-06-15,Enrolled,"Public works: building construction.",CA
+CA_20150AB11498AMD,CA_201520160AB114,2015-06-11,"Amended Senate","Public works: building construction.",CA
+CA_20150AB114997CHP,CA_201520160AB1149,2015-07-14,Chaptered,"Public health emergencies: funding.",CA
+CA_20150AB114998ENR,CA_201520160AB1149,2015-06-29,Enrolled,"Public health emergencies: funding.",CA
+CA_20150AB114999INT,CA_201520160AB1149,2015-02-27,Introduced,"Public health emergencies: funding.",CA
+CA_20150AB11499INT,CA_201520160AB114,2015-01-09,Introduced,"Budget Act of 2015.",CA
+CA_20150AB115092CHP,CA_201520160AB1150,2015-10-08,Chaptered,"Energy: University of California and California State University partnership.",CA
+CA_20150AB115093ENR,CA_201520160AB1150,2015-09-11,Enrolled,"Energy: University of California and California State University partnership.",CA
+CA_20150AB115094AMD,CA_201520160AB1150,2015-09-03,"Amended Senate","Energy: University of California and California State University partnership.",CA
+CA_20150AB115095AMD,CA_201520160AB1150,2015-08-31,"Amended Senate","Energy: University of California and California State University partnership.",CA
+CA_20150AB115096AMD,CA_201520160AB1150,2015-07-09,"Amended Senate","Energy: University of California and California State University partnership.",CA
+CA_20150AB115097AMD,CA_201520160AB1150,2015-05-14,"Amended Assembly","Energy: University of California and California State University partnership.",CA
+CA_20150AB115098AMD,CA_201520160AB1150,2015-05-05,"Amended Assembly","Energy: University of California and California State University partnership.",CA
+CA_20150AB115099INT,CA_201520160AB1150,2015-02-27,Introduced,"Energy: University of California partnership.",CA
+CA_20150AB115196CHP,CA_201520160AB1151,2015-07-15,Chaptered,"Parking violations: penalties.",CA
+CA_20150AB115197ENR,CA_201520160AB1151,2015-07-07,Enrolled,"Parking violations: penalties.",CA
+CA_20150AB115198AMD,CA_201520160AB1151,2015-03-26,"Amended Assembly","Parking violations: penalties.",CA
+CA_20150AB115199INT,CA_201520160AB1151,2015-02-27,Introduced,"Vehicles: removal. ",CA
+CA_20150AB115298AMD,CA_201520160AB1152,2015-03-26,"Amended Assembly","Construction defects: prelitigation procedures: exclusive remedy.",CA
+CA_20150AB115299INT,CA_201520160AB1152,2015-02-27,Introduced,"Construction defects.",CA
+CA_20150AB115398AMD,CA_201520160AB1153,2015-04-20,"Amended Assembly","School accountability: local control and accountability plans: posting: evaluation rubrics.",CA
+CA_20150AB115399INT,CA_201520160AB1153,2015-02-27,Introduced,"School accountability: local control and accountability plans: posting: evaluation rubrics data.",CA
+CA_20150AB115498AMD,CA_201520160AB1154,2015-04-23,"Amended Assembly","The California Public Records Act: applications for licenses and licenses to carry firearms.",CA
+CA_20150AB115499INT,CA_201520160AB1154,2015-02-27,Introduced,"The California Public Records Act: applications for licenses and licenses to carry firearms.",CA
+CA_20150AB115599INT,CA_201520160AB1155,2015-02-27,Introduced,Medi-Cal.,CA
+CA_20150AB115696CHP,CA_201520160AB1156,2015-09-30,Chaptered,"Imprisonment in county jail.",CA
+CA_20150AB115697ENR,CA_201520160AB1156,2015-09-09,Enrolled,"Imprisonment in county jail.",CA
+CA_20150AB115698AMD,CA_201520160AB1156,2015-09-01,"Amended Senate","Imprisonment in county jail.",CA
+CA_20150AB115699INT,CA_201520160AB1156,2015-02-27,Introduced,"Imprisonment in county jail.",CA
+CA_20150AB115796CHP,CA_201520160AB1157,2015-10-02,Chaptered,"Property taxation: certificated aircraft assessment.",CA
+CA_20150AB115797ENR,CA_201520160AB1157,2015-09-14,Enrolled,"Property taxation: certificated aircraft assessment.",CA
+CA_20150AB115798AMD,CA_201520160AB1157,2015-05-04,"Amended Assembly","Property taxation: certificated aircraft assessment.",CA
+CA_20150AB115799INT,CA_201520160AB1157,2015-02-27,Introduced,"Property taxation: certificated aircraft assessment.",CA
+CA_20150AB115898AMD,CA_201520160AB1158,2015-04-16,"Amended Assembly","Jobs and Economic Improvement Through Environmental Leadership Act of 2011: prevailing wage.",CA
+CA_20150AB115899INT,CA_201520160AB1158,2015-02-27,Introduced,"Jobs and Economic Improvement Through Environmental Leadership Act of 2011: prevailing wage.",CA
+CA_20150AB11598AMD,CA_201520160AB115,2015-06-18,"Amended Senate",Water.,CA
+CA_20150AB115997AMD,CA_201520160AB1159,2015-04-21,"Amended Assembly","Product stewardship: pilot program: household batteries and home-generated sharps waste. ",CA
+CA_20150AB115998AMD,CA_201520160AB1159,2015-04-06,"Amended Assembly","Product stewardship: pilot program: household batteries and home-generated sharps waste. ",CA
+CA_20150AB115999INT,CA_201520160AB1159,2015-02-27,Introduced,"Tire recycling: incentive program.",CA
+CA_20150AB11599INT,CA_201520160AB115,2015-01-09,Introduced,"Budget Act of 2015.",CA
+CA_20150AB116097AMD,CA_201520160AB1160,2015-04-14,"Amended Assembly","Vehicles: automated traffic enforcement systems.",CA
+CA_20150AB116098AMD,CA_201520160AB1160,2015-04-06,"Amended Assembly","Vehicles: automated traffic enforcement systems.",CA
+CA_20150AB116099INT,CA_201520160AB1160,2015-02-27,Introduced,"Vehicles: automated traffic enforcement systems.",CA
+CA_20150AB116198AMD,CA_201520160AB1161,2015-07-02,"Amended Senate","Preschool: privately funded pilot program: tax credits.",CA
+CA_20150AB116199INT,CA_201520160AB1161,2015-02-27,Introduced,"Preschool: privately funded pilot program: tax credits.",CA
+CA_20150AB116293ENR,CA_201520160AB1162,2015-09-14,Enrolled,"Medi-Cal: tobacco cessation.",CA
+CA_20150AB116294AMD,CA_201520160AB1162,2015-09-04,"Amended Senate","Medi-Cal: tobacco cessation.",CA
+CA_20150AB116295AMD,CA_201520160AB1162,2015-08-31,"Amended Senate","Medi-Cal: tobacco cessation.",CA
+CA_20150AB116296AMD,CA_201520160AB1162,2015-07-14,"Amended Senate","Medi-Cal: tobacco cessation.",CA
+CA_20150AB116297AMD,CA_201520160AB1162,2015-06-01,"Amended Assembly","Medi-Cal: tobacco cessation.",CA
+CA_20150AB116298AMD,CA_201520160AB1162,2015-04-23,"Amended Assembly","Medi-Cal: tobacco cessation.",CA
+CA_20150AB116299INT,CA_201520160AB1162,2015-02-27,Introduced,"Medi-Cal: tobacco cessation.",CA
+CA_20150AB116393CHP,CA_201520160AB1163,2015-10-04,Chaptered,"Health care service plans and health insurers: solicitors and life agents: notice of contract changes.",CA
+CA_20150AB116394ENR,CA_201520160AB1163,2015-09-09,Enrolled,"Health care service plans and health insurers: solicitors and life agents: notice of contract changes.",CA
+CA_20150AB116395AMD,CA_201520160AB1163,2015-08-31,"Amended Senate","Health care service plans and health insurers: solicitors and life agents: notice of contract changes.",CA
+CA_20150AB116396AMD,CA_201520160AB1163,2015-07-14,"Amended Senate","Health care service plans and health insurers: solicitors, agents and brokers: notice of contract changes.",CA
+CA_20150AB116397AMD,CA_201520160AB1163,2015-05-12,"Amended Assembly","Health care services plan and health insurers: agents and brokers: notice of contract changes.",CA
+CA_20150AB116398AMD,CA_201520160AB1163,2015-04-21,"Amended Assembly","Health care services plan and health insurers: agents and brokers: notice of contract changes.",CA
+CA_20150AB116399INT,CA_201520160AB1163,2015-02-27,Introduced,"Health care services plan and health insurers: agents and brokers: notice of contract changes.",CA
+CA_20150AB116490CHP,CA_201520160AB1164,2015-10-09,Chaptered,"Water conservation: drought tolerant landscaping.",CA
+CA_20150AB116491ENR,CA_201520160AB1164,2015-09-16,Enrolled,"Water conservation: drought tolerant landscaping.",CA
+CA_20150AB116492AMD,CA_201520160AB1164,2015-09-04,"Amended Senate","Water conservation: drought tolerant landscaping.",CA
+CA_20150AB116493AMD,CA_201520160AB1164,2015-09-01,"Amended Senate","Water conservation: drought tolerant landscaping.",CA
+CA_20150AB116494AMD,CA_201520160AB1164,2015-07-16,"Amended Senate","Water conservation: drought tolerant landscaping.",CA
+CA_20150AB116495AMD,CA_201520160AB1164,2015-07-01,"Amended Senate","Water conservation: drought tolerant landscaping.",CA
+CA_20150AB116496AMD,CA_201520160AB1164,2015-06-22,"Amended Senate","Water conservation: drought tolerant landscaping.",CA
+CA_20150AB116497AMD,CA_201520160AB1164,2015-04-21,"Amended Assembly","State highways: evaluation and rating.",CA
+CA_20150AB116498AMD,CA_201520160AB1164,2015-03-26,"Amended Assembly","State highways: performance measures.",CA
+CA_20150AB116499INT,CA_201520160AB1164,2015-02-27,Introduced,"Autonomous vehicles.",CA
+CA_20150AB116599INT,CA_201520160AB1165,2015-02-27,Introduced,"Vocational nursing: secondary and post-secondary education.",CA
+CA_20150AB116696CHP,CA_201520160AB1166,2015-08-11,Chaptered,"Pupils in foster care: pupils who are homeless children or youth: school transfer: exemption from local graduation requirements.",CA
+CA_20150AB116697ENR,CA_201520160AB1166,2015-07-13,Enrolled,"Pupils in foster care: pupils who are homeless children or youth: school transfer: exemption from local graduation requirements.",CA
+CA_20150AB116698AMD,CA_201520160AB1166,2015-06-29,"Amended Senate","Pupils in foster care: pupils who are homeless children or youth: school transfer: exemption from local graduation requirements.",CA
+CA_20150AB116699INT,CA_201520160AB1166,2015-02-27,Introduced,"Pupils in foster care: pupils who are homeless children or youth: school transfer: exemption from local graduation requirements.",CA
+CA_20150AB116799INT,CA_201520160AB1167,2015-02-27,Introduced,"Courts: frivolous actions or proceedings.",CA
+CA_20150AB116896CHP,CA_201520160AB1168,2015-08-13,Chaptered,"Peace officers: basic training requirements.",CA
+CA_20150AB116897ENR,CA_201520160AB1168,2015-07-13,Enrolled,"Peace officers: basic training requirements.",CA
+CA_20150AB116898AMD,CA_201520160AB1168,2015-06-16,"Amended Senate","Peace officers: basic training requirements.",CA
+CA_20150AB116899INT,CA_201520160AB1168,2015-02-27,Introduced,"Peace officers: basic training requirements.",CA
+CA_20150AB11696CHP,CA_201520160AB116,2015-06-24,Chaptered,"Budget Act of 2014: augmentation.",CA
+CA_20150AB11697ENR,CA_201520160AB116,2015-06-15,Enrolled,"Budget Act of 2014: augmentation.",CA
+CA_20150AB11698AMD,CA_201520160AB116,2015-06-11,"Amended Senate","Budget Act of 2014: augmentation.",CA
+CA_20150AB116994AMD,CA_201520160AB1169,2016-08-09,"Amended Senate","Economic development: Capital Access Loan Program.",CA
+CA_20150AB116995AMD,CA_201520160AB1169,2015-09-04,"Amended Senate"," Strategic Growth Council: state funding signs.",CA
+CA_20150AB116996AMD,CA_201520160AB1169,2015-08-17,"Amended Senate"," Strategic Growth Council: state funding signs.",CA
+CA_20150AB116997AMD,CA_201520160AB1169,2015-04-20,"Amended Assembly"," Strategic Growth Council: state funding signs.",CA
+CA_20150AB116998AMD,CA_201520160AB1169,2015-03-26,"Amended Assembly"," Strategic Growth Council: state funding signs.",CA
+CA_20150AB116999INT,CA_201520160AB1169,2015-02-27,Introduced,"Submerged lands.",CA
+CA_20150AB11699INT,CA_201520160AB116,2015-01-09,Introduced,"Budget Act of 2015.",CA
+CA_20150AB117099INT,CA_201520160AB1170,2015-02-27,Introduced,"Workers’ compensation.",CA
+CA_20150AB117194CHP,CA_201520160AB1171,2015-10-01,Chaptered,"Construction Manager/General Contractor method: regional transportation agencies: projects on expressways.",CA
+CA_20150AB117195ENR,CA_201520160AB1171,2015-08-18,Enrolled,"Construction Manager/General Contractor method: regional transportation agencies: projects on expressways.",CA
+CA_20150AB117196AMD,CA_201520160AB1171,2015-06-19,"Amended Senate","Construction Manager/General Contractor method: regional transportation agencies: projects on expressways.",CA
+CA_20150AB117197AMD,CA_201520160AB1171,2015-04-21,"Amended Assembly","Construction Manager/General Contractor method: regional transportation agencies: projects on expressways.",CA
+CA_20150AB117198AMD,CA_201520160AB1171,2015-04-14,"Amended Assembly","Construction Manager/General Contractor method: regional transportation agencies: projects on expressways.",CA
+CA_20150AB117199INT,CA_201520160AB1171,2015-02-27,Introduced,"Construction Manager/General Contractor method: regional transportation agencies: projects on expressways.",CA
+CA_20150AB117297AMD,CA_201520160AB1172,2015-08-31,"Amended Senate","California cyber security.",CA
+CA_20150AB117298AMD,CA_201520160AB1172,2015-07-02,"Amended Senate","California cyber security.",CA
+CA_20150AB117299INT,CA_201520160AB1172,2015-02-27,Introduced,"California cyber security.",CA
+CA_20150AB117398AMD,CA_201520160AB1173,2015-03-26,"Amended Assembly","Water equipment: backflow prevention devices testing: certification.",CA
+CA_20150AB117399INT,CA_201520160AB1173,2015-02-27,Introduced,"Water equipment: backflow protection programs.",CA
+CA_20150AB117492ENR,CA_201520160AB1174,2016-08-31,Enrolled,"Automotive Repair Act: violations: regulations: reports.",CA
+CA_20150AB117493AMD,CA_201520160AB1174,2016-08-02,"Amended Senate","Automotive Repair Act: violations: regulations: reports.",CA
+CA_20150AB117494AMD,CA_201520160AB1174,2016-06-20,"Amended Senate","Automotive Repair Act: violations: regulations: reports.",CA
+CA_20150AB117495AMD,CA_201520160AB1174,2016-06-08,"Amended Senate","Automotive Repair Act: violations: regulations: reports.",CA
+CA_20150AB117496AMD,CA_201520160AB1174,2016-03-07,"Amended Senate","Automotive Repair Act: violations: response.",CA
+CA_20150AB117497AMD,CA_201520160AB1174,2016-01-04,"Amended Assembly","Healing arts: licensee records.",CA
+CA_20150AB117498AMD,CA_201520160AB1174,2015-04-20,"Amended Assembly","Health research: women’s health.",CA
+CA_20150AB117499INT,CA_201520160AB1174,2015-02-27,Introduced,"Women’s health.",CA
+CA_20150AB117596CHP,CA_201520160AB1175,2015-08-12,Chaptered,"Bureau of Electronic and Appliance Repair, Home Furnishings, and Thermal Insulation. ",CA
+CA_20150AB117597ENR,CA_201520160AB1175,2015-07-13,Enrolled,"Bureau of Electronic and Appliance Repair, Home Furnishings, and Thermal Insulation. ",CA
+CA_20150AB117598AMD,CA_201520160AB1175,2015-04-14,"Amended Assembly","Bureau of Electronic and Appliance Repair, Home Furnishings, and Thermal Insulation. ",CA
+CA_20150AB117599INT,CA_201520160AB1175,2015-02-27,Introduced,"Bureau of Electronic and Appliance Repair, Home Furnishings, and Thermal Insulation. ",CA
+CA_20150AB117691ENR,CA_201520160AB1176,2016-07-01,Enrolled,"Theft: firearms.",CA
+CA_20150AB117692AMD,CA_201520160AB1176,2016-06-30,"Amended Senate","Theft: firearms.",CA
+CA_20150AB117693AMD,CA_201520160AB1176,2016-05-04,"Amended Senate","Theft: firearms.",CA
+CA_20150AB117694AMD,CA_201520160AB1176,2015-08-18,"Amended Senate","Vehicular air pollution.",CA
+CA_20150AB117695AMD,CA_201520160AB1176,2015-07-07,"Amended Senate","Vehicular air pollution.",CA
+CA_20150AB117696AMD,CA_201520160AB1176,2015-06-01,"Amended Assembly","Vehicular air pollution.",CA
+CA_20150AB117697AMD,CA_201520160AB1176,2015-04-23,"Amended Assembly","Vehicular air pollution.",CA
+CA_20150AB117698AMD,CA_201520160AB1176,2015-04-20,"Amended Assembly","Vehicular air pollution.",CA
+CA_20150AB117699INT,CA_201520160AB1176,2015-02-27,Introduced,"Vehicular air pollution.",CA
+CA_20150AB117793CHP,CA_201520160AB1177,2015-10-09,Chaptered,"Primary care clinics: written transfer agreements.",CA
+CA_20150AB117794ENR,CA_201520160AB1177,2015-09-14,Enrolled,"Primary care clinics: written transfer agreements.",CA
+CA_20150AB117795AMD,CA_201520160AB1177,2015-09-04,"Amended Senate","Primary care clinics: written transfer agreements.",CA
+CA_20150AB117796AMD,CA_201520160AB1177,2015-08-24,"Amended Senate","Primary care clinics: written transfer agreements.",CA
+CA_20150AB117797AMD,CA_201520160AB1177,2015-07-16,"Amended Senate","Primary care clinics: written transfer agreements.",CA
+CA_20150AB117798AMD,CA_201520160AB1177,2015-07-08,"Amended Senate","Primary care clinics: written transfer agreements.",CA
+CA_20150AB117799INT,CA_201520160AB1177,2015-02-27,Introduced,"Primary care clinics: written transfer agreements.",CA
+CA_20150AB117891CHP,CA_201520160AB1178,2015-10-06,Chaptered,"Vehicles: manufacturers and distributors.",CA
+CA_20150AB117892ENR,CA_201520160AB1178,2015-09-14,Enrolled,"Vehicles: manufacturers and distributors.",CA
+CA_20150AB117893AMD,CA_201520160AB1178,2015-09-04,"Amended Senate","Vehicles: manufacturers and distributors.",CA
+CA_20150AB117894AMD,CA_201520160AB1178,2015-08-17,"Amended Senate","Vehicles: manufacturers and distributors.",CA
+CA_20150AB117895AMD,CA_201520160AB1178,2015-07-16,"Amended Senate","Vehicles: manufacturers and distributors.",CA
+CA_20150AB117896AMD,CA_201520160AB1178,2015-06-23,"Amended Senate","Vehicles: manufacturers and distributors.",CA
+CA_20150AB117897AMD,CA_201520160AB1178,2015-06-02,"Amended Assembly","Vehicles: manufacturers and distributors.",CA
+CA_20150AB117898AMD,CA_201520160AB1178,2015-03-26,"Amended Assembly","Vehicles: manufacturers and distributors.",CA
+CA_20150AB117899INT,CA_201520160AB1178,2015-02-27,Introduced,"Vehicles: manufacturers and distributors.",CA
+CA_20150AB11796CHP,CA_201520160AB117,2015-06-24,Chaptered,"Public resources.",CA
+CA_20150AB11797ENR,CA_201520160AB117,2015-06-19,Enrolled,"Public resources.",CA
+CA_20150AB11798AMD,CA_201520160AB117,2015-06-16,"Amended Senate","Public resources.",CA
+CA_20150AB117999INT,CA_201520160AB1179,2015-02-27,Introduced,"California Global Warming Solutions Act of 2006: disadvantaged communities: report.",CA
+CA_20150AB11799INT,CA_201520160AB117,2015-01-09,Introduced,"Budget Act of 2015.",CA
+CA_20150AB118092CHP,CA_201520160AB1180,2016-09-09,Chaptered,"Rates and charges for water service: payment transaction fees.",CA
+CA_20150AB118093ENR,CA_201520160AB1180,2016-08-23,Enrolled,"Rates and charges for water service: payment transaction fees.",CA
+CA_20150AB118094AMD,CA_201520160AB1180,2016-08-08,"Amended Senate","Rates and charges for water service: payment transaction fees.",CA
+CA_20150AB118095AMD,CA_201520160AB1180,2016-06-06,"Amended Senate","Rates and charges for water service: payment transaction fees.",CA
+CA_20150AB118096AMD,CA_201520160AB1180,2016-01-13,"Amended Assembly","Rates and charges for water service: payment transaction fees.",CA
+CA_20150AB118097AMD,CA_201520160AB1180,2016-01-04,"Amended Assembly","Rates and charges for water service: payment transaction fees.",CA
+CA_20150AB118098AMD,CA_201520160AB1180,2015-04-09,"Amended Assembly","Rates and charges for electric, gas, and water service: credit or debit card payment.",CA
+CA_20150AB118099INT,CA_201520160AB1180,2015-02-27,Introduced,"Rates and charges for electric, gas, and water service: credit or debit card payment.",CA
+CA_20150AB118198AMD,CA_201520160AB1181,2015-03-26,"Amended Assembly","Career technical education.",CA
+CA_20150AB118199INT,CA_201520160AB1181,2015-02-27,Introduced,"Adult education programs: qualification: federal Pell Grant Program.",CA
+CA_20150AB118292CHP,CA_201520160AB1182,2015-10-10,Chaptered,"Secondhand goods: tangible personal property.",CA
+CA_20150AB118293ENR,CA_201520160AB1182,2015-09-11,Enrolled,"Secondhand goods: tangible personal property.",CA
+CA_20150AB118294AMD,CA_201520160AB1182,2015-09-03,"Amended Senate","Secondhand goods: tangible personal property.",CA
+CA_20150AB118295AMD,CA_201520160AB1182,2015-08-18,"Amended Senate","Secondhand goods: tangible personal property.",CA
+CA_20150AB118296AMD,CA_201520160AB1182,2015-05-05,"Amended Assembly","Secondhand goods: tangible personal property.",CA
+CA_20150AB118297AMD,CA_201520160AB1182,2015-04-21,"Amended Assembly","Secondhand goods: tangible personal property.",CA
+CA_20150AB118298AMD,CA_201520160AB1182,2015-03-26,"Amended Assembly","Secondhand goods: tangible personal property.",CA
+CA_20150AB118299INT,CA_201520160AB1182,2015-02-27,Introduced,"Physicians and surgeons: licensure.",CA
+CA_20150AB118399INT,CA_201520160AB1183,2015-02-27,Introduced,"Sales and use taxes: deficiencies: judgment of dissolution of marriage.",CA
+CA_20150AB118498AMD,CA_201520160AB1184,2015-03-26,"Amended Assembly","School employees: San Jose Unified School District.",CA
+CA_20150AB118499INT,CA_201520160AB1184,2015-02-27,Introduced,"School employees: San Jose Unified School District.",CA
+CA_20150AB118593CHP,CA_201520160AB1185,2015-10-11,Chaptered,"Los Angeles Unified School District: best value procurement: pilot program. ",CA
+CA_20150AB118594ENR,CA_201520160AB1185,2015-09-08,Enrolled,"Los Angeles Unified School District: best value procurement: pilot program. ",CA
+CA_20150AB118595AMD,CA_201520160AB1185,2015-08-31,"Amended Senate","Los Angeles Unified School District: best value procurement: pilot program. ",CA
+CA_20150AB118596AMD,CA_201520160AB1185,2015-07-01,"Amended Senate","Los Angeles Unified School District: best value procurement: pilot program. ",CA
+CA_20150AB118597AMD,CA_201520160AB1185,2015-05-20,"Amended Assembly","Los Angeles Unified School District: best value procurement: pilot program. ",CA
+CA_20150AB118598AMD,CA_201520160AB1185,2015-05-06,"Amended Assembly","Los Angeles Unified School District: best value procurement: pilot program. ",CA
+CA_20150AB118599INT,CA_201520160AB1185,2015-02-27,Introduced,"Los Angeles Unified School District: best value procurement: pilot program. ",CA
+CA_20150AB118699INT,CA_201520160AB1186,2015-02-27,Introduced,Bribery.,CA
+CA_20150AB118799INT,CA_201520160AB1187,2015-02-27,Introduced,"Limited liability companies.",CA
+CA_20150AB118897AMD,CA_201520160AB1188,2015-09-04,"Amended Senate","Importation or sale of endangered animals.",CA
+CA_20150AB118898AMD,CA_201520160AB1188,2015-09-01,"Amended Senate","Importation or sale of endangered animals.",CA
+CA_20150AB118899INT,CA_201520160AB1188,2015-02-27,Introduced,"Gambling: key employee.",CA
+CA_20150AB11896CHP,CA_201520160AB118,2016-04-20,Chaptered,"Hazardous substances: cleanup: Exide Technologies facility.",CA
+CA_20150AB11897ENR,CA_201520160AB118,2016-04-15,Enrolled,"Hazardous substances: cleanup: Exide Technologies facility.",CA
+CA_20150AB11898AMD,CA_201520160AB118,2016-04-05,"Amended Senate","Hazardous substances: cleanup: Exide Technologies facility.",CA
+CA_20150AB118997AMD,CA_201520160AB1189,2015-09-11,"Amended Assembly","Department of Alcoholic Beverage Control: special on-sale general license: for-profit theater.",CA
+CA_20150AB118998AMD,CA_201520160AB1189,2015-04-06,"Amended Assembly","Department of Alcoholic Beverage Control: report. ",CA
+CA_20150AB118999INT,CA_201520160AB1189,2015-02-27,Introduced,"Alcoholic beverages: tied-house restrictions: advertising. ",CA
+CA_20150AB11899INT,CA_201520160AB118,2015-01-09,Introduced,"Budget Act of 2015.",CA
+CA_20150AB119099INT,CA_201520160AB1190,2015-02-27,Introduced,"Public employees: retirement: elections.",CA
+CA_20150AB119195CHP,CA_201520160AB1191,2015-09-08,Chaptered,"Quimby Act: fees. ",CA
+CA_20150AB119196ENR,CA_201520160AB1191,2015-08-18,Enrolled,"Quimby Act: fees. ",CA
+CA_20150AB119197AMD,CA_201520160AB1191,2015-06-24,"Amended Senate","Quimby Act: fees. ",CA
+CA_20150AB119198AMD,CA_201520160AB1191,2015-05-18,"Amended Assembly","Quimby Act: fees. ",CA
+CA_20150AB119199INT,CA_201520160AB1191,2015-02-27,Introduced,"Quimby Act: fees. ",CA
+CA_20150AB119297AMD,CA_201520160AB1192,2015-04-06,"Amended Assembly","Fair Information Practices Act.",CA
+CA_20150AB119298AMD,CA_201520160AB1192,2015-03-26,"Amended Assembly","California Global Warming Solutions Act of 2006: very low carbon transportation fuels.",CA
+CA_20150AB119299INT,CA_201520160AB1192,2015-02-27,Introduced,"Landscape irrigation equipment: performance standards and labeling requirements.",CA
+CA_20150AB119398AMD,CA_201520160AB1193,2015-04-30,"Amended Assembly","Mental health services: assisted outpatient treatment.",CA
+CA_20150AB119399INT,CA_201520160AB1193,2015-02-27,Introduced,"Mental health services: assisted outpatient treatment.",CA
+CA_20150AB119494CHP,CA_201520160AB1194,2015-10-07,Chaptered,"Mental health: involuntary commitment.",CA
+CA_20150AB119495ENR,CA_201520160AB1194,2015-09-11,Enrolled,"Mental health: involuntary commitment.",CA
+CA_20150AB119496AMD,CA_201520160AB1194,2015-09-02,"Amended Senate","Mental health: involuntary commitment.",CA
+CA_20150AB119497AMD,CA_201520160AB1194,2015-07-06,"Amended Senate","Mental health: involuntary commitment.",CA
+CA_20150AB119498AMD,CA_201520160AB1194,2015-05-06,"Amended Assembly","Mental health: involuntary commitment.",CA
+CA_20150AB119499INT,CA_201520160AB1194,2015-02-27,Introduced,"Mental health: involuntary commitment.",CA
+CA_20150AB119597CHP,CA_201520160AB1195,2015-09-08,Chaptered,"California Debt Limit Allocation Committee: American Recovery and Reinvestment Act of 2009.",CA
+CA_20150AB119598ENR,CA_201520160AB1195,2015-08-21,Enrolled,"California Debt Limit Allocation Committee: American Recovery and Reinvestment Act of 2009.",CA
+CA_20150AB119599INT,CA_201520160AB1195,2015-02-27,Introduced,"California Debt Limit Allocation Committee: American Recovery and Reinvestment Act of 2009.",CA
+CA_20150AB119698AMD,CA_201520160AB1196,2016-01-04,"Amended Assembly","Commission for Economic Development.",CA
+CA_20150AB119699INT,CA_201520160AB1196,2015-02-27,Introduced,"Commission for Economic Development.",CA
+CA_20150AB119793CHP,CA_201520160AB1197,2015-09-28,Chaptered,"Deposition notices.",CA
+CA_20150AB119794ENR,CA_201520160AB1197,2015-08-31,Enrolled,"Deposition notices.",CA
+CA_20150AB119795AMD,CA_201520160AB1197,2015-07-15,"Amended Senate","Deposition notices.",CA
+CA_20150AB119796AMD,CA_201520160AB1197,2015-06-23,"Amended Senate","Deposition notices.",CA
+CA_20150AB119797AMD,CA_201520160AB1197,2015-04-16,"Amended Assembly","Deposition notices.",CA
+CA_20150AB119798AMD,CA_201520160AB1197,2015-04-06,"Amended Assembly","Deposition notices.",CA
+CA_20150AB119799INT,CA_201520160AB1197,2015-02-27,Introduced,"Depositions: officers.",CA
+CA_20150AB119895ENR,CA_201520160AB1198,2016-08-30,Enrolled,"School facilities: California School Finance Authority: California Credit Enhancement Program.",CA
+CA_20150AB119896AMD,CA_201520160AB1198,2015-08-18,"Amended Senate","School facilities: California School Finance Authority: California Credit Enhancement Program.",CA
+CA_20150AB119897AMD,CA_201520160AB1198,2015-05-06,"Amended Assembly","School facilities: California School Finance Authority: California Credit Enhancement Program.",CA
+CA_20150AB119898AMD,CA_201520160AB1198,2015-03-26,"Amended Assembly","School facilities: California School Finance Authority: California Credit Enhancement Program.",CA
+CA_20150AB119899INT,CA_201520160AB1198,2015-02-27,Introduced,"School facilities: California School Finance Authority: Credit Enhancement Program.",CA
+CA_20150AB1198AMD,CA_201520160AB11,2015-03-11,"Amended Assembly","Employment: paid sick days: in-home supportive services.",CA
+CA_20150AB11996CHP,CA_201520160AB119,2015-06-24,Chaptered,"Public health: Medi-Cal: nursing facilities.",CA
+CA_20150AB11997ENR,CA_201520160AB119,2015-06-15,Enrolled,"Public health: Medi-Cal: nursing facilities.",CA
+CA_20150AB11998AMD,CA_201520160AB119,2015-06-11,"Amended Senate","Public health: Medi-Cal: nursing facilities.",CA
+CA_20150AB119999INT,CA_201520160AB1199,2015-02-27,Introduced,"Income taxes: credits: motion pictures. ",CA
+CA_20150AB11999INT,CA_201520160AB119,2015-01-09,Introduced,"Budget Act of 2015.",CA
+CA_20150AB1199INT,CA_201520160AB11,2014-12-01,Introduced,"Employment: paid sick days: in-home supportive services.",CA
+CA_20150AB120093ENR,CA_201520160AB1200,2016-05-03,Enrolled,"Political Reform Act of 1974: lobbying: procurement contracts.",CA
+CA_20150AB120094AMD,CA_201520160AB1200,2016-02-10,"Amended Senate","Political Reform Act of 1974: lobbying: procurement contracts.",CA
+CA_20150AB120095AMD,CA_201520160AB1200,2015-08-26,"Amended Senate","Political Reform Act of 1974: lobbying: procurement contracts.",CA
+CA_20150AB120096AMD,CA_201520160AB1200,2015-06-30,"Amended Senate","Political Reform Act of 1974: lobbying: procurement contracts.",CA
+CA_20150AB120097AMD,CA_201520160AB1200,2015-05-19,"Amended Assembly","Political Reform Act of 1974: lobbying: procurement contracts.",CA
+CA_20150AB120098AMD,CA_201520160AB1200,2015-04-07,"Amended Assembly","Political Reform Act of 1974: lobbying: procurement contracts.",CA
+CA_20150AB120099INT,CA_201520160AB1200,2015-02-27,Introduced,"Political Reform Act of 1974: lobbying: procurement contracts.",CA
+CA_20150AB120193AMD,CA_201520160AB1201,2015-08-17,"Amended Senate","Fish and wildlife: Sacramento-San Joaquin Delta: predation by nonnative species.",CA
+CA_20150AB120194AMD,CA_201520160AB1201,2015-07-16,"Amended Senate","Fish and wildlife: Sacramento-San Joaquin Delta: predation by nonnative species.",CA
+CA_20150AB120195AMD,CA_201520160AB1201,2015-07-07,"Amended Senate","Fish and wildlife: Sacramento-San Joaquin Delta: predation by nonnative species.",CA
+CA_20150AB120196AMD,CA_201520160AB1201,2015-06-02,"Amended Assembly","Fish and wildlife: Sacramento-San Joaquin Delta: predation by nonnative species.",CA
+CA_20150AB120197AMD,CA_201520160AB1201,2015-04-22,"Amended Assembly","Fish and wildlife: Sacramento-San Joaquin Delta: predation by nonnative species.",CA
+CA_20150AB120198AMD,CA_201520160AB1201,2015-03-26,"Amended Assembly","Delta Stewardship Council.",CA
+CA_20150AB120199INT,CA_201520160AB1201,2015-02-27,Introduced,"Water quality.",CA
+CA_20150AB120298AMD,CA_201520160AB1202,2015-05-05,"Amended Assembly","Fire prevention fee: fee reduction.",CA
+CA_20150AB120299INT,CA_201520160AB1202,2015-02-27,Introduced,"Fire prevention fee: fee reduction.",CA
+CA_20150AB120398AMD,CA_201520160AB1203,2015-04-06,"Amended Assembly","Office of Emergency Services: property insurance surcharge.",CA
+CA_20150AB120399INT,CA_201520160AB1203,2015-02-27,Introduced,"Office of Emergency Services: Fire Fighter Apprenticeship Program: training: crude oil spills.",CA
+CA_20150AB120494CHP,CA_201520160AB1204,2015-10-02,Chaptered,"Instructional Quality Commission: membership: pupil members.",CA
+CA_20150AB120495ENR,CA_201520160AB1204,2015-09-11,Enrolled,"Instructional Quality Commission: membership: pupil members.",CA
+CA_20150AB120496AMD,CA_201520160AB1204,2015-09-02,"Amended Senate","Instructional Quality Commission: membership: pupil members.",CA
+CA_20150AB120497AMD,CA_201520160AB1204,2015-05-04,"Amended Assembly","Instructional Quality Commission: membership: pupil members.",CA
+CA_20150AB120498AMD,CA_201520160AB1204,2015-04-07,"Amended Assembly","Instructional Quality Commission: membership: pupil members.",CA
+CA_20150AB120499INT,CA_201520160AB1204,2015-02-27,Introduced,"Instructional Quality Commission: membership: pupil members.",CA
+CA_20150AB120594AMD,CA_201520160AB1205,2016-06-20,"Amended Senate","Hazardous waste: facilities permitting.",CA
+CA_20150AB120595AMD,CA_201520160AB1205,2015-07-16,"Amended Senate","The California River Revitalization and Greenway Development Act of 2015.",CA
+CA_20150AB120596AMD,CA_201520160AB1205,2015-05-05,"Amended Assembly","The California River Revitalization and Greenway Development Act of 2015.",CA
+CA_20150AB120597AMD,CA_201520160AB1205,2015-04-08,"Amended Assembly","The California River Revitalization and Greenway Development Act of 2015.",CA
+CA_20150AB120598AMD,CA_201520160AB1205,2015-03-26,"Amended Assembly","Park access.",CA
+CA_20150AB120599INT,CA_201520160AB1205,2015-02-27,Introduced,"Park access.",CA
+CA_20150AB120698AMD,CA_201520160AB1206,2015-04-15,"Amended Assembly","School accountability: local control and accountability plans: California Collaborative for Educational Excellence. ",CA
+CA_20150AB120699INT,CA_201520160AB1206,2015-02-27,Introduced,"School accountability: local control and accountability plans: California Collaborative for Educational Excellence. ",CA
+CA_20150AB120794CHP,CA_201520160AB1207,2015-10-01,Chaptered,"Mandated child abuse reporting: child day care personnel: training.",CA
+CA_20150AB120795ENR,CA_201520160AB1207,2015-09-16,Enrolled,"Mandated child abuse reporting: child day care personnel: training.",CA
+CA_20150AB120796AMD,CA_201520160AB1207,2015-09-04,"Amended Senate","Mandated child abuse reporting: child day care personnel: training.",CA
+CA_20150AB120797AMD,CA_201520160AB1207,2015-08-31,"Amended Senate","Mandated child abuse reporting: child day care personnel: training.",CA
+CA_20150AB120798AMD,CA_201520160AB1207,2015-06-10,"Amended Senate","Mandated child abuse reporting: child day care personnel: training.",CA
+CA_20150AB120799INT,CA_201520160AB1207,2015-02-27,Introduced,"Mandated child abuse reporting: child day care licensees: training.",CA
+CA_20150AB120898AMD,CA_201520160AB1208,2015-03-26,"Amended Assembly","Specialty contractors: automatic fire extinguisher systems: license exemption.",CA
+CA_20150AB120899INT,CA_201520160AB1208,2015-02-27,Introduced,"Specialty contractors.",CA
+CA_20150AB12096CHP,CA_201520160AB120,2016-04-29,Chaptered,"Budget Act of 2015.",CA
+CA_20150AB12097ENR,CA_201520160AB120,2016-04-28,Enrolled,"Budget Act of 2015.",CA
+CA_20150AB12098AMD,CA_201520160AB120,2016-04-21,"Amended Senate","Budget Act of 2015.",CA
+CA_20150AB120999INT,CA_201520160AB1209,2015-02-27,Introduced,"Corporation taxes.",CA
+CA_20150AB12099INT,CA_201520160AB120,2015-01-09,Introduced,"Budget Act of 2015.",CA
+CA_20150AB121099INT,CA_201520160AB1210,2015-02-27,Introduced,"Personal income tax.",CA
+CA_20150AB121194CHP,CA_201520160AB1211,2015-10-04,Chaptered,"Health care facilities: congregate living health facility. ",CA
+CA_20150AB121195ENR,CA_201520160AB1211,2015-09-03,Enrolled,"Health care facilities: congregate living health facility. ",CA
+CA_20150AB121196AMD,CA_201520160AB1211,2015-08-19,"Amended Senate","Health care facilities: congregate living health facility. ",CA
+CA_20150AB121197AMD,CA_201520160AB1211,2015-05-28,"Amended Senate","Health care facilities: congregate living health facility. ",CA
+CA_20150AB121198AMD,CA_201520160AB1211,2015-03-24,"Amended Assembly","Health care facilities: congregate living health facility. ",CA
+CA_20150AB121199INT,CA_201520160AB1211,2015-02-27,Introduced,"Residential care facilities for the elderly: ",CA
+CA_20150AB121299INT,CA_201520160AB1212,2015-02-27,Introduced,"Postsecondary education: Student Freedom of Association Act.",CA
+CA_20150AB121399INT,CA_201520160AB1213,2015-02-27,Introduced,"Offender Global Positioning System Database.",CA
+CA_20150AB121499INT,CA_201520160AB1214,2015-02-27,Introduced,"Probation sentencing report: good cause continuance.",CA
+CA_20150AB121598AMD,CA_201520160AB1215,2015-03-26,"Amended Assembly"," California Open Data Standard.",CA
+CA_20150AB121599INT,CA_201520160AB1215,2015-02-27,Introduced,"Open government.",CA
+CA_20150AB121697AMD,CA_201520160AB1216,2016-05-31,"Amended Senate","Limitations on cost sharing: family coverage.",CA
+CA_20150AB121698AMD,CA_201520160AB1216,2015-05-14,"Amended Assembly","Medi-Cal: plan amendments and waiver applications.",CA
+CA_20150AB121699INT,CA_201520160AB1216,2015-02-27,Introduced,"Medi-Cal: plan amendments and waiver applications.",CA
+CA_20150AB121794CHP,CA_201520160AB1217,2016-09-23,Chaptered,"Orange County Fire Authority.",CA
+CA_20150AB121795ENR,CA_201520160AB1217,2016-08-23,Enrolled,"Orange County Fire Authority.",CA
+CA_20150AB121796AMD,CA_201520160AB1217,2016-08-02,"Amended Senate","Orange County Fire Authority.",CA
+CA_20150AB121797AMD,CA_201520160AB1217,2016-06-23,"Amended Senate","Orange County Fire Authority.",CA
+CA_20150AB121798AMD,CA_201520160AB1217,2015-06-09,"Amended Senate","Orange County Fire Authority.",CA
+CA_20150AB121799INT,CA_201520160AB1217,2015-02-27,Introduced,"Orange County Fire Authority.",CA
+CA_20150AB121896AMD,CA_201520160AB1218,2015-07-07,"Amended Senate","Public contracts: disabled veteran business enterprise.",CA
+CA_20150AB121897AMD,CA_201520160AB1218,2015-04-23,"Amended Assembly","Public contracts: disabled veteran business enterprise.",CA
+CA_20150AB121898AMD,CA_201520160AB1218,2015-04-14,"Amended Assembly","Public contracts: disabled veteran business enterprise.",CA
+CA_20150AB121899INT,CA_201520160AB1218,2015-02-27,Introduced,"Public contracts: disabled veteran business enterprise.",CA
+CA_20150AB121999INT,CA_201520160AB1219,2015-02-27,Introduced,"California Cancer Task Force.",CA
+CA_20150AB12199INT,CA_201520160AB121,2015-01-09,Introduced,"Budget Act of 2015.",CA
+CA_20150AB122099INT,CA_201520160AB1220,2015-02-27,Introduced,"Transient occupancy taxes: residential short-term rentals units.",CA
+CA_20150AB122197AMD,CA_201520160AB1221,2016-01-04,"Amended Assembly","Pupil assessment: California Assessment of Student Performance and Progress.",CA
+CA_20150AB122198AMD,CA_201520160AB1221,2015-03-26,"Amended Assembly","Charter schools: operations: instruction with partnership entities.",CA
+CA_20150AB122199INT,CA_201520160AB1221,2015-02-27,Introduced,"State Board of Education.",CA
+CA_20150AB122294CHP,CA_201520160AB1222,2015-09-21,Chaptered,"Tow trucks.",CA
+CA_20150AB122295ENR,CA_201520160AB1222,2015-08-26,Enrolled,"Tow trucks.",CA
+CA_20150AB122296AMD,CA_201520160AB1222,2015-06-23,"Amended Senate","Tow trucks.",CA
+CA_20150AB122297AMD,CA_201520160AB1222,2015-04-29,"Amended Assembly","Tow trucks.",CA
+CA_20150AB122298AMD,CA_201520160AB1222,2015-04-06,"Amended Assembly","Tow trucks.",CA
+CA_20150AB122299INT,CA_201520160AB1222,2015-02-27,Introduced,"Tow trucks.",CA
+CA_20150AB122393CHP,CA_201520160AB1223,2015-09-30,Chaptered,"Emergency medical services: ambulance transportation.",CA
+CA_20150AB122394ENR,CA_201520160AB1223,2015-09-04,Enrolled,"Emergency medical services: ambulance transportation.",CA
+CA_20150AB122395AMD,CA_201520160AB1223,2015-06-30,"Amended Senate","Emergency medical services: ambulance transportation.",CA
+CA_20150AB122396AMD,CA_201520160AB1223,2015-05-14,"Amended Assembly","Emergency medical services: ambulance transportation.",CA
+CA_20150AB122397AMD,CA_201520160AB1223,2015-05-05,"Amended Assembly","Emergency medical services: ambulance transportation.",CA
+CA_20150AB122398AMD,CA_201520160AB1223,2015-04-14,"Amended Assembly","Emergency medical services: noncritical cases.",CA
+CA_20150AB122399INT,CA_201520160AB1223,2015-02-27,Introduced,"Emergency medical services: noncritical cases.",CA
+CA_20150AB122499INT,CA_201520160AB1224,2015-02-27,Introduced,"Postsecondary education: Cal Grant awards.",CA
+CA_20150AB122599INT,CA_201520160AB1225,2015-02-27,Introduced,"Housing: former nonminor dependents: homeless youth.",CA
+CA_20150AB122698AMD,CA_201520160AB1226,2015-04-20,"Amended Assembly","School accountability: local control and accountability plans: state priorities: teacher professional development.",CA
+CA_20150AB122699INT,CA_201520160AB1226,2015-02-27,Introduced,"School accountability: local control and accountability plans: state priorities.",CA
+CA_20150AB122798AMD,CA_201520160AB1227,2015-03-26,"Amended Assembly","Peace officer training: mental health training.",CA
+CA_20150AB122799INT,CA_201520160AB1227,2015-02-27,Introduced,"Peace officer training: mental health.",CA
+CA_20150AB122896CHP,CA_201520160AB1228,2015-10-07,Chaptered,"Public postsecondary education: campus housing: priority for homeless youth.",CA
+CA_20150AB122897ENR,CA_201520160AB1228,2015-09-14,Enrolled,"Public postsecondary education: campus housing: priority for homeless youth.",CA
+CA_20150AB122898AMD,CA_201520160AB1228,2015-09-02,"Amended Senate","Public postsecondary education: campus housing: priority for homeless youth.",CA
+CA_20150AB122899INT,CA_201520160AB1228,2015-02-27,Introduced,"Public postsecondary education: campus housing: priority for homeless youth.",CA
+CA_20150AB122998AMD,CA_201520160AB1229,2015-04-09,"Amended Assembly","Senior Citizen Rent Increase Exemption Program.",CA
+CA_20150AB122999INT,CA_201520160AB1229,2015-02-27,Introduced,"Property taxation: welfare exemption: rental housing and related facilities.",CA
+CA_20150AB12299INT,CA_201520160AB122,2015-01-09,Introduced,"Budget Act of 2015.",CA
+CA_20150AB123093CHP,CA_201520160AB1230,2015-10-11,Chaptered,"California Americans With Disabilities Small Business Capital Access Loan Program.",CA
+CA_20150AB123094ENR,CA_201520160AB1230,2015-09-14,Enrolled,"California Americans With Disabilities Small Business Capital Access Loan Program.",CA
+CA_20150AB123095AMD,CA_201520160AB1230,2015-09-03,"Amended Senate","California Americans With Disabilities Small Business Capital Access Loan Program.",CA
+CA_20150AB123096AMD,CA_201520160AB1230,2015-06-30,"Amended Senate","California Americans With Disabilities Small Business Capital Access Loan Program.",CA
+CA_20150AB123097AMD,CA_201520160AB1230,2015-05-28,"Amended Assembly"," California Americans with Disabilities Act Small Business Compliance Financing Act.",CA
+CA_20150AB123098AMD,CA_201520160AB1230,2015-03-24,"Amended Assembly"," California Americans with Disabilities Act Small Business Compliance Financing Act.",CA
+CA_20150AB123099INT,CA_201520160AB1230,2015-02-27,Introduced,"Zoning regulations: interim ordinances.",CA
+CA_20150AB123194ENR,CA_201520160AB1231,2015-09-14,Enrolled,"Medi-Cal: nonmedical transportation.",CA
+CA_20150AB123195AMD,CA_201520160AB1231,2015-09-04,"Amended Senate","Medi-Cal: nonmedical transportation.",CA
+CA_20150AB123196AMD,CA_201520160AB1231,2015-09-01,"Amended Senate","Medi-Cal: nonmedical transportation.",CA
+CA_20150AB123197AMD,CA_201520160AB1231,2015-06-19,"Amended Senate","Medi-Cal: nonmedical transportation.",CA
+CA_20150AB123198AMD,CA_201520160AB1231,2015-05-28,"Amended Assembly","Medi-Cal: nonmedical transportation.",CA
+CA_20150AB123199INT,CA_201520160AB1231,2015-02-27,Introduced,"Medi-Cal: nonmedical transportation.",CA
+CA_20150AB123295ENR,CA_201520160AB1232,2015-09-03,Enrolled,"Insurance Commissioner: administrative hearings.",CA
+CA_20150AB123296AMD,CA_201520160AB1232,2015-06-29,"Amended Senate","Insurance Commissioner: administrative hearings.",CA
+CA_20150AB123297AMD,CA_201520160AB1232,2015-04-30,"Amended Assembly","Insurance Commissioner: administrative hearings.",CA
+CA_20150AB123298AMD,CA_201520160AB1232,2015-04-13,"Amended Assembly","Insurance Commissioner: administrative hearings.",CA
+CA_20150AB123299INT,CA_201520160AB1232,2015-02-27,Introduced,"Insurance Commissioner: administrative hearings.",CA
+CA_20150AB123395AMD,CA_201520160AB1233,2016-08-01,"Amended Senate","Whistleblower investigation policy: state agencies.",CA
+CA_20150AB123396AMD,CA_201520160AB1233,2016-06-15,"Amended Senate","Whistleblower investigation policy: state agencies.",CA
+CA_20150AB123397AMD,CA_201520160AB1233,2016-01-04,"Amended Assembly","Public works: public subsidies.",CA
+CA_20150AB123398AMD,CA_201520160AB1233,2015-04-15,"Amended Assembly","Distilled spirits manufacturers: licenses: sale on premises tastings.",CA
+CA_20150AB123399INT,CA_201520160AB1233,2015-02-27,Introduced,"Distilled spirits manufacturers: licenses: sale on premises tastings.",CA
+CA_20150AB123493CHP,CA_201520160AB1234,2015-06-30,Chaptered,"State Archives: museum activities.",CA
+CA_20150AB123494ENR,CA_201520160AB1234,2015-06-18,Enrolled,"State Archives: museum activities.",CA
