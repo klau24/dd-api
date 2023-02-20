@@ -24,18 +24,27 @@ class Neo4jDDDB:
             session.execute_write(self._create_Committees)
             print("Adding Bills...")
             session.execute_write(self._create_Bills)
+            print("Adding Motion...")
+            session.execute_write(self._create_Motion)
+            print("Adding BillVersion...")
+            # I removed the title, digest, and text from BillVersion. Is it needed?
+            session.execute_write(self._create_BillVersion)
             print("Adding Lobbyist Org Edge...")
             session.execute_write(self._create_LobbyOrgEdge)
             print("Adding Org Hearing Edge...")
             session.execute_write(self._create_OrgHearingEdge)
             print("Adding Person Utterance Edge...")
             session.execute_write(self._create_PersonUtteranceEdge)
-            print("Adding Legislator Committee Edge")
+            print("Adding Legislator Committee Edge...")
             session.execute_write(self._create_LegislatorCommitteeEdge)
-            print("Adding Committee Hearing Edge")
+            print("Adding Committee Hearing Edge...")
             session.execute_write(self._create_CommitteeHearingEdge)
-            print("Adding Bill Hearing Edge")
+            print("Adding Bill Hearing Edge...")
             session.execute_write(self._create_BillHearingEdge)
+            print("Adding Motion Bill Edge...")
+            session.execute_write(self._create_MotionBillEdge)
+            print("Adding Bill Version Edge...")
+            session.execute_write(self._create_BillHasVersionEdge)
             print("Done...")
         self.driver.close()
 
@@ -97,6 +106,20 @@ class Neo4jDDDB:
                 )
 
     @staticmethod
+    def _create_Motion(tx):
+        tx.run("LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/klau24/dd-api/main/data/motion.csv' AS row \
+                MERGE (m:Motion {mid: row.mid}) \
+                    ON CREATE SET m.text = row.text, m.doPass = row.doPass, m.voteDate = row.VoteDate, m.ayes = row.ayes, m.naes = row.naes, m.abstain = row.abstain, m.result = row.result;"
+                )
+
+    @staticmethod
+    def _create_BillVersion(tx):
+        tx.run("LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/klau24/dd-api/main/data/billVersion.csv' AS row \
+                MERGE (bv:BillVersion {vid: row.vid}) \
+                    ON CREATE SET bv.bid = row.bid, bv.date = row.date, bv.billState = row.billState, bv.subject = row.subject, bv.state = row.state;"   
+                )
+
+    @staticmethod
     def _create_LobbyOrgEdge(tx):
         tx.run("LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/klau24/dd-api/main/data/lobbyist_works_for_org.csv' AS row \
                 MATCH (person:Person {pid: row.pid}) \
@@ -142,6 +165,22 @@ class Neo4jDDDB:
                 MATCH (b:Bill  {bid: row.bid}) \
                 MATCH (h:Hearing {hid: row.hid}) \
                 MERGE (b)-[r:IS_DISCUSSED_IN]->(h);"
+                )
+
+    @staticmethod
+    def _create_MotionBillEdge(tx):
+        tx.run("LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/klau24/dd-api/main/data/motion.csv' AS row \
+                MATCH (m:Motion {mid: row.mid}) \
+                MATCH (b:Bill {bid: row.bid}) \
+                MERGE (m)-[r:RELATES_TO]->(b);"
+                )
+    
+    @staticmethod
+    def _create_BillHasVersionEdge(tx):
+        tx.run("LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/klau24/dd-api/main/data/billVersion.csv' AS row \
+                MATCH (b:Bill {bid: row.bid}) \
+                MATCH (bv:BillVersion {vid: row.vid}) \
+                MERGE (b)-[r:HAS]->(bv);"
                 )
 
 if __name__ == "__main__":
