@@ -30,6 +30,12 @@ class Neo4jDDDB:
             session.execute_write(self._create_OrgHearingEdge)
             print("Adding Person Utterance Edge...")
             session.execute_write(self._create_PersonUtteranceEdge)
+            print("Adding Legislator Committee Edge")
+            session.execute_write(self._create_LegislatorCommitteeEdge)
+            print("Adding Committee Hearing Edge")
+            session.execute_write(self._create_CommitteeHearingEdge)
+            print("Adding Bill Hearing Edge")
+            session.execute_write(self._create_BillHearingEdge)
             print("Done...")
         self.driver.close()
 
@@ -112,6 +118,30 @@ class Neo4jDDDB:
                 MATCH (person:Person  {pid: row.pid}) \
                 MATCH (ut:Utterance {uid: row.uid}) \
                 MERGE (person)-[r:SPOKE]->(ut);"
+                )
+    
+    @staticmethod
+    def _create_LegislatorCommitteeEdge(tx):
+        tx.run("LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/klau24/dd-api/main/data/legislator_memberOf_committee.csv' AS row \
+                MATCH (person:Person  {pid: row.pid}) \
+                MATCH (c:Committee {cid: row.cid, session_year: row.year}) \
+                MERGE (person)-[r:IS_MEMBER_OF]->(c);"
+                )
+    
+    @staticmethod
+    def _create_CommitteeHearingEdge(tx):
+        tx.run("LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/klau24/dd-api/main/data/committee_presentAt_hearing.csv' AS row \
+                MATCH (c:Committee  {cid: row.cid}) \
+                MATCH (h:Hearing {hid: row.hid}) \
+                MERGE (c)-[r:PRESENT_AT]->(h);"
+                )
+
+    @staticmethod
+    def _create_BillHearingEdge(tx):
+        tx.run("LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/klau24/dd-api/main/data/bill_isDiscussedIn_hearing.csv' AS row \
+                MATCH (b:Bill  {bid: row.bid}) \
+                MATCH (h:Hearing {hid: row.hid}) \
+                MERGE (b)-[r:IS_DISCUSSED_IN]->(h);"
                 )
 
 if __name__ == "__main__":
