@@ -45,7 +45,9 @@ class Neo4jDDDB:
             session.execute_write(self._create_MotionBillEdge)
             print("Adding Bill Version Edge...")
             session.execute_write(self._create_BillHasVersionEdge)
-            print("Done...")
+            print("Adding Legislator Motion Edge...")
+            session.execute_write(self._create_LegislatorMotionEdge)
+            print("Done")
         self.driver.close()
 
     @staticmethod
@@ -177,6 +179,14 @@ class Neo4jDDDB:
     
     @staticmethod
     def _create_BillHasVersionEdge(tx):
+        tx.run("LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/klau24/dd-api/main/data/billVersion.csv' AS row \
+                MATCH (b:Bill {bid: row.bid}) \
+                MATCH (bv:BillVersion {vid: row.vid}) \
+                MERGE (b)-[r:HAS]->(bv);"
+                )
+    
+    @staticmethod
+    def _create_LegislatorMotionEdge(tx):
         tx.run("LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/klau24/dd-api/main/data/billVersion.csv' AS row \
                 MATCH (b:Bill {bid: row.bid}) \
                 MATCH (bv:BillVersion {vid: row.vid}) \
