@@ -46,7 +46,6 @@ class Neo4jDDDB:
             print("Adding Bill Version Edge...")
             session.execute_write(self._create_BillHasVersionEdge)
             print("Adding Legislator Motion Edge...")
-            # only a pid of "1" in data?
             session.execute_write(self._create_LegislatorMotionEdge)
             print("Done")
         self.driver.close()
