@@ -10,11 +10,11 @@ def cleanup():
                 csv_reader = csv.reader(x.replace('\0', 'NULL') for x in input_file)
                 rows = list(csv_reader)
 
-            for i in range(len(rows)):
-                rows[i] = [cell.replace('"', '') for cell in rows[i]]
+            # for i in range(len(rows)):
+            #     rows[i] = [cell.replace('"', '') for cell in rows[i]]
                 
             with open(file, 'w', newline='') as output_file:
-                csv_writer = csv.writer(output_file)
+                csv_writer = csv.writer(output_file, quoting=csv.QUOTE_NONE, escapechar='')
                 for row in rows:
                     csv_writer.writerow(row)
 
