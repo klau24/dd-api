@@ -132,7 +132,7 @@ def getGift():
 
 if __name__ == "__main__":
     sql_dddb = dbConnect.create_connection(myCredentials.sql_dddb.hostname, myCredentials.sql_dddb.username, myCredentials.sql_dddb.password, myCredentials.sql_dddb.dbname)
-    app.run(port=5000)
+    app.run(port=8080)
     # res = billSummary("CA_201720180AB569")
     # print(res)
     # res = billWitnesses("TX_20170HB3781")
