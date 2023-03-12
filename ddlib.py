@@ -20,7 +20,7 @@ def billSummary(bid):
     if not bid:
         res['msg'] = "Invalid bid parameter"
         return jsonify(res)
-        
+
     # General bill information
     query = "select BillVersion.subject, Bill.state, Bill.house, Hearing.date \
             from Bill \
@@ -100,6 +100,7 @@ def billVoteSummary(bid):
 
     if cursor1 and cursor2:
         res['status'] = 200
+        res['msg'] = 'OK'
         for (date, ayes, naes, abstain, result) in cursor1:
             res['data']['summary'] = {'date': date.strftime('%m/%d/%Y'), 'ayes': ayes, 'naes': naes, 'abstain': abstain, 'result': result}
         res['data']['votes'] = {}
@@ -141,7 +142,7 @@ def getBehest():
     #   - aggregate by how many request to an org
     pass
 
-@app.route('/gift')
+@app.route('/api/gift/')
 def getGift():
     res = {"status": 400, 'msg': "", 'data': {} }
     first = request.args.get('first')
@@ -172,11 +173,11 @@ def getGift():
             where "
     conditions = []
     if first:
-        conditions.append(f"first='{first}'")
+        conditions.append(f"first='{first.capitalize()}'")
     if last:
-        conditions.append(f"last='{last}'")
+        conditions.append(f"last='{last.capitalize()}'")
     if source:
-        conditions.append(f"source='{source}'")
+        conditions.append(f"source='{source.title()}'")
     if op and value:
         conditions.append(f"value{op}{value}")
     query += " and ".join(conditions)
