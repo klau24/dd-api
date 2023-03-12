@@ -73,3 +73,14 @@ from CommitteeHearings;
 select Bill.bid, HearingAgenda.hid
 from Bill
 inner join HearingAgenda on Bill.bid = HearingAgenda.bid;
+
+-- Behest --
+select official, datePaid, p1.first as payorFirst, p1.last as payorLast, amount, p2.first as payeeFirst, p2.last as payeeLast, description, purpose, noticeReceived, state
+from Behests
+inner join Person p1 on Behests.payor = p1.pid
+inner join Person p2 on Behests.payee = p2.pid;
+
+select RecordId, first, last, schedule, sourceName, activity, city, cityState, value, giftDate, description
+from Gift
+inner join Person on Person.pid = Gift.pid
+where first = 'Luis' and value>100;
