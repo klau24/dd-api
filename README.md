@@ -2,6 +2,10 @@
 
 An API to access the Digital Democracy database and knowledge graph. Work in progress...
 
+Access the API: [http://44.240.238.232:8080](http://44.240.238.232:8080)
+
+Access out the Neo4j Knowledge graph: [http://44.240.238.232:80](http://44.240.238.232:80)
+
 # TODO
 
 - [ ] Create separate flask modules 
