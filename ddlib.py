@@ -4,6 +4,8 @@ from flask import Flask
 
 app = Flask(__name__)
 
+sql_dddb = dbConnect.create_connection(myCredentials.sql_dddb.hostname, myCredentials.sql_dddb.username, myCredentials.sql_dddb.password, myCredentials.sql_dddb.dbname)
+
 @app.route('/')
 def test():
     return "Hello World"
@@ -131,7 +133,6 @@ def getGift():
     pass
 
 if __name__ == "__main__":
-    sql_dddb = dbConnect.create_connection(myCredentials.sql_dddb.hostname, myCredentials.sql_dddb.username, myCredentials.sql_dddb.password, myCredentials.sql_dddb.dbname)
     app.run(port=8080)
     # res = billSummary("CA_201720180AB569")
     # print(res)
