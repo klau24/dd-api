@@ -9,7 +9,7 @@ sql_dddb = dbConnect.create_connection(myCredentials.sql_dddb.hostname, myCreden
 
 @app.route('/')
 def test():
-    return "I made a change on local and pushed to remote"
+    return "Checkout https://github.com/klau24/dd-api for more information"
 
 @app.route('/api/bill/<bid>')
 def billSummary(bid):
