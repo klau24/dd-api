@@ -67,18 +67,6 @@ Example call: `/api/bill/TX_20170HB3781`
 
 ```
 
-#### `GET /api/bill/speakerParticipation/bid`
-
-
-#### `GET /api/bill/video/bid`
-
-
-#### `GET /api/bill/video/transcript/bid`
-
-### Organization
-
-#### `GET /api/org/oid`
-
 ### Gifts & Behest
 
 #### `GET /api/gift/`
@@ -136,8 +124,3 @@ Example call: `/api/gift/?first=luis&op=>&value=100`
   status: 200
 }
 ```
-
-#### `GET /api/behest/[...]`
-
-(params for this call is TBD)
-
