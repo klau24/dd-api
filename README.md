@@ -2,6 +2,11 @@
 
 An API to access the Digital Democracy database and knowledge graph. Work in progress...
 
+# TODO
+
+[] Create separate flask modules 
+[] Setup prettier
+
 # Existing Routes
 
 ### Bill
