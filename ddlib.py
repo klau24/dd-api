@@ -35,6 +35,7 @@ def billSummary(bid):
     orgAlignment = billOrgAlignment(bid)
     voteSummary = billVoteSummary(bid)
     if cursor and witnesses['status'] == 200 and orgAlignment['status'] == 200 and voteSummary['status'] == 200:
+        res['msg'] = 'OK'
         res['status'] = 200
         for (subject, state, house, date) in cursor:
             res['data']['summary'] = { "subject": subject, "state": state, "house": house, "date": date.strftime('%m/%d/%Y') }
