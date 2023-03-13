@@ -143,8 +143,8 @@ def getBehest():
     #   - aggregate by how many request to an org
     pass
 
-@app.route('/api/gift/')
-def getGift():
+@app.route('/api/gifts/')
+def getGifts():
     res = {"status": 400, 'msg': "", 'data': {} }
     first = request.args.get('first')
     last = request.args.get('last')
