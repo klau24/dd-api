@@ -8,7 +8,8 @@ Access out the Neo4j Knowledge graph: [http://44.240.238.232:80](http://44.240.2
 
 # TODO
 
-- [ ] Create separate flask modules 
+- [ ] Create separate flask modules
+- [ ] rate limiting
 - [ ] Setup prettier
 - [ ] add a TOC to this md file
 
