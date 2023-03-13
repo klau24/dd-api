@@ -73,7 +73,7 @@ Example call: `/api/bill/TX_20170HB3781`
 
 ### Gifts
 
-#### `GET /api/gift/`
+#### `GET /api/gifts/`
 
 Returns gift information
 
